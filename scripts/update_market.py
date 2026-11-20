@@ -27,10 +27,20 @@ def score(i):
     earnings=number(i.get("earningsGrowth")); yield_=number(i.get("dividendYield"))
     payout=number(i.get("payoutRatio")); debt=number(i.get("debtToEquity"))
     cap=number(i.get("marketCap")); fcf=number(i.get("freeCashflow"))
-    if yield_ is not None and yield_>1: yield_/=100
+    # Yahoo Finance may return yield as a fraction or in percentage units.
+    dividend_rate=number(i.get("dividendRate"))
+    current_price=number(i.get("currentPrice"))
+    if dividend_rate is not None and current_price and current_price>0:
+        yield_=dividend_rate/current_price
+    elif yield_ is not None and yield_>=0.10:
+        yield_/=100
+    if yield_ is not None and not (0<=yield_<=0.25):
+        yield_=None
     value=clamp(.35*inverse(forward or pe,8,40)+.20*inverse(pb,1,12)+.20*grade(roe,0,.3)+.15*grade(margin,0,.25)+.10*inverse(debt,0,250))
     growth=clamp(.40*grade(revenue,-.05,.35)+.35*grade(earnings,-.1,.5)+.15*grade(margin,-.05,.25)+.10*grade(roe,0,.3))
     income=clamp(.45*grade(yield_,0,.07)+.30*inverse(payout,0.3,1.2)+.15*grade(fcf,0,10000000000)+.10*inverse(debt,0,250))
+    if yield_ is None or yield_<=0: income=0
+    elif yield_<.01: income=min(income,30)
     speculative=clamp(.35*grade(revenue,0,.65)+.25*grade(earnings,-.3,.8)+.20*inverse(cap,1e9,50e9)+.20*grade(margin,-.5,.2))
     risk=clamp(.4*grade(debt,0,300)+.25*inverse(margin,-.3,.25)+.2*inverse(cap,5e8,200e9)+.15*grade(payout,.3,1.5))
     coverage=sum(v is not None for v in (pe,forward,pb,roe,margin,revenue,earnings,yield_,payout,debt,cap,fcf))
