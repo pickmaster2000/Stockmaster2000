@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T18:55:43.076701+00:00",
+  "generated_at": "2026-11-20T18:57:45.277384+00:00",
   "test_type": "Historical technical proxy ONLY; not a backtest of current fundamental scores",
   "strategy": "Equal weight all available curated stocks whose close > 50-day MA > 200-day MA at month end; cash if none; next-close execution",
   "benchmark": "SPY adjusted closing prices",
@@ -317,7 +317,7 @@
       "exit": "2026-03-02",
       "holdings": 49,
       "strategy_return_pct": 1.87,
-      "spy_return_pct": -1.298
+      "spy_return_pct": -1.299
     },
     {
       "decision": "2026-02-27",
