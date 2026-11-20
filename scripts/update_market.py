@@ -107,7 +107,17 @@ def main():
             out["indices"].append(dict(name=name,ticker=sym,close=last,peak=peak,drawdown_pct=round((last/peak-1)*100,2),levels={str(p):round(peak*(1-p/100),2) for p in (5,10,15,20)},as_of=str(c.index[-1].date()),basis="Highest daily close within past 1 year"))
         except Exception as e: print("Index skipped",sym,str(e)[:120])
     sp=next((i for i in out["indices"] if i["ticker"]=="^GSPC"),None)
-    out["market"]={"vix":"Not yet connected","trend":("S&P 500 "+str(sp["drawdown_pct"])+"% from 1y peak") if sp else "Unavailable","entry":"Model-specific scores; not a trade signal"}
+    vix=None
+    try:
+        vh=history(yf.Ticker("^VIX"),"5d")
+        if vh is not None:
+            vc=vh["Close"].dropna()
+            if not vc.empty:
+                vv=number(vc.iloc[-1])
+                if vv is not None and 0<vv<150:
+                    vix={"value":round(vv,2),"as_of":str(vc.index[-1].date()),"interpretation":"Low volatility expectations" if vv<15 else "Moderate volatility expectations" if vv<25 else "Elevated volatility expectations" if vv<35 else "Very elevated volatility expectations"}
+    except Exception as e: print("VIX unavailable",str(e)[:120])
+    out["market"]={"vix":vix,"trend":("S&P 500 "+str(sp["drawdown_pct"])+"% from 1y peak") if sp else "Unavailable","entry":"Model-specific scores; not a trade signal"}
     if not out["stocks"] and not out["indices"]: raise RuntimeError("No usable data; refusing to overwrite prior snapshot")
     Path("data").mkdir(exist_ok=True)
     temp=Path("data/latest.json.tmp");temp.write_text(json.dumps(out,indent=2,allow_nan=False));temp.replace("data/latest.json")
