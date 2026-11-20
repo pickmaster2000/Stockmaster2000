@@ -1,6 +1,6 @@
 {
   "mode": "live",
-  "updated_at": "2026-11-20T18:45:57.420428+00:00",
+  "updated_at": "2026-11-20T18:59:40.549709+00:00",
   "source": "Yahoo Finance via yfinance (unofficial; delayed, missing, or revised data possible)",
   "stocks": [
     {
@@ -8,18 +8,18 @@
         "score": 44,
         "label": "Wait / Higher Risk",
         "reasons": [
-          "RSI(14): 55",
-          "3.3% below one-year closing high",
-          "Forward/trailing P/E: 32.6",
+          "RSI(14): 56",
+          "3.0% below one-year closing high",
+          "Forward/trailing P/E: 32.7",
           "Above 50-day average"
         ],
-        "rsi": 55.1,
-        "drawdown_pct": -3.29
+        "rsi": 56.1,
+        "drawdown_pct": -2.99
       },
       "ticker": "AAPL",
       "name": "Apple Inc.",
       "sector": "Technology",
-      "price": 344.55999755859375,
+      "price": 345.6199951171875,
       "as_of": "2026-11-20",
       "scores": {
         "value": 50,
@@ -32,16 +32,16 @@
       "entry_score": 80,
       "coverage": 12,
       "metrics": {
-        "pe": 38.369713,
-        "forward_pe": 32.5895,
-        "pb": 44.67263,
+        "pe": 38.48775,
+        "forward_pe": 32.68976,
+        "pb": 44.810062,
         "roe": 1.42257,
         "margin": 0.27604,
         "revenue_growth": 0.117,
         "earnings_growth": 0.141,
-        "dividend_yield": 0.0031344323194799164,
+        "dividend_yield": 0.003124819165557549,
         "payout": 0.118,
-        "market_cap": 5007208349696.0
+        "market_cap": 5022612455424.0
       },
       "status": "Delayed public feed"
     },
@@ -50,18 +50,18 @@
         "score": 58,
         "label": "Wait / Higher Risk",
         "reasons": [
-          "RSI(14): 44",
-          "11.9% below one-year closing high",
-          "Forward/trailing P/E: 20.2",
+          "RSI(14): 45",
+          "11.5% below one-year closing high",
+          "Forward/trailing P/E: 20.3",
           "Below 50-day average"
         ],
-        "rsi": 44.4,
-        "drawdown_pct": -11.87
+        "rsi": 45.0,
+        "drawdown_pct": -11.51
       },
       "ticker": "MSFT",
       "name": "Microsoft Corporation",
       "sector": "Technology",
-      "price": 488.8699951171875,
+      "price": 490.8900146484375,
       "as_of": "2026-11-20",
       "scores": {
         "value": 73,
@@ -74,16 +74,16 @@
       "entry_score": 50,
       "coverage": 12,
       "metrics": {
-        "pe": 25.515135,
-        "forward_pe": 20.200539,
-        "pb": 7.716847,
+        "pe": 25.620565,
+        "forward_pe": 20.28156,
+        "pb": 7.748733,
         "roe": 0.34221,
         "margin": 0.41169998,
         "revenue_growth": 0.188,
         "earnings_growth": 0.323,
-        "dividend_yield": 0.00801849162354,
+        "dividend_yield": 0.00798549573224144,
         "payout": 0.19,
-        "market_cap": 3630443528192.0
+        "market_cap": 3645444718592.0
       },
       "status": "Delayed public feed"
     },
@@ -93,17 +93,17 @@
         "label": "Worth Watching",
         "reasons": [
           "RSI(14): 15",
-          "43.4% below one-year closing high",
-          "Forward/trailing P/E: 8.1",
+          "43.2% below one-year closing high",
+          "Forward/trailing P/E: 8.2",
           "Below 50-day average"
         ],
         "rsi": 15.2,
-        "drawdown_pct": -43.44
+        "drawdown_pct": -43.18
       },
       "ticker": "NVDA",
       "name": "NVIDIA Corporation",
       "sector": "Technology",
-      "price": 135.30999755859375,
+      "price": 135.92990112304688,
       "as_of": "2026-11-20",
       "scores": {
         "value": 79,
@@ -116,16 +116,16 @@
       "entry_score": 25,
       "coverage": 12,
       "metrics": {
-        "pe": 14.5338335,
-        "forward_pe": 8.148613,
-        "pb": 12.231965,
+        "pe": 14.600418,
+        "forward_pe": 8.185945,
+        "pb": 12.288004,
         "roe": 1.17364,
         "margin": 0.62535,
         "revenue_growth": 1.032,
         "earnings_growth": 1.077,
-        "dividend_yield": 0.007389890629618682,
+        "dividend_yield": 0.007356733139655072,
         "payout": 0.0354,
-        "market_cap": 3267330310144.0
+        "market_cap": 3282299256832.0
       },
       "status": "Delayed public feed"
     },
@@ -134,18 +134,18 @@
         "score": 58,
         "label": "Wait / Higher Risk",
         "reasons": [
-          "RSI(14): 52",
-          "12.1% below one-year closing high",
-          "Forward/trailing P/E: 22.8",
+          "RSI(14): 53",
+          "11.9% below one-year closing high",
+          "Forward/trailing P/E: 22.9",
           "Below 50-day average"
         ],
-        "rsi": 52.4,
-        "drawdown_pct": -12.12
+        "rsi": 52.8,
+        "drawdown_pct": -11.9
       },
       "ticker": "AMZN",
       "name": "Amazon.com, Inc.",
       "sector": "Consumer Cyclical",
-      "price": 249.5850067138672,
+      "price": 250.22500610351562,
       "as_of": "2026-11-20",
       "scores": {
         "value": 69,
@@ -158,36 +158,36 @@
       "entry_score": 50,
       "coverage": 12,
       "metrics": {
-        "pe": 20.176638,
-        "forward_pe": 22.843052,
-        "pb": 4.3974314,
+        "pe": 20.228376,
+        "forward_pe": 22.901627,
+        "pb": 4.4087076,
         "roe": 0.27416,
         "margin": 0.16900998,
         "revenue_growth": 0.121,
         "earnings_growth": -0.031,
         "dividend_yield": 0.0,
         "payout": 0.0,
-        "market_cap": 2698797121536.0
+        "market_cap": 2705717460992.0
       },
       "status": "Delayed public feed"
     },
     {
       "opportunity": {
-        "score": 73,
+        "score": 74,
         "label": "Worth Watching",
         "reasons": [
           "RSI(14): 45",
-          "32.3% below one-year closing high",
+          "32.1% below one-year closing high",
           "Forward/trailing P/E: 17.8",
           "Below 50-day average"
         ],
-        "rsi": 44.7,
-        "drawdown_pct": -32.35
+        "rsi": 45.4,
+        "drawdown_pct": -32.1
       },
       "ticker": "GOOGL",
       "name": "Alphabet Inc.",
       "sector": "Communication Services",
-      "price": 272.05499267578125,
+      "price": 273.05999755859375,
       "as_of": "2026-11-20",
       "scores": {
         "value": 81,
@@ -200,16 +200,16 @@
       "entry_score": 25,
       "coverage": 12,
       "metrics": {
-        "pe": 14.208355,
-        "forward_pe": 17.786705,
-        "pb": 5.0719533,
+        "pe": 14.258485,
+        "forward_pe": 17.84946,
+        "pb": 5.089848,
         "roe": 0.44286,
         "margin": 0.50031,
         "revenue_growth": 0.247,
         "earnings_growth": -0.253,
-        "dividend_yield": 0.0032342239700099236,
+        "dividend_yield": 0.0032228529573338216,
         "payout": 0.044899996,
-        "market_cap": 3345074356224.0
+        "market_cap": 3356876341248.0
       },
       "status": "Delayed public feed"
     },
@@ -219,17 +219,17 @@
         "label": "Worth Watching",
         "reasons": [
           "RSI(14): 40",
-          "27.0% below one-year closing high",
-          "Forward/trailing P/E: 15.9",
+          "26.7% below one-year closing high",
+          "Forward/trailing P/E: 16.0",
           "Below 50-day average"
         ],
-        "rsi": 39.9,
-        "drawdown_pct": -27.02
+        "rsi": 40.4,
+        "drawdown_pct": -26.71
       },
       "ticker": "META",
       "name": "Meta Platforms, Inc.",
       "sector": "Communication Services",
-      "price": 567.4550170898438,
+      "price": 569.8800048828125,
       "as_of": "2026-11-20",
       "scores": {
         "value": 82,
@@ -242,16 +242,16 @@
       "entry_score": 25,
       "coverage": 12,
       "metrics": {
-        "pe": 19.360287,
-        "forward_pe": 15.906026,
-        "pb": 5.324819,
+        "pe": 19.443193,
+        "forward_pe": 15.97414,
+        "pb": 5.3476214,
         "roe": 0.32264,
         "margin": 0.31145,
         "revenue_growth": 0.261,
         "earnings_growth": 2.648,
-        "dividend_yield": 0.003700733978905816,
+        "dividend_yield": 0.0036849863129079807,
         "payout": 0.0716,
-        "market_cap": 1450539089920.0
+        "market_cap": 1456750723072.0
       },
       "status": "Delayed public feed"
     },
@@ -261,17 +261,17 @@
         "label": "Wait / Higher Risk",
         "reasons": [
           "RSI(14): 60",
-          "3.6% below one-year closing high",
+          "3.8% below one-year closing high",
           "Forward/trailing P/E: 25.0",
           "Above 50-day average"
         ],
-        "rsi": 60.2,
-        "drawdown_pct": -3.64
+        "rsi": 59.6,
+        "drawdown_pct": -3.76
       },
       "ticker": "BRK-B",
       "name": "Berkshire Hathaway Inc. New",
       "sector": "Financial Services",
-      "price": 571.3599853515625,
+      "price": 570.6400146484375,
       "as_of": "2026-11-20",
       "scores": {
         "value": 64,
@@ -284,16 +284,16 @@
       "entry_score": 80,
       "coverage": 12,
       "metrics": {
-        "pe": 15.991044,
-        "forward_pe": 25.041395,
-        "pb": 0.0010651494,
+        "pe": 15.970894,
+        "forward_pe": 25.00984,
+        "pb": 0.0010638072,
         "roe": 0.10574,
         "margin": 0.19497,
         "revenue_growth": 0.112,
         "earnings_growth": -0.276,
         "dividend_yield": 0.0,
         "payout": 0.0,
-        "market_cap": 1213865263104.0
+        "market_cap": 1212335783936.0
       },
       "status": "Delayed public feed"
     },
@@ -302,18 +302,18 @@
         "score": 82,
         "label": "Worth Watching",
         "reasons": [
-          "RSI(14): 46",
-          "36.3% below one-year closing high",
-          "Forward/trailing P/E: 15.8",
+          "RSI(14): 47",
+          "35.8% below one-year closing high",
+          "Forward/trailing P/E: 15.9",
           "Below 50-day average"
         ],
-        "rsi": 46.3,
-        "drawdown_pct": -36.28
+        "rsi": 46.9,
+        "drawdown_pct": -35.75
       },
       "ticker": "AVGO",
       "name": "Broadcom Inc.",
       "sector": "Technology",
-      "price": 305.83648681640625,
+      "price": 308.3399963378906,
       "as_of": "2026-11-20",
       "scores": {
         "value": 69,
@@ -326,16 +326,16 @@
       "entry_score": 25,
       "coverage": 12,
       "metrics": {
-        "pe": 39.03959,
-        "forward_pe": 15.76808,
-        "pb": 14.638444,
+        "pe": 39.37931,
+        "forward_pe": 15.88232,
+        "pb": 14.765827,
         "roe": 0.44245,
         "margin": 0.42944,
         "revenue_growth": 0.855,
         "earnings_growth": 2.153,
-        "dividend_yield": 0.008501274373725831,
+        "dividend_yield": 0.00843225011351106,
         "payout": 0.32439998,
-        "market_cap": 1459203211264.0
+        "market_cap": 1471901073408.0
       },
       "status": "Delayed public feed"
     },
@@ -345,17 +345,17 @@
         "label": "Wait / Higher Risk",
         "reasons": [
           "RSI(14): 34",
-          "28.5% below one-year closing high",
-          "Forward/trailing P/E: 162.3",
+          "28.3% below one-year closing high",
+          "Forward/trailing P/E: 162.6",
           "Below 50-day average"
         ],
-        "rsi": 34.2,
-        "drawdown_pct": -28.46
+        "rsi": 34.3,
+        "drawdown_pct": -28.34
       },
       "ticker": "TSLA",
       "name": "Tesla, Inc.",
       "sector": "Consumer Cyclical",
-      "price": 350.44000244140625,
+      "price": 351.05218505859375,
       "as_of": "2026-11-20",
       "scores": {
         "value": 14,
@@ -368,16 +368,16 @@
       "entry_score": 25,
       "coverage": 12,
       "metrics": {
-        "pe": 385.0989,
-        "forward_pe": 162.29935,
-        "pb": 15.514433,
+        "pe": 385.8934,
+        "forward_pe": 162.63419,
+        "pb": 15.546441,
         "roe": 0.03844,
         "margin": 0.031070001,
         "revenue_growth": -0.002,
         "earnings_growth": -0.436,
         "dividend_yield": 0.0,
         "payout": 0.0,
-        "market_cap": 1385204547584.0
+        "market_cap": 1388062310400.0
       },
       "status": "Delayed public feed"
     },
@@ -387,7 +387,7 @@
         "label": "Worth Watching",
         "reasons": [
           "RSI(14): 33",
-          "13.4% below one-year closing high",
+          "13.5% below one-year closing high",
           "Forward/trailing P/E: 12.3",
           "Below 50-day average"
         ],
@@ -397,7 +397,7 @@
       "ticker": "JPM",
       "name": "JP Morgan Chase & Co.",
       "sector": "Financial Services",
-      "price": 314.510009765625,
+      "price": 314.489990234375,
       "as_of": "2026-11-20",
       "scores": {
         "value": 80,
@@ -410,16 +410,16 @@
       "entry_score": 25,
       "coverage": 10,
       "metrics": {
-        "pe": 13.1925335,
-        "forward_pe": 12.29849,
-        "pb": 2.3773026,
+        "pe": 13.191694,
+        "forward_pe": 12.297708,
+        "pb": 2.3771515,
         "roe": 0.18013,
         "margin": 0.34592,
         "revenue_growth": 0.102,
         "earnings_growth": 0.099,
-        "dividend_yield": 0.02098502432355092,
+        "dividend_yield": 0.02098635886673662,
         "payout": 0.258,
-        "market_cap": 835215818752.0
+        "market_cap": 835162669056.0
       },
       "status": "Delayed public feed"
     },
@@ -433,13 +433,13 @@
           "Forward/trailing P/E: 23.7",
           "Above 50-day average"
         ],
-        "rsi": 38.6,
-        "drawdown_pct": -6.72
+        "rsi": 38.8,
+        "drawdown_pct": -6.66
       },
       "ticker": "V",
       "name": "Visa Inc.",
       "sector": "Financial Services",
-      "price": 406.4750061035156,
+      "price": 406.7550048828125,
       "as_of": "2026-11-20",
       "scores": {
         "value": 60,
@@ -452,16 +452,16 @@
       "entry_score": 80,
       "coverage": 12,
       "metrics": {
-        "pe": 32.993103,
-        "forward_pe": 23.714441,
-        "pb": 21.207024,
+        "pe": 33.01583,
+        "forward_pe": 23.730778,
+        "pb": 21.221632,
         "roe": 0.63507,
         "margin": 0.51203996,
         "revenue_growth": 0.132,
         "earnings_growth": 0.219,
-        "dividend_yield": 0.007675748816040347,
+        "dividend_yield": 0.007670465021941956,
         "payout": 0.2175,
-        "market_cap": 758401073152.0
+        "market_cap": 758923526144.0
       },
       "status": "Delayed public feed"
     },
@@ -471,17 +471,17 @@
         "label": "Worth Watching",
         "reasons": [
           "RSI(14): 31",
-          "20.1% below one-year closing high",
-          "Forward/trailing P/E: 14.8",
+          "20.3% below one-year closing high",
+          "Forward/trailing P/E: 14.7",
           "Below 50-day average"
         ],
-        "rsi": 31.2,
-        "drawdown_pct": -20.14
+        "rsi": 30.9,
+        "drawdown_pct": -20.27
       },
       "ticker": "UNH",
       "name": "UnitedHealth Group Incorporated",
       "sector": "Healthcare",
-      "price": 346.33331298828125,
+      "price": 345.760009765625,
       "as_of": "2026-11-20",
       "scores": {
         "value": 64,
@@ -494,16 +494,16 @@
       "entry_score": 25,
       "coverage": 12,
       "metrics": {
-        "pe": 19.767883,
-        "forward_pe": 14.753986,
-        "pb": 3.1633813,
+        "pe": 19.742008,
+        "forward_pe": 14.734675,
+        "pb": 3.1592407,
         "roe": 0.15773,
         "margin": 0.03529,
         "revenue_growth": -0.004,
         "earnings_growth": 0.761,
-        "dividend_yield": 0.026794997766602286,
+        "dividend_yield": 0.026830114490574763,
         "payout": 0.5171,
-        "market_cap": 310322462720.0
+        "market_cap": 309916303360.0
       },
       "status": "Delayed public feed"
     },
@@ -517,13 +517,13 @@
           "Forward/trailing P/E: 12.9",
           "Below 50-day average"
         ],
-        "rsi": 25.5,
-        "drawdown_pct": -13.44
+        "rsi": 25.7,
+        "drawdown_pct": -13.41
       },
       "ticker": "XOM",
       "name": "ExxonMobil Holdings Corporation",
       "sector": "Energy",
-      "price": 161.05999755859375,
+      "price": 161.1199951171875,
       "as_of": "2026-11-20",
       "scores": {
         "value": 73,
@@ -536,36 +536,36 @@
       "entry_score": 50,
       "coverage": 12,
       "metrics": {
-        "pe": 16.569958,
-        "forward_pe": 12.900032,
-        "pb": 2.4718757,
+        "pe": 16.57613,
+        "forward_pe": 12.904838,
+        "pb": 2.4727964,
         "roe": 0.15528,
         "margin": 0.10463,
         "revenue_growth": 0.326,
         "earnings_growth": 1.114,
-        "dividend_yield": 0.02657394759716876,
+        "dividend_yield": 0.02656405163853029,
         "payout": 0.4239,
-        "market_cap": 656999579648.0
+        "market_cap": 657244291072.0
       },
       "status": "Delayed public feed"
     },
     {
       "opportunity": {
-        "score": 48,
+        "score": 47,
         "label": "Wait / Higher Risk",
         "reasons": [
           "RSI(14): 39",
-          "6.2% below one-year closing high",
-          "Forward/trailing P/E: 27.2",
+          "6.1% below one-year closing high",
+          "Forward/trailing P/E: 27.3",
           "Above 50-day average"
         ],
-        "rsi": 38.9,
-        "drawdown_pct": -6.19
+        "rsi": 39.3,
+        "drawdown_pct": -6.07
       },
       "ticker": "MA",
       "name": "Mastercard Incorporated",
       "sector": "Financial Services",
-      "price": 631.0689086914062,
+      "price": 631.8590698242188,
       "as_of": "2026-11-20",
       "scores": {
         "value": 49,
@@ -578,16 +578,16 @@
       "entry_score": 80,
       "coverage": 12,
       "metrics": {
-        "pe": 33.02297,
-        "forward_pe": 27.247108,
-        "pb": 81.50186,
+        "pe": 33.064316,
+        "forward_pe": 27.281225,
+        "pb": 81.60391,
         "roe": 2.31366,
         "margin": 0.46732,
         "revenue_growth": 0.14,
         "earnings_growth": 0.217,
-        "dividend_yield": 0.0055144533346517316,
+        "dividend_yield": 0.005507556985410196,
         "payout": 0.17629999,
-        "market_cap": 549772197888.0
+        "market_cap": 550460522496.0
       },
       "status": "Delayed public feed"
     },
@@ -597,17 +597,17 @@
         "label": "Wait / Higher Risk",
         "reasons": [
           "RSI(14): 70",
-          "0.1% below one-year closing high",
-          "Forward/trailing P/E: 44.4",
+          "0.0% below one-year closing high",
+          "Forward/trailing P/E: 44.5",
           "Above 50-day average"
         ],
-        "rsi": 70.2,
-        "drawdown_pct": -0.09
+        "rsi": 70.3,
+        "drawdown_pct": -0.03
       },
       "ticker": "COST",
       "name": "Costco Wholesale Corporation",
       "sector": "Consumer Defensive",
-      "price": 1112.719970703125,
+      "price": 1113.405029296875,
       "as_of": "2026-11-20",
       "scores": {
         "value": 30,
@@ -620,16 +620,16 @@
       "entry_score": 80,
       "coverage": 12,
       "metrics": {
-        "pe": 53.599228,
-        "forward_pe": 44.431557,
-        "pb": 13.776231,
+        "pe": 53.632225,
+        "forward_pe": 44.45891,
+        "pb": 13.784712,
         "roe": 0.28402,
         "margin": 0.03043,
         "revenue_growth": 0.111,
         "earnings_growth": 0.15,
-        "dividend_yield": 0.005284348263714142,
+        "dividend_yield": 0.005280338372703883,
         "payout": 0.2669,
-        "market_cap": 493078872064.0
+        "market_cap": 493382434816.0
       },
       "status": "Delayed public feed"
     },
@@ -643,13 +643,13 @@
           "Forward/trailing P/E: 21.8",
           "Above 50-day average"
         ],
-        "rsi": 51.6,
-        "drawdown_pct": -10.22
+        "rsi": 51.7,
+        "drawdown_pct": -10.2
       },
       "ticker": "HD",
       "name": "Home Depot, Inc. (The)",
       "sector": "Consumer Cyclical",
-      "price": 343.6199951171875,
+      "price": 343.69000244140625,
       "as_of": "2026-11-20",
       "scores": {
         "value": 45,
@@ -662,16 +662,16 @@
       "entry_score": 80,
       "coverage": 12,
       "metrics": {
-        "pe": 23.862501,
-        "forward_pe": 21.822601,
-        "pb": 18.85432,
+        "pe": 23.867361,
+        "forward_pe": 21.789518,
+        "pb": 26.717196,
         "roe": 0.94803,
         "margin": 0.08375,
         "revenue_growth": 0.049,
         "earnings_growth": 0.028,
-        "dividend_yield": 0.02712298469239276,
+        "dividend_yield": 0.02711746050219675,
         "payout": 0.648,
-        "market_cap": 342826090496.0
+        "market_cap": 342895951872.0
       },
       "status": "Delayed public feed"
     },
@@ -685,13 +685,13 @@
           "Forward/trailing P/E: 22.9",
           "Above 50-day average"
         ],
-        "rsi": 63.0,
-        "drawdown_pct": -1.57
+        "rsi": 62.9,
+        "drawdown_pct": -1.62
       },
       "ticker": "PG",
       "name": "Procter & Gamble Company (The)",
       "sector": "Consumer Defensive",
-      "price": 170.29640197753906,
+      "price": 170.22000122070312,
       "as_of": "2026-11-20",
       "scores": {
         "value": 65,
@@ -704,36 +704,36 @@
       "entry_score": 80,
       "coverage": 12,
       "metrics": {
-        "pe": 25.647049,
-        "forward_pe": 22.931898,
-        "pb": 7.2624164,
+        "pe": 25.635542,
+        "forward_pe": 22.92161,
+        "pb": 7.2591586,
         "roe": 0.29609,
         "margin": 0.18229,
         "revenue_growth": 0.04,
         "earnings_growth": 0.008,
-        "dividend_yield": 0.02554369910344552,
+        "dividend_yield": 0.02555516390553401,
         "payout": 0.6462,
-        "market_cap": 394710122496.0
+        "market_cap": 394533044224.0
       },
       "status": "Delayed public feed"
     },
     {
       "opportunity": {
-        "score": 53,
+        "score": 52,
         "label": "Wait / Higher Risk",
         "reasons": [
           "RSI(14): 51",
-          "5.0% below one-year closing high",
+          "4.8% below one-year closing high",
           "Forward/trailing P/E: 23.4",
           "Above 50-day average"
         ],
-        "rsi": 50.8,
-        "drawdown_pct": -5.0
+        "rsi": 51.3,
+        "drawdown_pct": -4.78
       },
       "ticker": "JNJ",
       "name": "Johnson & Johnson",
       "sector": "Healthcare",
-      "price": 271.4601135253906,
+      "price": 272.0899963378906,
       "as_of": "2026-11-20",
       "scores": {
         "value": 56,
@@ -746,16 +746,16 @@
       "entry_score": 80,
       "coverage": 12,
       "metrics": {
-        "pe": 41.192734,
-        "forward_pe": 23.37763,
-        "pb": 8.014766,
+        "pe": 41.288315,
+        "forward_pe": 23.431873,
+        "pb": 8.033363,
         "roe": 0.20018,
         "margin": 0.16203,
         "revenue_growth": 0.059,
         "earnings_growth": -0.959,
-        "dividend_yield": 0.019745074874723764,
+        "dividend_yield": 0.019699364180969535,
         "payout": 0.80120003,
-        "market_cap": 653488750592.0
+        "market_cap": 655005057024.0
       },
       "status": "Delayed public feed"
     },
@@ -765,17 +765,17 @@
         "label": "Wait / Higher Risk",
         "reasons": [
           "RSI(14): 50",
-          "2.2% below one-year closing high",
+          "2.1% below one-year closing high",
           "Forward/trailing P/E: 17.8",
           "Above 50-day average"
         ],
-        "rsi": 49.6,
-        "drawdown_pct": -2.21
+        "rsi": 50.0,
+        "drawdown_pct": -2.09
       },
       "ticker": "ABBV",
       "name": "AbbVie Inc.",
       "sector": "Healthcare",
-      "price": 288.5,
+      "price": 288.8550109863281,
       "as_of": "2026-11-20",
       "scores": {
         "value": 69,
@@ -788,16 +788,16 @@
       "entry_score": 80,
       "coverage": 10,
       "metrics": {
-        "pe": 49.570446,
-        "forward_pe": 17.78915,
-        "pb": -111.26109,
+        "pe": 49.631443,
+        "forward_pe": 17.81104,
+        "pb": -111.398,
         "roe": null,
         "margin": 0.15666,
         "revenue_growth": 0.103,
         "earnings_growth": 22.821,
-        "dividend_yield": 0.023986135181975735,
+        "dividend_yield": 0.02395665645393017,
         "payout": 1.1735,
-        "market_cap": 509957275648.0
+        "market_cap": 510584815616.0
       },
       "status": "Delayed public feed"
     },
@@ -812,12 +812,12 @@
           "Above 50-day average"
         ],
         "rsi": 54.9,
-        "drawdown_pct": -3.16
+        "drawdown_pct": -3.17
       },
       "ticker": "WMT",
       "name": "Walmart Inc.",
       "sector": "Consumer Defensive",
-      "price": 129.64500427246094,
+      "price": 129.63499450683594,
       "as_of": "2026-11-20",
       "scores": {
         "value": 27,
@@ -830,36 +830,36 @@
       "entry_score": 80,
       "coverage": 12,
       "metrics": {
-        "pe": 46.971016,
-        "forward_pe": 40.157356,
-        "pb": 10.481041,
+        "pe": 46.967392,
+        "forward_pe": 40.154263,
+        "pb": 10.480233,
         "roe": 0.22313999,
         "margin": 0.03,
         "revenue_growth": 0.059,
         "earnings_growth": -0.091,
-        "dividend_yield": 0.007636531934588091,
+        "dividend_yield": 0.007636826474331778,
         "payout": 0.3496,
-        "market_cap": 1031685341184.0
+        "market_cap": 1028451532800.0
       },
       "status": "Delayed public feed"
     },
     {
       "opportunity": {
-        "score": 71,
+        "score": 70,
         "label": "Worth Watching",
         "reasons": [
           "RSI(14): 35",
-          "47.6% below one-year closing high",
+          "47.5% below one-year closing high",
           "Forward/trailing P/E: 15.2",
           "Below 50-day average"
         ],
-        "rsi": 35.1,
-        "drawdown_pct": -47.64
+        "rsi": 35.5,
+        "drawdown_pct": -47.49
       },
       "ticker": "NFLX",
       "name": "Netflix, Inc.",
       "sector": "Communication Services",
-      "price": 57.255001068115234,
+      "price": 57.42499923706055,
       "as_of": "2026-11-20",
       "scores": {
         "value": 77,
@@ -872,16 +872,16 @@
       "entry_score": 25,
       "coverage": 12,
       "metrics": {
-        "pe": 16.547688,
-        "forward_pe": 15.181607,
-        "pb": 8.027903,
+        "pe": 16.59682,
+        "forward_pe": 15.226684,
+        "pb": 8.051739,
         "roe": 0.53463,
         "margin": 0.29691,
         "revenue_growth": 0.118,
         "earnings_growth": 0.475,
         "dividend_yield": 0.0,
         "payout": 0.0,
-        "market_cap": 235107696640.0
+        "market_cap": 235805769728.0
       },
       "status": "Delayed public feed"
     },
@@ -890,18 +890,18 @@
         "score": 79,
         "label": "Worth Watching",
         "reasons": [
-          "RSI(14): 36",
-          "58.3% below one-year closing high",
+          "RSI(14): 37",
+          "58.1% below one-year closing high",
           "Forward/trailing P/E: 9.3",
           "Below 50-day average"
         ],
-        "rsi": 36.3,
-        "drawdown_pct": -58.33
+        "rsi": 36.6,
+        "drawdown_pct": -58.14
       },
       "ticker": "ORCL",
       "name": "Oracle Corporation",
       "sector": "Technology",
-      "price": 102.66999816894531,
+      "price": 103.13500213623047,
       "as_of": "2026-11-20",
       "scores": {
         "value": 81,
@@ -914,16 +914,16 @@
       "entry_score": 25,
       "coverage": 12,
       "metrics": {
-        "pe": 16.092476,
-        "forward_pe": 9.284,
-        "pb": 5.0220113,
+        "pe": 16.166143,
+        "forward_pe": 9.326501,
+        "pb": 5.045001,
         "roe": 0.41192,
         "margin": 0.2636,
         "revenue_growth": 0.296,
         "earnings_growth": 0.545,
-        "dividend_yield": 0.019479887016655303,
+        "dividend_yield": 0.01939111886755866,
         "payout": 0.31350002,
-        "market_cap": 320095092736.0
+        "market_cap": 321560412160.0
       },
       "status": "Delayed public feed"
     },
@@ -932,18 +932,18 @@
         "score": 71,
         "label": "Worth Watching",
         "reasons": [
-          "RSI(14): 18",
-          "30.3% below one-year closing high",
-          "Forward/trailing P/E: 11.5",
+          "RSI(14): 19",
+          "30.0% below one-year closing high",
+          "Forward/trailing P/E: 11.6",
           "Below 50-day average"
         ],
-        "rsi": 18.4,
-        "drawdown_pct": -30.25
+        "rsi": 19.1,
+        "drawdown_pct": -30.04
       },
       "ticker": "CRM",
       "name": "Salesforce, Inc.",
       "sector": "Technology",
-      "price": 184.42999267578125,
+      "price": 184.99000549316406,
       "as_of": "2026-11-20",
       "scores": {
         "value": 78,
@@ -956,16 +956,16 @@
       "entry_score": 25,
       "coverage": 12,
       "metrics": {
-        "pe": 16.873741,
-        "forward_pe": 11.520393,
-        "pb": 3.9550092,
+        "pe": 16.924976,
+        "forward_pe": 11.555375,
+        "pb": 3.9670184,
         "roe": 0.19381,
         "margin": 0.2199,
         "revenue_growth": 0.108,
         "earnings_growth": 1.189,
-        "dividend_yield": 0.009542916011494876,
+        "dividend_yield": 0.00951402778528569,
         "payout": 0.1566,
-        "market_cap": 151785881600.0
+        "market_cap": 152246779904.0
       },
       "status": "Delayed public feed"
     },
@@ -975,17 +975,17 @@
         "label": "Worth Watching",
         "reasons": [
           "RSI(14): 47",
-          "33.2% below one-year closing high",
-          "Forward/trailing P/E: 24.6",
+          "32.7% below one-year closing high",
+          "Forward/trailing P/E: 24.8",
           "Below 50-day average"
         ],
-        "rsi": 46.6,
-        "drawdown_pct": -33.22
+        "rsi": 46.9,
+        "drawdown_pct": -32.74
       },
       "ticker": "AMD",
       "name": "Advanced Micro Devices, Inc.",
       "sector": "Technology",
-      "price": 433.6690979003906,
+      "price": 436.8299865722656,
       "as_of": "2026-11-20",
       "scores": {
         "value": 47,
@@ -998,16 +998,16 @@
       "entry_score": 50,
       "coverage": 12,
       "metrics": {
-        "pe": 92.66881,
-        "forward_pe": 24.58804,
-        "pb": 10.39999,
+        "pe": 101.11805,
+        "forward_pe": 24.766062,
+        "pb": 10.475288,
         "roe": 0.1196,
         "margin": 0.16769,
         "revenue_growth": 0.447,
         "earnings_growth": 0.938,
         "dividend_yield": 0.0,
         "payout": 0.0,
-        "market_cap": 717785399296.0
+        "market_cap": 722982273024.0
       },
       "status": "Delayed public feed"
     },
@@ -1016,18 +1016,18 @@
         "score": 74,
         "label": "Worth Watching",
         "reasons": [
-          "RSI(14): 25",
-          "37.4% below one-year closing high",
-          "Forward/trailing P/E: 8.2",
+          "RSI(14): 24",
+          "37.5% below one-year closing high",
+          "Forward/trailing P/E: 8.1",
           "Below 50-day average"
         ],
-        "rsi": 24.8,
-        "drawdown_pct": -37.44
+        "rsi": 24.3,
+        "drawdown_pct": -37.53
       },
       "ticker": "ADBE",
       "name": "Adobe Inc.",
       "sector": "Technology",
-      "price": 223.6699981689453,
+      "price": 223.36500549316406,
       "as_of": "2026-11-20",
       "scores": {
         "value": 86,
@@ -1040,36 +1040,36 @@
       "entry_score": 25,
       "coverage": 12,
       "metrics": {
-        "pe": 12.488554,
-        "forward_pe": 8.161,
-        "pb": 7.434108,
+        "pe": 12.471524,
+        "forward_pe": 8.149872,
+        "pb": 7.4239707,
         "roe": 0.61902,
         "margin": 0.28048,
         "revenue_growth": 0.129,
         "earnings_growth": 0.105,
         "dividend_yield": 0.0,
         "payout": 0.0,
-        "market_cap": 87052361728.0
+        "market_cap": 86933659648.0
       },
       "status": "Delayed public feed"
     },
     {
       "opportunity": {
-        "score": 76,
+        "score": 77,
         "label": "Worth Watching",
         "reasons": [
           "RSI(14): 41",
-          "25.9% below one-year closing high",
+          "25.8% below one-year closing high",
           "Forward/trailing P/E: 9.2",
           "Below 50-day average"
         ],
-        "rsi": 40.6,
-        "drawdown_pct": -25.89
+        "rsi": 40.9,
+        "drawdown_pct": -25.76
       },
       "ticker": "BAC",
       "name": "Bank of America Corporation",
       "sector": "Financial Services",
-      "price": 47.790000915527344,
+      "price": 47.869998931884766,
       "as_of": "2026-11-20",
       "scores": {
         "value": 80,
@@ -1082,16 +1082,16 @@
       "entry_score": 25,
       "coverage": 10,
       "metrics": {
-        "pe": 11.405728,
-        "forward_pe": 9.225691,
-        "pb": 1.2174245,
+        "pe": 11.424821,
+        "forward_pe": 9.241135,
+        "pb": 1.2194624,
         "roe": 0.1073,
         "margin": 0.28064,
         "revenue_growth": 0.034,
         "earnings_growth": -0.125,
-        "dividend_yield": 0.02678384599288554,
+        "dividend_yield": 0.02673908502193441,
         "payout": 0.2762,
-        "market_cap": 329760997376.0
+        "market_cap": 330313007104.0
       },
       "status": "Delayed public feed"
     },
@@ -1101,17 +1101,17 @@
         "label": "Wait / Higher Risk",
         "reasons": [
           "RSI(14): 58",
-          "1.8% below one-year closing high",
+          "1.9% below one-year closing high",
           "Forward/trailing P/E: 27.6",
           "Above 50-day average"
         ],
-        "rsi": 58.2,
-        "drawdown_pct": -1.83
+        "rsi": 57.8,
+        "drawdown_pct": -1.94
       },
       "ticker": "KO",
       "name": "Coca-Cola Company (The)",
       "sector": "Consumer Defensive",
-      "price": 97.65499877929688,
+      "price": 97.55000305175781,
       "as_of": "2026-11-20",
       "scores": {
         "value": 56,
@@ -1124,16 +1124,16 @@
       "entry_score": 80,
       "coverage": 12,
       "metrics": {
-        "pe": 28.806784,
-        "forward_pe": 27.635809,
-        "pb": 11.241509,
+        "pe": 28.775812,
+        "forward_pe": 27.606096,
+        "pb": 11.2294235,
         "roe": 0.40592998,
         "margin": 0.28654,
         "revenue_growth": 0.074,
         "earnings_growth": 0.083,
-        "dividend_yield": 0.021709077876196817,
+        "dividend_yield": 0.021732444900051256,
         "payout": 0.6195,
-        "market_cap": 420102275072.0
+        "market_cap": 419650600960.0
       },
       "status": "Delayed public feed"
     },
@@ -1143,17 +1143,17 @@
         "label": "Worth Watching",
         "reasons": [
           "RSI(14): 52",
-          "14.3% below one-year closing high",
+          "14.4% below one-year closing high",
           "Forward/trailing P/E: 16.5",
           "Above 50-day average"
         ],
-        "rsi": 52.4,
-        "drawdown_pct": -14.3
+        "rsi": 52.1,
+        "drawdown_pct": -14.4
       },
       "ticker": "PEP",
       "name": "Pepsico, Inc.",
       "sector": "Consumer Defensive",
-      "price": 141.8000030517578,
+      "price": 141.625,
       "as_of": "2026-11-20",
       "scores": {
         "value": 59,
@@ -1166,16 +1166,16 @@
       "entry_score": 55,
       "coverage": 12,
       "metrics": {
-        "pe": 17.83648,
-        "forward_pe": 16.500153,
-        "pb": 8.676497,
+        "pe": 17.814466,
+        "forward_pe": 16.47979,
+        "pb": 8.66579,
         "roe": 0.52187,
         "margin": 0.11091,
         "revenue_growth": 0.056,
         "earnings_growth": 0.174,
-        "dividend_yield": 0.04174894217207334,
+        "dividend_yield": 0.04180052956751986,
         "payout": 0.7302,
-        "market_cap": 193236697088.0
+        "market_cap": 192998211584.0
       },
       "status": "Delayed public feed"
     },
@@ -1223,21 +1223,21 @@
     },
     {
       "opportunity": {
-        "score": 51,
+        "score": 50,
         "label": "Wait / Higher Risk",
         "reasons": [
           "RSI(14): 30",
-          "13.6% below one-year closing high",
+          "13.4% below one-year closing high",
           "Forward/trailing P/E: 15.0",
           "Below 50-day average"
         ],
-        "rsi": 29.6,
-        "drawdown_pct": -13.58
+        "rsi": 30.1,
+        "drawdown_pct": -13.44
       },
       "ticker": "MRK",
       "name": "Merck & Company, Inc.",
       "sector": "Healthcare",
-      "price": 134.4149932861328,
+      "price": 134.6300048828125,
       "as_of": "2026-11-20",
       "scores": {
         "value": 47,
@@ -1250,16 +1250,16 @@
       "entry_score": 50,
       "coverage": 12,
       "metrics": {
-        "pe": 135.77272,
-        "forward_pe": 14.993358,
-        "pb": 7.385845,
+        "pe": 135.9899,
+        "forward_pe": 15.017341,
+        "pb": 7.39766,
         "roe": 0.05057,
         "margin": 0.03641,
         "revenue_growth": 0.047,
         "earnings_growth": -0.12,
-        "dividend_yield": 0.026187553472454713,
+        "dividend_yield": 0.026145732749015823,
         "payout": 3.4343,
-        "market_cap": 331365974016.0
+        "market_cap": 331896029184.0
       },
       "status": "Delayed public feed"
     },
@@ -1268,18 +1268,18 @@
         "score": 74,
         "label": "Worth Watching",
         "reasons": [
-          "RSI(14): 36",
-          "29.1% below one-year closing high",
-          "Forward/trailing P/E: 15.1",
+          "RSI(14): 37",
+          "28.8% below one-year closing high",
+          "Forward/trailing P/E: 15.2",
           "Below 50-day average"
         ],
-        "rsi": 36.3,
-        "drawdown_pct": -29.05
+        "rsi": 36.6,
+        "drawdown_pct": -28.84
       },
       "ticker": "CSCO",
       "name": "Cisco Systems, Inc.",
       "sector": "Technology",
-      "price": 91.52999877929688,
+      "price": 91.80999755859375,
       "as_of": "2026-11-20",
       "scores": {
         "value": 77,
@@ -1292,16 +1292,16 @@
       "entry_score": 25,
       "coverage": 12,
       "metrics": {
-        "pe": 24.343084,
-        "forward_pe": 15.111815,
-        "pb": 6.9790316,
+        "pe": 24.417553,
+        "forward_pe": 15.158044,
+        "pb": 7.000381,
         "roe": 0.3038,
         "margin": 0.22341,
         "revenue_growth": 0.244,
         "earnings_growth": 0.583,
-        "dividend_yield": 0.018354637823664373,
+        "dividend_yield": 0.018298660276658316,
         "payout": 0.4441,
-        "market_cap": 360852258816.0
+        "market_cap": 361956147200.0
       },
       "status": "Delayed public feed"
     },
@@ -1310,18 +1310,18 @@
         "score": 64,
         "label": "Worth Watching",
         "reasons": [
-          "RSI(14): 28",
-          "29.9% below one-year closing high",
+          "RSI(14): 29",
+          "29.8% below one-year closing high",
           "Forward/trailing P/E: 17.2",
           "Below 50-day average"
         ],
-        "rsi": 28.4,
-        "drawdown_pct": -29.92
+        "rsi": 28.9,
+        "drawdown_pct": -29.8
       },
       "ticker": "IBM",
       "name": "International Business Machines",
       "sector": "Technology",
-      "price": 227.50999450683594,
+      "price": 227.89999389648438,
       "as_of": "2026-11-20",
       "scores": {
         "value": 68,
@@ -1334,36 +1334,36 @@
       "entry_score": 25,
       "coverage": 12,
       "metrics": {
-        "pe": 19.412115,
-        "forward_pe": 17.185312,
-        "pb": 6.050798,
+        "pe": 19.44539,
+        "forward_pe": 17.214771,
+        "pb": 6.06117,
         "roe": 0.34769002,
         "margin": 0.15989,
         "revenue_growth": 0.047,
         "earnings_growth": 0.25,
-        "dividend_yield": 0.02971297964924619,
+        "dividend_yield": 0.02966213251426064,
         "payout": 0.5751,
-        "market_cap": 215024435200.0
+        "market_cap": 215393026048.0
       },
       "status": "Delayed public feed"
     },
     {
       "opportunity": {
-        "score": 48,
+        "score": 51,
         "label": "Wait / Higher Risk",
         "reasons": [
           "RSI(14): 49",
-          "17.6% below one-year closing high",
+          "17.4% below one-year closing high",
           "Forward/trailing P/E: 33.7",
-          "Below 50-day average"
+          "Above 50-day average"
         ],
-        "rsi": 48.8,
-        "drawdown_pct": -17.63
+        "rsi": 49.2,
+        "drawdown_pct": -17.45
       },
       "ticker": "GE",
       "name": "GE Aerospace",
       "sector": "Industrials",
-      "price": 313.5249938964844,
+      "price": 314.2200012207031,
       "as_of": "2026-11-20",
       "scores": {
         "value": 43,
@@ -1373,19 +1373,19 @@
       },
       "risk_score": 19,
       "risk": "Lower",
-      "entry_score": 25,
+      "entry_score": 55,
       "coverage": 12,
       "metrics": {
-        "pe": 35.83143,
-        "forward_pe": 33.666065,
-        "pb": 18.490505,
+        "pe": 35.91086,
+        "forward_pe": 33.740696,
+        "pb": 18.531494,
         "roe": 0.50165004,
         "margin": 0.17313999,
         "revenue_growth": 0.159,
         "earnings_growth": 0.089,
-        "dividend_yield": 0.005996332030938522,
+        "dividend_yield": 0.005983069187193685,
         "payout": 0.2023,
-        "market_cap": 323981672448.0
+        "market_cap": 324699848704.0
       },
       "status": "Delayed public feed"
     },
@@ -1394,18 +1394,18 @@
         "score": 67,
         "label": "Worth Watching",
         "reasons": [
-          "RSI(14): 30",
-          "51.4% below one-year closing high",
-          "Forward/trailing P/E: 16.0",
+          "RSI(14): 31",
+          "51.2% below one-year closing high",
+          "Forward/trailing P/E: 16.1",
           "Below 50-day average"
         ],
-        "rsi": 30.5,
-        "drawdown_pct": -51.38
+        "rsi": 30.7,
+        "drawdown_pct": -51.19
       },
       "ticker": "CAT",
       "name": "Caterpillar, Inc.",
       "sector": "Industrials",
-      "price": 515.5999755859375,
+      "price": 517.5800170898438,
       "as_of": "2026-11-20",
       "scores": {
         "value": 59,
@@ -1418,16 +1418,16 @@
       "entry_score": 25,
       "coverage": 12,
       "metrics": {
-        "pe": 20.235477,
-        "forward_pe": 16.023668,
-        "pb": 10.982363,
+        "pe": 20.313189,
+        "forward_pe": 16.085203,
+        "pb": 11.024538,
         "roe": 0.56135,
         "margin": 0.15212,
         "revenue_growth": 0.173,
         "earnings_growth": 0.461,
-        "dividend_yield": 0.01264546159813809,
+        "dividend_yield": 0.012597086440743458,
         "payout": 0.24180001,
-        "market_cap": 235935547392.0
+        "market_cap": 236841598976.0
       },
       "status": "Delayed public feed"
     },
@@ -1442,12 +1442,12 @@
           "Above 50-day average"
         ],
         "rsi": 60.3,
-        "drawdown_pct": -17.47
+        "drawdown_pct": -17.5
       },
       "ticker": "MCD",
       "name": "McDonald's Corporation",
       "sector": "Consumer Cyclical",
-      "price": 276.05999755859375,
+      "price": 275.9750061035156,
       "as_of": "2026-11-20",
       "scores": {
         "value": 72,
@@ -1460,16 +1460,16 @@
       "entry_score": 55,
       "coverage": 10,
       "metrics": {
-        "pe": 21.840189,
-        "forward_pe": 20.219406,
-        "pb": -568.02466,
+        "pe": 21.833466,
+        "forward_pe": 20.21318,
+        "pb": -567.8498,
         "roe": null,
         "margin": 0.32377,
         "revenue_growth": 0.011,
         "earnings_growth": 0.104,
-        "dividend_yield": 0.0279649351590234,
+        "dividend_yield": 0.027973548328652953,
         "payout": 0.5886,
-        "market_cap": 194838937600.0
+        "market_cap": 194778955776.0
       },
       "status": "Delayed public feed"
     },
@@ -1483,13 +1483,13 @@
           "Forward/trailing P/E: 13.9",
           "Above 50-day average"
         ],
-        "rsi": 61.3,
-        "drawdown_pct": -3.06
+        "rsi": 61.4,
+        "drawdown_pct": -3.05
       },
       "ticker": "DIS",
       "name": "Walt Disney Company (The)",
       "sector": "Communication Services",
-      "price": 118.62000274658203,
+      "price": 118.625,
       "as_of": "2026-11-20",
       "scores": {
         "value": 67,
@@ -1502,16 +1502,16 @@
       "entry_score": 80,
       "coverage": 12,
       "metrics": {
-        "pe": 21.069271,
-        "forward_pe": 13.932036,
-        "pb": 1.8441305,
+        "pe": 21.07016,
+        "forward_pe": 13.909163,
+        "pb": 1.8442082,
         "roe": 0.09127,
         "margin": 0.09672,
         "revenue_growth": 0.155,
         "earnings_growth": 1.073,
-        "dividend_yield": 0.016860563142808968,
+        "dividend_yield": 0.01685985247629083,
         "payout": 0.26639998,
-        "market_cap": 202606493696.0
+        "market_cap": 202615029760.0
       },
       "status": "Delayed public feed"
     },
@@ -1521,17 +1521,17 @@
         "label": "Wait / Higher Risk",
         "reasons": [
           "RSI(14): 48",
-          "6.2% below one-year closing high",
+          "6.1% below one-year closing high",
           "Forward/trailing P/E: 24.4",
           "Below 50-day average"
         ],
-        "rsi": 48.0,
-        "drawdown_pct": -6.25
+        "rsi": 48.3,
+        "drawdown_pct": -6.15
       },
       "ticker": "TMO",
       "name": "Thermo Fisher Scientific Inc",
       "sector": "Healthcare",
-      "price": 676.5349731445312,
+      "price": 677.2849731445312,
       "as_of": "2026-11-20",
       "scores": {
         "value": 56,
@@ -1544,16 +1544,16 @@
       "entry_score": 50,
       "coverage": 12,
       "metrics": {
-        "pe": 35.682224,
-        "forward_pe": 24.35055,
-        "pb": 4.577461,
+        "pe": 35.721783,
+        "forward_pe": 24.377544,
+        "pb": 4.5825353,
         "roe": 0.13379,
         "margin": 0.14935,
         "revenue_growth": 0.091,
         "earnings_growth": 0.087,
-        "dividend_yield": 0.002778865838426689,
+        "dividend_yield": 0.0027757886266490473,
         "payout": 0.096999995,
-        "market_cap": 250666942464.0
+        "market_cap": 250944831488.0
       },
       "status": "Delayed public feed"
     },
@@ -1567,13 +1567,13 @@
           "Forward/trailing P/E: 17.5",
           "Above 50-day average"
         ],
-        "rsi": 36.3,
-        "drawdown_pct": -17.28
+        "rsi": 36.2,
+        "drawdown_pct": -17.31
       },
       "ticker": "ABT",
       "name": "Abbott Laboratories",
       "sector": "Healthcare",
-      "price": 104.03500366210938,
+      "price": 104.00499725341797,
       "as_of": "2026-11-20",
       "scores": {
         "value": 59,
@@ -1586,16 +1586,16 @@
       "entry_score": 80,
       "coverage": 12,
       "metrics": {
-        "pe": 38.81903,
-        "forward_pe": 17.523249,
-        "pb": 3.531159,
+        "pe": 38.807835,
+        "forward_pe": 17.518194,
+        "pb": 3.5301404,
         "roe": 0.09137999,
         "margin": 0.09747,
         "revenue_growth": 0.145,
         "earnings_growth": -0.436,
-        "dividend_yield": 0.02422261738837891,
+        "dividend_yield": 0.024229604345944906,
         "payout": 0.9254,
-        "market_cap": 180182548480.0
+        "market_cap": 180130578432.0
       },
       "status": "Delayed public feed"
     },
@@ -1604,21 +1604,21 @@
         "score": 65,
         "label": "Worth Watching",
         "reasons": [
-          "RSI(14): 37",
-          "18.3% below one-year closing high",
-          "Forward/trailing P/E: 23.1",
+          "RSI(14): 38",
+          "17.7% below one-year closing high",
+          "Forward/trailing P/E: 23.3",
           "Below 50-day average"
         ],
-        "rsi": 37.0,
-        "drawdown_pct": -18.3
+        "rsi": 37.6,
+        "drawdown_pct": -17.66
       },
       "ticker": "TXN",
       "name": "Texas Instruments Incorporated",
       "sector": "Technology",
-      "price": 268.7900085449219,
+      "price": 270.885009765625,
       "as_of": "2026-11-20",
       "scores": {
-        "value": 61,
+        "value": 60,
         "growth": 93,
         "income": 44,
         "speculative": 59
@@ -1628,16 +1628,16 @@
       "entry_score": 50,
       "coverage": 12,
       "metrics": {
-        "pe": 34.86576,
-        "forward_pe": 23.108883,
-        "pb": 12.806813,
+        "pe": 35.134243,
+        "forward_pe": 23.286833,
+        "pb": 12.905432,
         "roe": 0.39723998,
         "margin": 0.34252998,
         "revenue_growth": 0.277,
         "earnings_growth": 0.77,
-        "dividend_yield": 0.02261778546584082,
+        "dividend_yield": 0.02244494896358233,
         "payout": 0.7367,
-        "market_cap": 245635170304.0
+        "market_cap": 247526670336.0
       },
       "status": "Delayed public feed"
     },
@@ -1646,18 +1646,18 @@
         "score": 79,
         "label": "Worth Watching",
         "reasons": [
-          "RSI(14): 45",
-          "37.6% below one-year closing high",
-          "Forward/trailing P/E: 12.7",
+          "RSI(14): 46",
+          "37.2% below one-year closing high",
+          "Forward/trailing P/E: 12.8",
           "Below 50-day average"
         ],
-        "rsi": 45.3,
-        "drawdown_pct": -37.64
+        "rsi": 46.0,
+        "drawdown_pct": -37.2
       },
       "ticker": "QCOM",
       "name": "QUALCOMM Incorporated",
       "sector": "Technology",
-      "price": 155.1199951171875,
+      "price": 156.22000122070312,
       "as_of": "2026-11-20",
       "scores": {
         "value": 84,
@@ -1665,21 +1665,21 @@
         "income": 67,
         "speculative": 32
       },
-      "risk_score": 11,
+      "risk_score": 10,
       "risk": "Lower",
       "entry_score": 25,
       "coverage": 11,
       "metrics": {
-        "pe": 12.214173,
-        "forward_pe": 12.733854,
-        "pb": 5.4698687,
+        "pe": 12.300788,
+        "forward_pe": 12.824155,
+        "pb": 5.508657,
         "roe": 0.52814996,
         "margin": 0.31605,
         "revenue_growth": -0.084,
         "earnings_growth": null,
-        "dividend_yield": 0.02372356884992264,
+        "dividend_yield": 0.02355652285238766,
         "payout": 0.285,
-        "market_cap": 165978390528.0
+        "market_cap": 167155400704.0
       },
       "status": "Delayed public feed"
     },
@@ -1688,18 +1688,18 @@
         "score": 55,
         "label": "Wait / Higher Risk",
         "reasons": [
-          "RSI(14): 32",
-          "8.4% below one-year closing high",
+          "RSI(14): 33",
+          "8.3% below one-year closing high",
           "Forward/trailing P/E: 17.5",
           "Above 50-day average"
         ],
-        "rsi": 32.4,
-        "drawdown_pct": -8.43
+        "rsi": 32.5,
+        "drawdown_pct": -8.34
       },
       "ticker": "AMGN",
       "name": "Amgen Inc.",
       "sector": "Healthcare",
-      "price": 438.1499938964844,
+      "price": 438.57000732421875,
       "as_of": "2026-11-20",
       "scores": {
         "value": 59,
@@ -1712,16 +1712,16 @@
       "entry_score": 80,
       "coverage": 12,
       "metrics": {
-        "pe": 25.4,
-        "forward_pe": 17.470263,
-        "pb": 16.512775,
+        "pe": 25.424349,
+        "forward_pe": 17.459164,
+        "pb": 16.528605,
         "roe": 0.78353,
         "margin": 0.24139999,
         "revenue_growth": 0.085,
         "earnings_growth": 0.194,
-        "dividend_yield": 0.02300581992468333,
+        "dividend_yield": 0.022983788220808536,
         "payout": 0.5762,
-        "market_cap": 237000359936.0
+        "market_cap": 237227556864.0
       },
       "status": "Delayed public feed"
     },
@@ -1731,17 +1731,17 @@
         "label": "Worth Watching",
         "reasons": [
           "RSI(14): 19",
-          "58.3% below one-year closing high",
-          "Forward/trailing P/E: 10.3",
+          "58.2% below one-year closing high",
+          "Forward/trailing P/E: 10.4",
           "Below 50-day average"
         ],
         "rsi": 18.6,
-        "drawdown_pct": -58.26
+        "drawdown_pct": -58.23
       },
       "ticker": "INTU",
       "name": "Intuit Inc.",
       "sector": "Technology",
-      "price": 278.4700012207031,
+      "price": 278.635009765625,
       "as_of": "2026-11-20",
       "scores": {
         "value": 86,
@@ -1754,16 +1754,16 @@
       "entry_score": 25,
       "coverage": 12,
       "metrics": {
-        "pe": 16.917984,
-        "forward_pe": 10.344869,
-        "pb": 3.935193,
+        "pe": 16.928009,
+        "forward_pe": 10.350999,
+        "pb": 3.9375248,
         "roe": 0.25641,
         "margin": 0.21969,
         "revenue_growth": 0.121,
         "earnings_growth": 0.629,
-        "dividend_yield": 0.019822602075627534,
+        "dividend_yield": 0.019810863674699874,
         "payout": 0.2834,
-        "market_cap": 74417209344.0
+        "market_cap": 74461306880.0
       },
       "status": "Delayed public feed"
     },
@@ -1772,18 +1772,18 @@
         "score": 58,
         "label": "Wait / Higher Risk",
         "reasons": [
-          "RSI(14): 28",
-          "48.0% below one-year closing high",
-          "Forward/trailing P/E: 18.8",
+          "RSI(14): 29",
+          "47.8% below one-year closing high",
+          "Forward/trailing P/E: 18.9",
           "Below 50-day average"
         ],
-        "rsi": 28.1,
-        "drawdown_pct": -47.96
+        "rsi": 28.7,
+        "drawdown_pct": -47.79
       },
       "ticker": "NOW",
       "name": "ServiceNow, Inc.",
       "sector": "Technology",
-      "price": 90.29000091552734,
+      "price": 90.57499694824219,
       "as_of": "2026-11-20",
       "scores": {
         "value": 53,
@@ -1796,16 +1796,16 @@
       "entry_score": 25,
       "coverage": 12,
       "metrics": {
-        "pe": 64.95683,
-        "forward_pe": 18.801409,
-        "pb": 7.1556506,
+        "pe": 65.161865,
+        "forward_pe": 18.860754,
+        "pb": 7.178237,
         "roe": 0.11846,
         "margin": 0.09364,
         "revenue_growth": 0.205,
         "earnings_growth": -0.442,
         "dividend_yield": 0.0,
         "payout": 0.0,
-        "market_cap": 93713522688.0
+        "market_cap": 94009327616.0
       },
       "status": "Delayed public feed"
     },
@@ -1815,17 +1815,17 @@
         "label": "Worth Watching",
         "reasons": [
           "RSI(14): 45",
-          "29.7% below one-year closing high",
+          "29.6% below one-year closing high",
           "Forward/trailing P/E: 14.8",
           "Below 50-day average"
         ],
-        "rsi": 45.1,
-        "drawdown_pct": -29.65
+        "rsi": 45.3,
+        "drawdown_pct": -29.57
       },
       "ticker": "UBER",
       "name": "Uber Technologies, Inc.",
       "sector": "Technology",
-      "price": 65.12000274658203,
+      "price": 65.19999694824219,
       "as_of": "2026-11-20",
       "scores": {
         "value": 60,
@@ -1838,16 +1838,16 @@
       "entry_score": 25,
       "coverage": 12,
       "metrics": {
-        "pe": 38.30588,
-        "forward_pe": 14.773776,
-        "pb": 4.801298,
+        "pe": 38.35,
+        "forward_pe": 14.790791,
+        "pb": 4.8068275,
         "roe": 0.123339996,
         "margin": 0.061300002,
         "revenue_growth": 0.096,
         "earnings_growth": -0.92,
         "dividend_yield": 0.0,
         "payout": 0.0,
-        "market_cap": 132968407040.0
+        "market_cap": 133121548288.0
       },
       "status": "Delayed public feed"
     },
@@ -1857,17 +1857,17 @@
         "label": "Wait / Higher Risk",
         "reasons": [
           "RSI(14): 27",
-          "29.8% below one-year closing high",
-          "Forward/trailing P/E: 57.8",
+          "29.7% below one-year closing high",
+          "Forward/trailing P/E: 57.9",
           "Below 50-day average"
         ],
-        "rsi": 26.5,
-        "drawdown_pct": -29.82
+        "rsi": 26.7,
+        "drawdown_pct": -29.65
       },
       "ticker": "PLTR",
       "name": "Palantir Technologies Inc.",
       "sector": "Technology",
-      "price": 146.71409606933594,
+      "price": 147.05999755859375,
       "as_of": "2026-11-20",
       "scores": {
         "value": 45,
@@ -1880,16 +1880,16 @@
       "entry_score": 25,
       "coverage": 12,
       "metrics": {
-        "pe": 103.29578,
-        "forward_pe": 57.77601,
-        "pb": 31.46964,
+        "pe": 103.563385,
+        "forward_pe": 57.92569,
+        "pb": 31.55117,
         "roe": 0.40907001,
         "margin": 0.50343,
         "revenue_growth": 0.959,
         "earnings_growth": 1.444,
         "dividend_yield": 0.0,
         "payout": 0.0,
-        "market_cap": 353425096704.0
+        "market_cap": 354340700160.0
       },
       "status": "Delayed public feed"
     },
@@ -1899,17 +1899,17 @@
         "label": "Wait / Higher Risk",
         "reasons": [
           "RSI(14): 49",
-          "17.1% below one-year closing high",
-          "Forward/trailing P/E: 70.9",
+          "16.6% below one-year closing high",
+          "Forward/trailing P/E: 71.3",
           "Below 50-day average"
         ],
-        "rsi": 48.8,
-        "drawdown_pct": -17.14
+        "rsi": 49.5,
+        "drawdown_pct": -16.62
       },
       "ticker": "PANW",
       "name": "Palo Alto Networks, Inc.",
       "sector": "Technology",
-      "price": 347.92999267578125,
+      "price": 350.1000061035156,
       "as_of": "2026-11-20",
       "scores": {
         "value": 17,
@@ -1922,36 +1922,36 @@
       "entry_score": 50,
       "coverage": 12,
       "metrics": {
-        "pe": 610.4035,
-        "forward_pe": 70.88272,
-        "pb": 9.940857,
+        "pe": 614.2106,
+        "forward_pe": 71.324814,
+        "pb": 10.002857,
         "roe": 0.02438,
         "margin": 0.03654,
         "revenue_growth": 0.392,
         "earnings_growth": 0.213,
         "dividend_yield": 0.0,
         "payout": 0.0,
-        "market_cap": 285650518016.0
+        "market_cap": 287432114176.0
       },
       "status": "Delayed public feed"
     },
     {
       "opportunity": {
-        "score": 40,
+        "score": 39,
         "label": "Wait / Higher Risk",
         "reasons": [
-          "RSI(14): 44",
-          "17.1% below one-year closing high",
-          "Forward/trailing P/E: 143.5",
+          "RSI(14): 45",
+          "16.7% below one-year closing high",
+          "Forward/trailing P/E: 144.3",
           "Below 50-day average"
         ],
-        "rsi": 44.4,
-        "drawdown_pct": -17.11
+        "rsi": 45.0,
+        "drawdown_pct": -16.65
       },
       "ticker": "CRWD",
       "name": "CrowdStrike Holdings, Inc.",
       "sector": "Technology",
-      "price": 231.16000366210938,
+      "price": 232.4199981689453,
       "as_of": "2026-11-20",
       "scores": {
         "value": 11,
@@ -1964,36 +1964,36 @@
       "entry_score": 50,
       "coverage": 11,
       "metrics": {
-        "pe": 3852.6667,
-        "forward_pe": 143.46803,
-        "pb": 46.38973,
+        "pe": 3873.6667,
+        "forward_pe": 144.25005,
+        "pb": 46.642586,
         "roe": 0.01461,
         "margin": 0.00834,
         "revenue_growth": 0.258,
         "earnings_growth": null,
         "dividend_yield": 0.0,
         "payout": 0.0,
-        "market_cap": 236692783104.0
+        "market_cap": 237982941184.0
       },
       "status": "Delayed public feed"
     },
     {
       "opportunity": {
-        "score": 78,
+        "score": 79,
         "label": "Worth Watching",
         "reasons": [
           "RSI(14): 31",
-          "50.0% below one-year closing high",
+          "49.6% below one-year closing high",
           "Forward/trailing P/E: 2.9",
           "Below 50-day average"
         ],
-        "rsi": 30.9,
-        "drawdown_pct": -50.05
+        "rsi": 31.2,
+        "drawdown_pct": -49.57
       },
       "ticker": "MU",
       "name": "Micron Technology, Inc.",
       "sector": "Technology",
-      "price": 606.0399780273438,
+      "price": 611.7999877929688,
       "as_of": "2026-11-20",
       "scores": {
         "value": 93,
@@ -2006,16 +2006,16 @@
       "entry_score": 25,
       "coverage": 12,
       "metrics": {
-        "pe": 8.15337,
-        "forward_pe": 2.9170127,
-        "pb": 4.9533305,
+        "pe": 8.228575,
+        "forward_pe": 2.943919,
+        "pb": 4.999019,
         "roe": 0.8826,
         "margin": 0.63796,
         "revenue_growth": 3.793,
         "earnings_growth": 10.595,
-        "dividend_yield": 0.000990033661144479,
+        "dividend_yield": 0.0009809852361721955,
         "payout": 0.0070999996,
-        "market_cap": 685687701504.0
+        "market_cap": 692012384256.0
       },
       "status": "Delayed public feed"
     },
@@ -2025,17 +2025,17 @@
         "label": "Worth Watching",
         "reasons": [
           "RSI(14): 36",
-          "57.1% below one-year closing high",
-          "Forward/trailing P/E: 15.1",
+          "56.8% below one-year closing high",
+          "Forward/trailing P/E: 15.2",
           "Below 50-day average"
         ],
-        "rsi": 36.2,
-        "drawdown_pct": -57.11
+        "rsi": 36.5,
+        "drawdown_pct": -56.84
       },
       "ticker": "LRCX",
       "name": "Lam Research Corporation",
       "sector": "Technology",
-      "price": 185.66000366210938,
+      "price": 186.84500122070312,
       "as_of": "2026-11-20",
       "scores": {
         "value": 71,
@@ -2048,16 +2048,16 @@
       "entry_score": 25,
       "coverage": 12,
       "metrics": {
-        "pe": 27.669151,
-        "forward_pe": 15.128256,
-        "pb": 16.67505,
+        "pe": 27.845753,
+        "forward_pe": 15.224813,
+        "pb": 16.78148,
         "roe": 0.7012,
         "margin": 0.3234,
         "revenue_growth": 0.544,
         "earnings_growth": 0.766,
-        "dividend_yield": 0.007109962026339177,
+        "dividend_yield": 0.007064679279616795,
         "payout": 0.16540001,
-        "market_cap": 231921074176.0
+        "market_cap": 233401352192.0
       },
       "status": "Delayed public feed"
     },
@@ -2066,18 +2066,18 @@
         "score": 79,
         "label": "Worth Watching",
         "reasons": [
-          "RSI(14): 36",
-          "57.2% below one-year closing high",
-          "Forward/trailing P/E: 12.5",
+          "RSI(14): 37",
+          "56.9% below one-year closing high",
+          "Forward/trailing P/E: 12.6",
           "Below 50-day average"
         ],
-        "rsi": 36.2,
-        "drawdown_pct": -57.22
+        "rsi": 36.6,
+        "drawdown_pct": -56.93
       },
       "ticker": "AMAT",
       "name": "Applied Materials, Inc.",
       "sector": "Technology",
-      "price": 308.5400085449219,
+      "price": 310.6099853515625,
       "as_of": "2026-11-20",
       "scores": {
         "value": 79,
@@ -2090,16 +2090,16 @@
       "entry_score": 25,
       "coverage": 12,
       "metrics": {
-        "pe": 24.448496,
-        "forward_pe": 12.533601,
-        "pb": 9.372133,
+        "pe": 24.612518,
+        "forward_pe": 12.617687,
+        "pb": 9.43501,
         "roe": 0.4337,
         "margin": 0.29286,
         "revenue_growth": 0.531,
         "earnings_growth": 0.431,
-        "dividend_yield": 0.006871070201594606,
+        "dividend_yield": 0.006825279289140723,
         "payout": 0.16479999,
-        "market_cap": 244856553472.0
+        "market_cap": 246499295232.0
       },
       "status": "Delayed public feed"
     },
@@ -2109,17 +2109,17 @@
         "label": "Worth Watching",
         "reasons": [
           "RSI(14): 37",
-          "57.2% below one-year closing high",
-          "Forward/trailing P/E: 18.1",
+          "57.0% below one-year closing high",
+          "Forward/trailing P/E: 18.2",
           "Below 50-day average"
         ],
-        "rsi": 37.2,
-        "drawdown_pct": -57.24
+        "rsi": 37.4,
+        "drawdown_pct": -57.03
       },
       "ticker": "KLAC",
       "name": "KLA Corporation",
       "sector": "Technology",
-      "price": 128.67999267578125,
+      "price": 129.2899932861328,
       "as_of": "2026-11-20",
       "scores": {
         "value": 65,
@@ -2132,16 +2132,16 @@
       "entry_score": 25,
       "coverage": 12,
       "metrics": {
-        "pe": 32.250626,
-        "forward_pe": 18.110245,
-        "pb": 25.710287,
+        "pe": 32.403507,
+        "forward_pe": 18.196096,
+        "pb": 25.832167,
         "roe": 0.91382,
         "margin": 0.3625,
         "revenue_growth": 0.289,
         "earnings_growth": 0.388,
-        "dividend_yield": 0.007149518184644078,
+        "dividend_yield": 0.00711578621703148,
         "payout": 0.21030001,
-        "market_cap": 167665188864.0
+        "market_cap": 168460009472.0
       },
       "status": "Delayed public feed"
     },
@@ -2150,18 +2150,18 @@
         "score": 54,
         "label": "Wait / Higher Risk",
         "reasons": [
-          "RSI(14): 56",
-          "2.8% below one-year closing high",
+          "RSI(14): 57",
+          "2.7% below one-year closing high",
           "Forward/trailing P/E: 22.5",
           "Above 50-day average"
         ],
-        "rsi": 56.4,
-        "drawdown_pct": -2.8
+        "rsi": 56.6,
+        "drawdown_pct": -2.73
       },
       "ticker": "ADP",
       "name": "Automatic Data Processing, Inc.",
       "sector": "Technology",
-      "price": 304.6499938964844,
+      "price": 304.8699951171875,
       "as_of": "2026-11-20",
       "scores": {
         "value": 57,
@@ -2174,22 +2174,22 @@
       "entry_score": 80,
       "coverage": 12,
       "metrics": {
-        "pe": 27.007978,
-        "forward_pe": 22.526436,
-        "pb": 23.66765,
+        "pe": 27.027483,
+        "forward_pe": 22.542704,
+        "pb": 23.684742,
         "roe": 0.78942,
         "margin": 0.20327999,
         "revenue_growth": 0.061,
         "earnings_growth": 0.137,
-        "dividend_yield": 0.024946660101756113,
+        "dividend_yield": 0.024928658116574277,
         "payout": 0.6028,
-        "market_cap": 120263458816.0
+        "market_cap": 120350302208.0
       },
       "status": "Delayed public feed"
     },
     {
       "opportunity": {
-        "score": 44,
+        "score": 43,
         "label": "Wait / Higher Risk",
         "reasons": [
           "RSI(14): 51",
@@ -2197,13 +2197,13 @@
           "Forward/trailing P/E: 28.0",
           "Above 50-day average"
         ],
-        "rsi": 51.2,
-        "drawdown_pct": -4.45
+        "rsi": 51.3,
+        "drawdown_pct": -4.42
       },
       "ticker": "SBUX",
       "name": "Starbucks Corporation",
       "sector": "Consumer Cyclical",
-      "price": 104.44499969482422,
+      "price": 104.47000122070312,
       "as_of": "2026-11-20",
       "scores": {
         "value": 52,
@@ -2216,16 +2216,16 @@
       "entry_score": 80,
       "coverage": 10,
       "metrics": {
-        "pe": 47.26018,
-        "forward_pe": 28.038248,
-        "pb": -15.526237,
+        "pe": 47.271492,
+        "forward_pe": 28.04496,
+        "pb": -15.529954,
         "roe": null,
         "margin": 0.06665,
         "revenue_growth": -0.045,
         "earnings_growth": 4.053,
-        "dividend_yield": 0.02412753123653598,
+        "dividend_yield": 0.024121757442327942,
         "payout": 1.1222,
-        "market_cap": 119077740544.0
+        "market_cap": 119106248704.0
       },
       "status": "Delayed public feed"
     },
@@ -2235,39 +2235,39 @@
         "label": "Wait / Higher Risk",
         "reasons": [
           "RSI(14): 30",
-          "49.3% below one-year closing high",
-          "Forward/trailing P/E: 24.1",
+          "49.2% below one-year closing high",
+          "Forward/trailing P/E: 24.2",
           "Below 50-day average"
         ],
-        "rsi": 30.1,
-        "drawdown_pct": -49.28
+        "rsi": 30.3,
+        "drawdown_pct": -49.16
       },
       "ticker": "NKE",
       "name": "Nike, Inc.",
       "sector": "Consumer Cyclical",
-      "price": 33.4900016784668,
+      "price": 33.56999969482422,
       "as_of": "2026-11-20",
       "scores": {
         "value": 59,
         "growth": 18,
         "income": 55,
-        "speculative": 23
+        "speculative": 22
       },
       "risk_score": 39,
       "risk": "Moderate",
       "entry_score": 25,
       "coverage": 12,
       "metrics": {
-        "pe": 16.100964,
-        "forward_pe": 24.09526,
-        "pb": 3.2631788,
+        "pe": 16.139423,
+        "forward_pe": 24.152817,
+        "pb": 3.2709734,
         "roe": 0.21563,
         "margin": 0.0674,
         "revenue_growth": -0.043,
         "earnings_growth": -0.021,
-        "dividend_yield": 0.048969841743804116,
+        "dividend_yield": 0.04885314268692285,
         "payout": 0.7885,
-        "market_cap": 49742995456.0
+        "market_cap": 49861816320.0
       },
       "status": "Delayed public feed"
     },
@@ -2277,17 +2277,17 @@
         "label": "Worth Watching",
         "reasons": [
           "RSI(14): 55",
-          "20.7% below one-year closing high",
+          "20.8% below one-year closing high",
           "Forward/trailing P/E: 17.6",
           "Above 50-day average"
         ],
-        "rsi": 55.2,
-        "drawdown_pct": -20.7
+        "rsi": 55.0,
+        "drawdown_pct": -20.79
       },
       "ticker": "LOW",
       "name": "Lowe's Companies, Inc.",
       "sector": "Consumer Cyclical",
-      "price": 224.0050048828125,
+      "price": 223.7449951171875,
       "as_of": "2026-11-20",
       "scores": {
         "value": 64,
@@ -2300,16 +2300,16 @@
       "entry_score": 80,
       "coverage": 10,
       "metrics": {
-        "pe": 18.792366,
-        "forward_pe": 17.58716,
-        "pb": -19.611715,
+        "pe": 18.770554,
+        "forward_pe": 17.566746,
+        "pb": -19.588951,
         "roe": null,
         "margin": 0.072519995,
         "revenue_growth": 0.093,
         "earnings_growth": 0.034,
-        "dividend_yield": 0.02232093033637642,
+        "dividend_yield": 0.022346868086437686,
         "payout": 0.41,
-        "market_cap": 125678911488.0
+        "market_cap": 125533028352.0
       },
       "status": "Delayed public feed"
     },
@@ -2319,17 +2319,17 @@
         "label": "Wait / Higher Risk",
         "reasons": [
           "RSI(14): 30",
-          "13.8% below one-year closing high",
-          "Forward/trailing P/E: 26.6",
+          "13.7% below one-year closing high",
+          "Forward/trailing P/E: 26.7",
           "Below 50-day average"
         ],
-        "rsi": 29.8,
-        "drawdown_pct": -13.83
+        "rsi": 30.1,
+        "drawdown_pct": -13.69
       },
       "ticker": "DE",
       "name": "Deere & Company",
       "sector": "Industrials",
-      "price": 609.875,
+      "price": 610.9000244140625,
       "as_of": "2026-11-20",
       "scores": {
         "value": 45,
@@ -2342,16 +2342,16 @@
       "entry_score": 25,
       "coverage": 12,
       "metrics": {
-        "pe": 33.90078,
-        "forward_pe": 26.619648,
-        "pb": 5.8748593,
+        "pe": 33.957756,
+        "forward_pe": 26.664387,
+        "pb": 5.884733,
         "roe": 0.18242,
         "margin": 0.10168,
         "revenue_growth": 0.049,
         "earnings_growth": 0.074,
-        "dividend_yield": 0.010625128100020496,
+        "dividend_yield": 0.010607300703879522,
         "payout": 0.36020002,
-        "market_cap": 164437803008.0
+        "market_cap": 164714168320.0
       },
       "status": "Delayed public feed"
     },
@@ -2361,17 +2361,17 @@
         "label": "Worth Watching",
         "reasons": [
           "RSI(14): 33",
-          "30.2% below one-year closing high",
+          "29.9% below one-year closing high",
           "Forward/trailing P/E: 10.8",
           "Below 50-day average"
         ],
-        "rsi": 33.1,
-        "drawdown_pct": -30.16
+        "rsi": 33.5,
+        "drawdown_pct": -29.86
       },
       "ticker": "GS",
       "name": "Goldman Sachs Group, Inc. (The)",
       "sector": "Financial Services",
-      "price": 800.7249755859375,
+      "price": 804.0999755859375,
       "as_of": "2026-11-20",
       "scores": {
         "value": 76,
@@ -2384,16 +2384,16 @@
       "entry_score": 25,
       "coverage": 11,
       "metrics": {
-        "pe": 11.512939,
-        "forward_pe": 10.784574,
-        "pb": 2.182246,
+        "pe": 11.561465,
+        "forward_pe": 10.8300295,
+        "pb": 2.191444,
         "roe": 0.17712,
         "margin": 0.31208,
         "revenue_growth": 0.233,
         "earnings_growth": 0.388,
-        "dividend_yield": 0.02497736426363608,
+        "dividend_yield": 0.02487252829250093,
         "payout": 0.2588,
-        "market_cap": 230956777472.0
+        "market_cap": 231930249216.0
       },
       "status": "Delayed public feed"
     },
@@ -2403,17 +2403,17 @@
         "label": "Worth Watching",
         "reasons": [
           "RSI(14): 34",
-          "25.6% below one-year closing high",
-          "Forward/trailing P/E: 12.3",
+          "25.4% below one-year closing high",
+          "Forward/trailing P/E: 12.4",
           "Below 50-day average"
         ],
-        "rsi": 34.1,
-        "drawdown_pct": -25.58
+        "rsi": 34.3,
+        "drawdown_pct": -25.44
       },
       "ticker": "MS",
       "name": "Morgan Stanley",
       "sector": "Financial Services",
-      "price": 168.1300048828125,
+      "price": 168.4499969482422,
       "as_of": "2026-11-20",
       "scores": {
         "value": 74,
@@ -2426,16 +2426,16 @@
       "entry_score": 25,
       "coverage": 11,
       "metrics": {
-        "pe": 13.33307,
-        "forward_pe": 12.327946,
-        "pb": 2.4511962,
+        "pe": 13.358446,
+        "forward_pe": 12.351409,
+        "pb": 2.4558613,
         "roe": 0.18035,
         "margin": 0.25634,
         "revenue_growth": 0.108,
         "earnings_growth": 0.082,
-        "dividend_yield": 0.027359781121751026,
+        "dividend_yield": 0.02730780647076284,
         "payout": 0.3291,
-        "market_cap": 262794575872.0
+        "market_cap": 263294730240.0
       },
       "status": "Delayed public feed"
     },
@@ -2446,16 +2446,16 @@
         "reasons": [
           "RSI(14): 62",
           "19.0% below one-year closing high",
-          "Forward/trailing P/E: 11.7",
+          "Forward/trailing P/E: 11.8",
           "Below 50-day average"
         ],
-        "rsi": 62.0,
-        "drawdown_pct": -19.05
+        "rsi": 62.4,
+        "drawdown_pct": -18.98
       },
       "ticker": "SCHW",
       "name": "Charles Schwab Corporation (The",
       "sector": "Financial Services",
-      "price": 91.67990112304688,
+      "price": 91.76000213623047,
       "as_of": "2026-11-20",
       "scores": {
         "value": 79,
@@ -2468,16 +2468,16 @@
       "entry_score": 25,
       "coverage": 11,
       "metrics": {
-        "pe": 15.671779,
-        "forward_pe": 11.749721,
-        "pb": 3.4972305,
+        "pe": 15.685471,
+        "forward_pe": 11.759987,
+        "pb": 3.500286,
         "roe": 0.21113001,
         "margin": 0.39333,
         "revenue_growth": 0.169,
         "earnings_growth": 0.286,
-        "dividend_yield": 0.013961620813286228,
+        "dividend_yield": 0.013949433304272013,
         "payout": 0.21030001,
-        "market_cap": 158240210944.0
+        "market_cap": 158378475520.0
       },
       "status": "Delayed public feed"
     },
@@ -2491,13 +2491,13 @@
           "Forward/trailing P/E: 17.2",
           "Below 50-day average"
         ],
-        "rsi": 41.3,
-        "drawdown_pct": -9.12
+        "rsi": 41.4,
+        "drawdown_pct": -9.07
       },
       "ticker": "BLK",
       "name": "BlackRock, Inc.",
       "sector": "Financial Services",
-      "price": 1114.4449462890625,
+      "price": 1115.030029296875,
       "as_of": "2026-11-20",
       "scores": {
         "value": 73,
@@ -2510,16 +2510,16 @@
       "entry_score": 50,
       "coverage": 12,
       "metrics": {
-        "pe": 25.37443,
-        "forward_pe": 17.158552,
-        "pb": 2.9639966,
+        "pe": 25.388435,
+        "forward_pe": 17.168024,
+        "pb": 2.9656327,
         "roe": 0.11607,
         "margin": 0.24216999,
         "revenue_growth": 0.191,
         "earnings_growth": 0.254,
-        "dividend_yield": 0.020566290844321617,
+        "dividend_yield": 0.020555500748858778,
         "payout": 0.51,
-        "market_cap": 172096405504.0
+        "market_cap": 172191399936.0
       },
       "status": "Delayed public feed"
     },
@@ -2528,18 +2528,18 @@
         "score": 58,
         "label": "Wait / Higher Risk",
         "reasons": [
-          "RSI(14): 34",
-          "13.0% below one-year closing high",
-          "Forward/trailing P/E: 22.1",
+          "RSI(14): 35",
+          "12.9% below one-year closing high",
+          "Forward/trailing P/E: 22.2",
           "Above 50-day average"
         ],
-        "rsi": 34.4,
-        "drawdown_pct": -13.05
+        "rsi": 34.8,
+        "drawdown_pct": -12.94
       },
       "ticker": "SPGI",
       "name": "S&P Global Inc.",
       "sector": "Financial Services",
-      "price": 446.3699951171875,
+      "price": 446.9100036621094,
       "as_of": "2026-11-20",
       "scores": {
         "value": 64,
@@ -2552,16 +2552,16 @@
       "entry_score": 80,
       "coverage": 12,
       "metrics": {
-        "pe": 26.664875,
-        "forward_pe": 22.125105,
-        "pb": 6.5653267,
+        "pe": 26.697134,
+        "forward_pe": 22.15187,
+        "pb": 6.5732694,
         "roe": 0.17875999,
         "margin": 0.30602,
         "revenue_growth": 0.068,
         "earnings_growth": 0.101,
-        "dividend_yield": 0.008692340435065081,
+        "dividend_yield": 0.008681837506433062,
         "payout": 0.2206,
-        "market_cap": 129402658816.0
+        "market_cap": 129559207936.0
       },
       "status": "Delayed public feed"
     },
@@ -2576,12 +2576,12 @@
           "Above 50-day average"
         ],
         "rsi": 50.4,
-        "drawdown_pct": -4.49
+        "drawdown_pct": -4.48
       },
       "ticker": "ICE",
       "name": "Intercontinental Exchange Inc.",
       "sector": "Financial Services",
-      "price": 172.49000549316406,
+      "price": 172.5050048828125,
       "as_of": "2026-11-20",
       "scores": {
         "value": 70,
@@ -2594,16 +2594,16 @@
       "entry_score": 80,
       "coverage": 12,
       "metrics": {
-        "pe": 23.5,
-        "forward_pe": 19.286762,
-        "pb": 3.2191782,
+        "pe": 23.502045,
+        "forward_pe": 19.288439,
+        "pb": 3.219458,
         "roe": 0.14399,
         "margin": 0.38141,
         "revenue_growth": 0.147,
         "earnings_growth": 0.176,
-        "dividend_yield": 0.012058670067830018,
+        "dividend_yield": 0.012057621518216865,
         "payout": 0.2779,
-        "market_cap": 96397492224.0
+        "market_cap": 96405872640.0
       },
       "status": "Delayed public feed"
     },
@@ -2613,17 +2613,17 @@
         "label": "Wait / Higher Risk",
         "reasons": [
           "RSI(14): 55",
-          "2.6% below one-year closing high",
-          "Forward/trailing P/E: 23.5",
+          "2.8% below one-year closing high",
+          "Forward/trailing P/E: 23.4",
           "Above 50-day average"
         ],
-        "rsi": 55.5,
-        "drawdown_pct": -2.62
+        "rsi": 54.9,
+        "drawdown_pct": -2.78
       },
       "ticker": "CME",
       "name": "CME Group Inc.",
       "sector": "Financial Services",
-      "price": 310.99969482421875,
+      "price": 310.4800109863281,
       "as_of": "2026-11-20",
       "scores": {
         "value": 68,
@@ -2636,16 +2636,16 @@
       "entry_score": 80,
       "coverage": 12,
       "metrics": {
-        "pe": 25.49178,
-        "forward_pe": 23.465742,
-        "pb": 4.1851664,
+        "pe": 25.449183,
+        "forward_pe": 23.42653,
+        "pb": 4.1781726,
         "roe": 0.16131,
         "margin": 0.63482,
         "revenue_growth": 0.13,
         "earnings_growth": 0.161,
-        "dividend_yield": 0.016720273363607745,
+        "dividend_yield": 0.01674826075753672,
         "payout": 0.92620003,
-        "market_cap": 111317327872.0
+        "market_cap": 111131320320.0
       },
       "status": "Delayed public feed"
     },
@@ -2655,20 +2655,20 @@
         "label": "Worth Watching",
         "reasons": [
           "RSI(14): 33",
-          "11.8% below one-year closing high",
+          "11.7% below one-year closing high",
           "Forward/trailing P/E: 9.8",
           "Below 50-day average"
         ],
-        "rsi": 32.7,
-        "drawdown_pct": -11.81
+        "rsi": 33.0,
+        "drawdown_pct": -11.7
       },
       "ticker": "USB",
       "name": "U.S. Bancorp",
       "sector": "Financial Services",
-      "price": 57.15999984741211,
+      "price": 57.22999954223633,
       "as_of": "2026-11-20",
       "scores": {
-        "value": 81,
+        "value": 80,
         "growth": 45,
         "income": 63,
         "speculative": 34
@@ -2678,16 +2678,16 @@
       "entry_score": 25,
       "coverage": 10,
       "metrics": {
-        "pe": 11.120623,
-        "forward_pe": 9.753367,
-        "pb": 1.4939494,
+        "pe": 11.134241,
+        "forward_pe": 9.765312,
+        "pb": 1.4957789,
         "roe": 0.12843001,
         "margin": 0.30010998,
         "revenue_growth": 0.084,
         "earnings_growth": 0.102,
-        "dividend_yield": 0.03778866340097971,
+        "dividend_yield": 0.03774244277476848,
         "payout": 0.4086,
-        "market_cap": 89067216896.0
+        "market_cap": 89176285184.0
       },
       "status": "Delayed public feed"
     },
@@ -2696,18 +2696,18 @@
         "score": 54,
         "label": "Wait / Higher Risk",
         "reasons": [
-          "RSI(14): 22",
-          "9.2% below one-year closing high",
+          "RSI(14): 23",
+          "9.1% below one-year closing high",
           "Forward/trailing P/E: 9.3",
           "Below 50-day average"
         ],
-        "rsi": 22.4,
-        "drawdown_pct": -9.17
+        "rsi": 22.7,
+        "drawdown_pct": -9.12
       },
       "ticker": "PFE",
       "name": "Pfizer, Inc.",
       "sector": "Healthcare",
-      "price": 27.565000534057617,
+      "price": 27.579999923706055,
       "as_of": "2026-11-20",
       "scores": {
         "value": 66,
@@ -2720,16 +2720,16 @@
       "entry_score": 50,
       "coverage": 12,
       "metrics": {
-        "pe": 39.378574,
-        "forward_pe": 9.331162,
-        "pb": 1.7654028,
+        "pe": 39.4,
+        "forward_pe": 9.33624,
+        "pb": 1.7663635,
         "roe": 0.04468,
         "margin": 0.06339,
         "revenue_growth": -0.004,
         "earnings_growth": -0.097,
-        "dividend_yield": 0.06239796843823689,
+        "dividend_yield": 0.06236403190717912,
         "payout": 2.4571002,
-        "market_cap": 157116481536.0
+        "market_cap": 157201973248.0
       },
       "status": "Delayed public feed"
     },
@@ -2743,13 +2743,13 @@
           "Forward/trailing P/E: 16.6",
           "Above 50-day average"
         ],
-        "rsi": 46.7,
-        "drawdown_pct": -3.61
+        "rsi": 46.8,
+        "drawdown_pct": -3.6
       },
       "ticker": "GILD",
       "name": "Gilead Sciences, Inc.",
       "sector": "Healthcare",
-      "price": 168.1750030517578,
+      "price": 168.19000244140625,
       "as_of": "2026-11-20",
       "scores": {
         "value": 27,
@@ -2763,15 +2763,15 @@
       "coverage": 11,
       "metrics": {
         "pe": null,
-        "forward_pe": 16.570435,
-        "pb": 16.004473,
+        "forward_pe": 16.575853,
+        "pb": 16.009706,
         "roe": -0.22445999,
         "margin": -0.124630004,
         "revenue_growth": 0.068,
         "earnings_growth": -0.202,
-        "dividend_yield": 0.01950349338486695,
+        "dividend_yield": 0.01949711704214468,
         "payout": 0.4346,
-        "market_cap": 208593944576.0
+        "market_cap": 208662151168.0
       },
       "status": "Delayed public feed"
     },
@@ -2781,17 +2781,17 @@
         "label": "Worth Watching",
         "reasons": [
           "RSI(14): 36",
-          "12.4% below one-year closing high",
+          "12.3% below one-year closing high",
           "Forward/trailing P/E: 8.8",
           "Below 50-day average"
         ],
-        "rsi": 35.9,
-        "drawdown_pct": -12.38
+        "rsi": 36.1,
+        "drawdown_pct": -12.33
       },
       "ticker": "BMY",
       "name": "Bristol-Myers Squibb Company",
       "sector": "Healthcare",
-      "price": 59.04990005493164,
+      "price": 59.084999084472656,
       "as_of": "2026-11-20",
       "scores": {
         "value": 80,
@@ -2804,16 +2804,16 @@
       "entry_score": 25,
       "coverage": 12,
       "metrics": {
-        "pe": 13.093103,
-        "forward_pe": 8.818143,
-        "pb": 5.1571965,
+        "pe": 13.100886,
+        "forward_pe": 8.823384,
+        "pb": 5.160262,
         "roe": 0.44005,
         "margin": 0.18474,
         "revenue_growth": 0.069,
         "earnings_growth": -0.028,
-        "dividend_yield": 0.04267577083111063,
+        "dividend_yield": 0.04265041888804265,
         "payout": 0.5588,
-        "market_cap": 120703066112.0
+        "market_cap": 120774811648.0
       },
       "status": "Delayed public feed"
     },
@@ -2823,17 +2823,17 @@
         "label": "Worth Watching",
         "reasons": [
           "RSI(14): 55",
-          "3.9% below one-year closing high",
-          "Forward/trailing P/E: 15.7",
+          "3.8% below one-year closing high",
+          "Forward/trailing P/E: 15.8",
           "Above 50-day average"
         ],
-        "rsi": 54.7,
-        "drawdown_pct": -3.88
+        "rsi": 55.0,
+        "drawdown_pct": -3.77
       },
       "ticker": "MDT",
       "name": "Medtronic plc.",
       "sector": "Healthcare",
-      "price": 100.88999938964844,
+      "price": 101.00499725341797,
       "as_of": "2026-11-20",
       "scores": {
         "value": 67,
@@ -2846,16 +2846,16 @@
       "entry_score": 80,
       "coverage": 12,
       "metrics": {
-        "pe": 24.788696,
-        "forward_pe": 15.749445,
-        "pb": 2.5709698,
+        "pe": 24.816952,
+        "forward_pe": 15.767397,
+        "pb": 2.5739002,
         "roe": 0.106479995,
         "margin": 0.13934,
         "revenue_growth": 0.137,
         "earnings_growth": 0.407,
-        "dividend_yield": 0.02854594112399643,
+        "dividend_yield": 0.0285134399287164,
         "payout": 0.70019996,
-        "market_cap": 129052221440.0
+        "market_cap": 129199325184.0
       },
       "status": "Delayed public feed"
     },
@@ -2869,13 +2869,13 @@
           "Forward/trailing P/E: 21.9",
           "Above 50-day average"
         ],
-        "rsi": 43.7,
-        "drawdown_pct": -15.79
+        "rsi": 43.6,
+        "drawdown_pct": -15.81
       },
       "ticker": "HON",
       "name": "Honeywell International Inc.",
       "sector": "Industrials",
-      "price": 216.5189971923828,
+      "price": 216.47000122070312,
       "as_of": "2026-11-20",
       "scores": {
         "value": 74,
@@ -2888,16 +2888,16 @@
       "entry_score": 55,
       "coverage": 12,
       "metrics": {
-        "pe": 10.734705,
-        "forward_pe": 21.924486,
-        "pb": 3.0652783,
+        "pe": 10.732276,
+        "forward_pe": 21.919525,
+        "pb": 3.0645845,
         "roe": 0.44387,
         "margin": 0.18684,
         "revenue_growth": 0.013,
         "earnings_growth": -0.636,
-        "dividend_yield": 0.01293189050383569,
+        "dividend_yield": 0.012934817757656949,
         "payout": 0.38869998,
-        "market_cap": 68714151936.0
+        "market_cap": 68698599424.0
       },
       "status": "Delayed public feed"
     },
@@ -2907,17 +2907,17 @@
         "label": "Worth Watching",
         "reasons": [
           "RSI(14): 49",
-          "6.0% below one-year closing high",
+          "5.8% below one-year closing high",
           "Forward/trailing P/E: 13.3",
           "Above 50-day average"
         ],
-        "rsi": 48.6,
-        "drawdown_pct": -5.98
+        "rsi": 49.0,
+        "drawdown_pct": -5.79
       },
       "ticker": "UPS",
       "name": "United Parcel Service, Inc.",
       "sector": "Industrials",
-      "price": 107.3499984741211,
+      "price": 107.57499694824219,
       "as_of": "2026-11-20",
       "scores": {
         "value": 64,
@@ -2930,16 +2930,16 @@
       "entry_score": 80,
       "coverage": 12,
       "metrics": {
-        "pe": 20.684008,
-        "forward_pe": 13.260059,
-        "pb": 6.0928545,
+        "pe": 20.72736,
+        "forward_pe": 13.287851,
+        "pb": 6.1056247,
         "roe": 0.28645,
         "margin": 0.0484,
         "revenue_growth": 0.067,
         "earnings_growth": -0.116,
-        "dividend_yield": 0.06110852352119236,
+        "dividend_yield": 0.06098071113176853,
         "payout": 1.264,
-        "market_cap": 91405238272.0
+        "market_cap": 91596816384.0
       },
       "status": "Delayed public feed"
     },
@@ -2949,17 +2949,17 @@
         "label": "Wait / Higher Risk",
         "reasons": [
           "RSI(14): 38",
-          "14.6% below one-year closing high",
+          "14.4% below one-year closing high",
           "Forward/trailing P/E: 23.8",
           "Above 50-day average"
         ],
-        "rsi": 38.0,
-        "drawdown_pct": -14.57
+        "rsi": 38.3,
+        "drawdown_pct": -14.45
       },
       "ticker": "RTX",
       "name": "RTX Corporation",
       "sector": "Industrials",
-      "price": 192.63999938964844,
+      "price": 192.91009521484375,
       "as_of": "2026-11-20",
       "scores": {
         "value": 54,
@@ -2972,16 +2972,16 @@
       "entry_score": 55,
       "coverage": 12,
       "metrics": {
-        "pe": 31.323576,
-        "forward_pe": 23.807318,
-        "pb": 3.7538486,
+        "pe": 31.367495,
+        "forward_pe": 23.840696,
+        "pb": 3.7591116,
         "roe": 0.1285,
         "margin": 0.08754,
         "revenue_growth": 0.111,
         "earnings_growth": 0.34,
-        "dividend_yield": 0.0151578073089701,
+        "dividend_yield": 0.015136584346801955,
         "payout": 0.4585,
-        "market_cap": 259956211712.0
+        "market_cap": 260320690176.0
       },
       "status": "Delayed public feed"
     },
@@ -2991,17 +2991,17 @@
         "label": "Wait / Higher Risk",
         "reasons": [
           "RSI(14): 29",
-          "14.6% below one-year closing high",
-          "Forward/trailing P/E: 17.1",
+          "14.4% below one-year closing high",
+          "Forward/trailing P/E: 17.2",
           "Above 50-day average"
         ],
-        "rsi": 28.5,
-        "drawdown_pct": -14.57
+        "rsi": 28.7,
+        "drawdown_pct": -14.42
       },
       "ticker": "LMT",
       "name": "Lockheed Martin Corporation",
       "sector": "Industrials",
-      "price": 570.7899780273438,
+      "price": 571.8099975585938,
       "as_of": "2026-11-20",
       "scores": {
         "value": 52,
@@ -3014,16 +3014,16 @@
       "entry_score": 80,
       "coverage": 12,
       "metrics": {
-        "pe": 20.269531,
-        "forward_pe": 17.146088,
-        "pb": 13.046032,
+        "pe": 20.305754,
+        "forward_pe": 17.176727,
+        "pb": 13.069345,
         "roe": 0.8019,
         "margin": 0.082320005,
         "revenue_growth": 0.113,
         "earnings_growth": 0.147,
-        "dividend_yield": 0.02522819250512448,
+        "dividend_yield": 0.025183190220527802,
         "payout": 0.4901,
-        "market_cap": 131855130624.0
+        "market_cap": 132090765312.0
       },
       "status": "Delayed public feed"
     },
@@ -3032,18 +3032,18 @@
         "score": 71,
         "label": "Potential Buying Opportunity",
         "reasons": [
-          "RSI(14): 41",
-          "29.0% below one-year closing high",
+          "RSI(14): 42",
+          "28.9% below one-year closing high",
           "Forward/trailing P/E: 18.1",
           "Above 50-day average"
         ],
-        "rsi": 41.4,
-        "drawdown_pct": -28.95
+        "rsi": 41.6,
+        "drawdown_pct": -28.88
       },
       "ticker": "NOC",
       "name": "Northrop Grumman Corporation",
       "sector": "Industrials",
-      "price": 540.8099975585938,
+      "price": 541.3300170898438,
       "as_of": "2026-11-20",
       "scores": {
         "value": 68,
@@ -3056,16 +3056,16 @@
       "entry_score": 55,
       "coverage": 12,
       "metrics": {
-        "pe": 17.071022,
-        "forward_pe": 18.062662,
-        "pb": 4.1122794,
+        "pe": 17.087437,
+        "forward_pe": 18.08003,
+        "pb": 4.116234,
         "roe": 0.26073998,
         "margin": 0.103690006,
         "revenue_growth": 0.067,
         "earnings_growth": 0.029,
-        "dividend_yield": 0.01826889295686101,
+        "dividend_yield": 0.01825134391221621,
         "payout": 0.3018,
-        "market_cap": 76829900800.0
+        "market_cap": 76903776256.0
       },
       "status": "Delayed public feed"
     },
@@ -3076,16 +3076,16 @@
         "reasons": [
           "RSI(14): 22",
           "37.3% below one-year closing high",
-          "Forward/trailing P/E: 72.6",
+          "Forward/trailing P/E: 72.7",
           "Below 50-day average"
         ],
         "rsi": 21.9,
-        "drawdown_pct": -37.32
+        "drawdown_pct": -37.29
       },
       "ticker": "BA",
       "name": "Boeing Company (The)",
       "sector": "Industrials",
-      "price": 158.05999755859375,
+      "price": 158.1199951171875,
       "as_of": "2026-11-20",
       "scores": {
         "value": 15,
@@ -3098,16 +3098,16 @@
       "entry_score": 25,
       "coverage": 10,
       "metrics": {
-        "pe": 16.311663,
-        "forward_pe": 72.6372,
-        "pb": 19.135592,
+        "pe": 16.317854,
+        "forward_pe": 72.66477,
+        "pb": 19.142857,
         "roe": null,
         "margin": 0.08066,
         "revenue_growth": 0.039,
         "earnings_growth": null,
         "dividend_yield": 0.0,
         "payout": 0.0,
-        "market_cap": 125254631424.0
+        "market_cap": 125302177792.0
       },
       "status": "Delayed public feed"
     },
@@ -3163,13 +3163,13 @@
           "Forward/trailing P/E: 15.1",
           "Below 50-day average"
         ],
-        "rsi": 23.5,
-        "drawdown_pct": -22.14
+        "rsi": 23.6,
+        "drawdown_pct": -22.08
       },
       "ticker": "SLB",
       "name": "SLB Limited",
       "sector": "Energy",
-      "price": 46.54999923706055,
+      "price": 46.59000015258789,
       "as_of": "2026-11-20",
       "scores": {
         "value": 65,
@@ -3182,16 +3182,16 @@
       "entry_score": 25,
       "coverage": 12,
       "metrics": {
-        "pe": 22.597088,
-        "forward_pe": 15.12267,
-        "pb": 2.6375432,
+        "pe": 22.616505,
+        "forward_pe": 15.135665,
+        "pb": 2.6398096,
         "roe": 0.1166,
         "margin": 0.08396,
         "revenue_growth": 0.058,
         "earnings_growth": -0.02,
-        "dividend_yield": 0.025349087003222342,
+        "dividend_yield": 0.025327323459969946,
         "payout": 0.568,
-        "market_cap": 68709175296.0
+        "market_cap": 68768219136.0
       },
       "status": "Delayed public feed"
     },
@@ -3200,18 +3200,18 @@
         "score": 75,
         "label": "Potential Buying Opportunity",
         "reasons": [
-          "RSI(14): 40",
-          "8.9% below one-year closing high",
+          "RSI(14): 41",
+          "8.8% below one-year closing high",
           "Forward/trailing P/E: 8.9",
           "Above 50-day average"
         ],
-        "rsi": 40.2,
-        "drawdown_pct": -8.95
+        "rsi": 40.6,
+        "drawdown_pct": -8.78
       },
       "ticker": "EOG",
       "name": "EOG Resources, Inc.",
       "sector": "Energy",
-      "price": 150.72999572753906,
+      "price": 151.0,
       "as_of": "2026-11-20",
       "scores": {
         "value": 93,
@@ -3224,16 +3224,16 @@
       "entry_score": 80,
       "coverage": 12,
       "metrics": {
-        "pe": 9.730794,
-        "forward_pe": 8.860842,
-        "pb": 2.367586,
+        "pe": 9.748225,
+        "forward_pe": 8.876714,
+        "pb": 2.3718271,
         "roe": 0.25829,
         "margin": 0.28059,
         "revenue_growth": 0.427,
         "earnings_growth": 0.974,
-        "dividend_yield": 0.029191269156770387,
+        "dividend_yield": 0.02913907284768212,
         "payout": 0.2634,
-        "market_cap": 78151122944.0
+        "market_cap": 78291116032.0
       },
       "status": "Delayed public feed"
     },
@@ -3242,23 +3242,23 @@
         "score": 68,
         "label": "Worth Watching",
         "reasons": [
-          "RSI(14): 25",
+          "RSI(14): 26",
           "17.5% below one-year closing high",
           "Forward/trailing P/E: 10.2",
           "Below 50-day average"
         ],
-        "rsi": 25.5,
-        "drawdown_pct": -17.49
+        "rsi": 25.6,
+        "drawdown_pct": -17.45
       },
       "ticker": "OXY",
       "name": "Occidental Petroleum Corporatio",
       "sector": "Energy",
-      "price": 54.154998779296875,
+      "price": 54.18000030517578,
       "as_of": "2026-11-20",
       "scores": {
         "value": 84,
         "growth": 78,
-        "income": 60,
+        "income": 59,
         "speculative": 55
       },
       "risk_score": 19,
@@ -3266,16 +3266,16 @@
       "entry_score": 25,
       "coverage": 12,
       "metrics": {
-        "pe": 12.061248,
-        "forward_pe": 10.231921,
-        "pb": 1.5522974,
+        "pe": 12.080179,
+        "forward_pe": 10.247981,
+        "pb": 1.5547339,
         "roe": 0.13181,
         "margin": 0.32953998,
         "revenue_growth": 0.19,
         "earnings_growth": 1.494,
-        "dividend_yield": 0.020681377527467456,
+        "dividend_yield": 0.02064896755162242,
         "payout": 0.2316,
-        "market_cap": 54149296128.0
+        "market_cap": 54234292224.0
       },
       "status": "Delayed public feed"
     },
@@ -3284,18 +3284,18 @@
         "score": 53,
         "label": "Wait / Higher Risk",
         "reasons": [
-          "RSI(14): 52",
-          "2.5% below one-year closing high",
+          "RSI(14): 51",
+          "2.6% below one-year closing high",
           "Forward/trailing P/E: 19.1",
           "Above 50-day average"
         ],
-        "rsi": 51.7,
-        "drawdown_pct": -2.52
+        "rsi": 51.4,
+        "drawdown_pct": -2.59
       },
       "ticker": "SO",
       "name": "Southern Company (The)",
       "sector": "Utilities",
-      "price": 94.26000213623047,
+      "price": 94.19080352783203,
       "as_of": "2026-11-20",
       "scores": {
         "value": 61,
@@ -3308,16 +3308,16 @@
       "entry_score": 80,
       "coverage": 12,
       "metrics": {
-        "pe": 21.520548,
-        "forward_pe": 19.098099,
-        "pb": 2.60949,
+        "pe": 21.50475,
+        "forward_pe": 19.08408,
+        "pb": 2.6075742,
         "roe": 0.11897001,
         "margin": 0.16003999,
         "revenue_growth": 0.13,
         "earnings_growth": 0.143,
-        "dividend_yield": 0.03225122002970507,
+        "dividend_yield": 0.032274914322842574,
         "payout": 0.6849,
-        "market_cap": 109743243264.0
+        "market_cap": 109662674944.0
       },
       "status": "Delayed public feed"
     },
@@ -3331,13 +3331,13 @@
           "Forward/trailing P/E: 18.3",
           "Above 50-day average"
         ],
-        "rsi": 61.1,
+        "rsi": 60.8,
         "drawdown_pct": 0.0
       },
       "ticker": "DUK",
       "name": "Duke Energy Corporation (Holdin",
       "sector": "Utilities",
-      "price": 130.9600067138672,
+      "price": 130.82000732421875,
       "as_of": "2026-11-20",
       "scores": {
         "value": 62,
@@ -3350,16 +3350,16 @@
       "entry_score": 80,
       "coverage": 12,
       "metrics": {
-        "pe": 19.202347,
-        "forward_pe": 18.274984,
-        "pb": 1.8775897,
+        "pe": 19.181818,
+        "forward_pe": 18.25545,
+        "pb": 1.8755826,
         "roe": 0.10099,
         "margin": 0.16158001,
         "revenue_growth": 0.066,
         "earnings_growth": 0.1,
-        "dividend_yield": 0.03313989004276115,
+        "dividend_yield": 0.03317535545023697,
         "payout": 0.62759995,
-        "market_cap": 102110601216.0
+        "market_cap": 102001442816.0
       },
       "status": "Delayed public feed"
     },
@@ -3368,18 +3368,18 @@
         "score": 63,
         "label": "Worth Watching",
         "reasons": [
-          "RSI(14): 49",
+          "RSI(14): 48",
           "12.2% below one-year closing high",
-          "Forward/trailing P/E: 19.4",
+          "Forward/trailing P/E: 19.3",
           "Above 50-day average"
         ],
-        "rsi": 48.6,
-        "drawdown_pct": -12.18
+        "rsi": 48.3,
+        "drawdown_pct": -12.25
       },
       "ticker": "NEE",
       "name": "NextEra Energy, Inc.",
       "sector": "Utilities",
-      "price": 84.69999694824219,
+      "price": 84.62999725341797,
       "as_of": "2026-11-20",
       "scores": {
         "value": 68,
@@ -3392,16 +3392,16 @@
       "entry_score": 55,
       "coverage": 12,
       "metrics": {
-        "pe": 15.26126,
-        "forward_pe": 19.358805,
-        "pb": 2.8886158,
+        "pe": 15.248648,
+        "forward_pe": 19.342806,
+        "pb": 2.8862286,
         "roe": 0.14064,
         "margin": 0.40370998,
         "revenue_growth": 0.016,
         "earnings_growth": 0.932,
-        "dividend_yield": 0.02939787485242031,
+        "dividend_yield": 0.029422190712513296,
         "payout": 0.4389,
-        "market_cap": 177641816064.0
+        "market_cap": 177495015424.0
       },
       "status": "Delayed public feed"
     },
@@ -3415,13 +3415,13 @@
           "Forward/trailing P/E: 18.5",
           "Above 50-day average"
         ],
-        "rsi": 44.1,
-        "drawdown_pct": -6.71
+        "rsi": 44.0,
+        "drawdown_pct": -6.72
       },
       "ticker": "AEP",
       "name": "American Electric Power Company",
       "sector": "Utilities",
-      "price": 127.44000244140625,
+      "price": 127.42500305175781,
       "as_of": "2026-11-20",
       "scores": {
         "value": 60,
@@ -3434,16 +3434,16 @@
       "entry_score": 80,
       "coverage": 12,
       "metrics": {
-        "pe": 20.82353,
-        "forward_pe": 18.474653,
-        "pb": 2.117225,
+        "pe": 20.82108,
+        "forward_pe": 18.472479,
+        "pb": 2.1169758,
         "roe": 0.10601,
         "margin": 0.14213,
         "revenue_growth": 0.137,
         "earnings_growth": 0.193,
-        "dividend_yield": 0.03044569993722536,
+        "dividend_yield": 0.030449283892485777,
         "payout": 0.6209,
-        "market_cap": 69394440192.0
+        "market_cap": 69386272768.0
       },
       "status": "Delayed public feed"
     },
@@ -3452,18 +3452,18 @@
         "score": 60,
         "label": "Worth Watching",
         "reasons": [
-          "RSI(14): 59",
-          "0.1% below one-year closing high",
+          "RSI(14): 58",
+          "0.3% below one-year closing high",
           "Forward/trailing P/E: 18.6",
           "Above 50-day average"
         ],
-        "rsi": 58.7,
-        "drawdown_pct": -0.14
+        "rsi": 58.4,
+        "drawdown_pct": -0.27
       },
       "ticker": "ED",
       "name": "Consolidated Edison, Inc.",
       "sector": "Utilities",
-      "price": 120.80000305175781,
+      "price": 120.63999938964844,
       "as_of": "2026-11-20",
       "scores": {
         "value": 62,
@@ -3476,16 +3476,16 @@
       "entry_score": 80,
       "coverage": 12,
       "metrics": {
-        "pe": 19.390049,
-        "forward_pe": 18.575642,
-        "pb": 1.7043852,
+        "pe": 19.364367,
+        "forward_pe": 18.551039,
+        "pb": 1.7021277,
         "roe": 0.090959996,
         "margin": 0.12699,
         "revenue_growth": 0.085,
         "earnings_growth": 0.084,
-        "dividend_yield": 0.029387417218543047,
+        "dividend_yield": 0.029426392572944295,
         "payout": 0.56380004,
-        "market_cap": 44839026688.0
+        "market_cap": 44779638784.0
       },
       "status": "Delayed public feed"
     },
@@ -3494,18 +3494,18 @@
         "score": 47,
         "label": "Wait / Higher Risk",
         "reasons": [
-          "RSI(14): 58",
-          "0.6% below one-year closing high",
-          "Forward/trailing P/E: 27.2",
+          "RSI(14): 57",
+          "0.9% below one-year closing high",
+          "Forward/trailing P/E: 27.1",
           "Above 50-day average"
         ],
-        "rsi": 57.7,
-        "drawdown_pct": -0.63
+        "rsi": 57.0,
+        "drawdown_pct": -0.86
       },
       "ticker": "WM",
       "name": "Waste Management, Inc.",
       "sector": "Industrials",
-      "price": 242.77999877929688,
+      "price": 242.24000549316406,
       "as_of": "2026-11-20",
       "scores": {
         "value": 46,
@@ -3518,16 +3518,16 @@
       "entry_score": 80,
       "coverage": 12,
       "metrics": {
-        "pe": 31.860893,
-        "forward_pe": 27.150223,
-        "pb": 9.785965,
+        "pe": 31.790028,
+        "forward_pe": 27.089836,
+        "pb": 9.764198,
         "roe": 0.31679,
         "margin": 0.11776,
         "revenue_growth": 0.063,
         "earnings_growth": 0.376,
-        "dividend_yield": 0.015569651536370376,
+        "dividend_yield": 0.015604359313077939,
         "payout": 0.48029998,
-        "market_cap": 96537804800.0
+        "market_cap": 96323084288.0
       },
       "status": "Delayed public feed"
     },
@@ -3536,18 +3536,18 @@
         "score": 42,
         "label": "Wait / Higher Risk",
         "reasons": [
-          "RSI(14): 55",
-          "2.6% below one-year closing high",
-          "Forward/trailing P/E: 31.1",
+          "RSI(14): 54",
+          "2.7% below one-year closing high",
+          "Forward/trailing P/E: 31.0",
           "Above 50-day average"
         ],
-        "rsi": 54.6,
-        "drawdown_pct": -2.57
+        "rsi": 54.2,
+        "drawdown_pct": -2.69
       },
       "ticker": "RSG",
       "name": "Republic Services, Inc.",
       "sector": "Industrials",
-      "price": 249.0,
+      "price": 248.69009399414062,
       "as_of": "2026-11-20",
       "scores": {
         "value": 46,
@@ -3560,16 +3560,16 @@
       "entry_score": 80,
       "coverage": 12,
       "metrics": {
-        "pe": 34.487537,
-        "forward_pe": 31.068027,
-        "pb": 6.2056074,
+        "pe": 34.44461,
+        "forward_pe": 31.02936,
+        "pb": 6.197884,
         "roe": 0.1848,
         "margin": 0.12919,
         "revenue_growth": 0.082,
         "earnings_growth": 0.097,
-        "dividend_yield": 0.010763052208835342,
+        "dividend_yield": 0.010776464362674671,
         "payout": 0.3525,
-        "market_cap": 75855273984.0
+        "market_cap": 75760861184.0
       },
       "status": "Delayed public feed"
     },
@@ -3578,18 +3578,18 @@
         "score": 45,
         "label": "Wait / Higher Risk",
         "reasons": [
-          "RSI(14): 42",
+          "RSI(14): 41",
           "6.7% below one-year closing high",
           "Forward/trailing P/E: 26.0",
           "Above 50-day average"
         ],
-        "rsi": 41.7,
-        "drawdown_pct": -6.68
+        "rsi": 41.4,
+        "drawdown_pct": -6.75
       },
       "ticker": "LIN",
       "name": "Linde plc",
       "sector": "Basic Materials",
-      "price": 508.4700012207031,
+      "price": 508.0899963378906,
       "as_of": "2026-11-20",
       "scores": {
         "value": 57,
@@ -3602,16 +3602,16 @@
       "entry_score": 80,
       "coverage": 12,
       "metrics": {
-        "pe": 33.762947,
-        "forward_pe": 25.992342,
-        "pb": 5.921324,
+        "pe": 33.737713,
+        "forward_pe": 25.972918,
+        "pb": 5.9168983,
         "roe": 0.17723,
         "margin": 0.19336,
         "revenue_growth": 0.092,
         "earnings_growth": -0.105,
-        "dividend_yield": 0.012586779947686196,
+        "dividend_yield": 0.012596193587750203,
         "payout": 0.41830003,
-        "market_cap": 233430335488.0
+        "market_cap": 233255878656.0
       },
       "status": "Delayed public feed"
     },
@@ -3620,18 +3620,18 @@
         "score": 51,
         "label": "Wait / Higher Risk",
         "reasons": [
-          "RSI(14): 36",
-          "5.7% below one-year closing high",
+          "RSI(14): 35",
+          "5.9% below one-year closing high",
           "Forward/trailing P/E: 19.3",
           "Above 50-day average"
         ],
-        "rsi": 35.6,
-        "drawdown_pct": -5.68
+        "rsi": 35.2,
+        "drawdown_pct": -5.85
       },
       "ticker": "APD",
       "name": "Air Products and Chemicals, Inc",
       "sector": "Basic Materials",
-      "price": 300.7699890136719,
+      "price": 300.2049865722656,
       "as_of": "2026-11-20",
       "scores": {
         "value": 46,
@@ -3644,16 +3644,16 @@
       "entry_score": 80,
       "coverage": 12,
       "metrics": {
-        "pe": 125.84518,
-        "forward_pe": 19.344995,
-        "pb": 4.692419,
+        "pe": 125.60877,
+        "forward_pe": 19.308655,
+        "pb": 4.6836042,
         "roe": 0.03191,
         "margin": 0.040960003,
         "revenue_growth": 0.123,
         "earnings_growth": 130.118,
-        "dividend_yield": 0.024071549689131232,
+        "dividend_yield": 0.024116853483452976,
         "payout": 3.0209,
-        "market_cap": 66977124352.0
+        "market_cap": 66851307520.0
       },
       "status": "Delayed public feed"
     },
@@ -3663,17 +3663,17 @@
         "label": "Wait / Higher Risk",
         "reasons": [
           "RSI(14): 45",
-          "7.2% below one-year closing high",
+          "7.1% below one-year closing high",
           "Forward/trailing P/E: 26.0",
           "Above 50-day average"
         ],
-        "rsi": 45.2,
-        "drawdown_pct": -7.22
+        "rsi": 45.3,
+        "drawdown_pct": -7.14
       },
       "ticker": "SHW",
       "name": "Sherwin-Williams Company (The)",
       "sector": "Basic Materials",
-      "price": 342.4599914550781,
+      "price": 342.75,
       "as_of": "2026-11-20",
       "scores": {
         "value": 42,
@@ -3686,16 +3686,16 @@
       "entry_score": 80,
       "coverage": 12,
       "metrics": {
-        "pe": 31.50506,
-        "forward_pe": 26.001791,
-        "pb": 20.682447,
+        "pe": 31.531738,
+        "forward_pe": 26.023811,
+        "pb": 20.699963,
         "roe": 0.63701,
         "margin": 0.10742,
         "revenue_growth": 0.079,
         "earnings_growth": 0.009,
-        "dividend_yield": 0.009344156981837297,
+        "dividend_yield": 0.009336250911743253,
         "payout": 0.2935,
-        "market_cap": 82734243840.0
+        "market_cap": 82804310016.0
       },
       "status": "Delayed public feed"
     },
@@ -3709,13 +3709,13 @@
           "Forward/trailing P/E: 31.4",
           "Above 50-day average"
         ],
-        "rsi": 40.3,
-        "drawdown_pct": -5.63
+        "rsi": 40.4,
+        "drawdown_pct": -5.58
       },
       "ticker": "ECL",
       "name": "Ecolab Inc.",
       "sector": "Basic Materials",
-      "price": 297.2799987792969,
+      "price": 297.4200134277344,
       "as_of": "2026-11-20",
       "scores": {
         "value": 42,
@@ -3728,16 +3728,16 @@
       "entry_score": 80,
       "coverage": 12,
       "metrics": {
-        "pe": 40.44626,
-        "forward_pe": 31.40254,
-        "pb": 7.9987082,
+        "pe": 40.46531,
+        "forward_pe": 31.41733,
+        "pb": 8.002476,
         "roe": 0.20767,
         "margin": 0.119890004,
         "revenue_growth": 0.127,
         "earnings_growth": -0.049,
-        "dividend_yield": 0.009822389666307859,
+        "dividend_yield": 0.009817766121982381,
         "payout": 0.3973,
-        "market_cap": 83377463296.0
+        "market_cap": 83416727552.0
       },
       "status": "Delayed public feed"
     },
@@ -3746,18 +3746,18 @@
         "score": 64,
         "label": "Worth Watching",
         "reasons": [
-          "RSI(14): 61",
-          "1.2% below one-year closing high",
-          "Forward/trailing P/E: 17.0",
+          "RSI(14): 62",
+          "1.0% below one-year closing high",
+          "Forward/trailing P/E: 17.1",
           "Above 50-day average"
         ],
-        "rsi": 61.1,
-        "drawdown_pct": -1.19
+        "rsi": 61.6,
+        "drawdown_pct": -0.98
       },
       "ticker": "TGT",
       "name": "Target Corporation",
       "sector": "Consumer Defensive",
-      "price": 166.6999969482422,
+      "price": 167.0449981689453,
       "as_of": "2026-11-20",
       "scores": {
         "value": 68,
@@ -3770,16 +3770,16 @@
       "entry_score": 80,
       "coverage": 12,
       "metrics": {
-        "pe": 15.492564,
-        "forward_pe": 17.044537,
-        "pb": 4.120526,
+        "pe": 15.524628,
+        "forward_pe": 17.079811,
+        "pb": 4.1175528,
         "roe": 0.29018998,
         "margin": 0.04488,
         "revenue_growth": 0.071,
         "earnings_growth": 0.755,
-        "dividend_yield": 0.027834433113377324,
+        "dividend_yield": 0.027776946331826754,
         "payout": 0.47349998,
-        "market_cap": 75470864384.0
+        "market_cap": 75627053056.0
       },
       "status": "Delayed public feed"
     },
@@ -3789,17 +3789,17 @@
         "label": "Worth Watching",
         "reasons": [
           "RSI(14): 41",
-          "24.8% below one-year closing high",
+          "24.7% below one-year closing high",
           "Forward/trailing P/E: 9.4",
           "Below 50-day average"
         ],
-        "rsi": 41.0,
-        "drawdown_pct": -24.8
+        "rsi": 41.2,
+        "drawdown_pct": -24.73
       },
       "ticker": "CVS",
       "name": "CVS Health Corporation",
       "sector": "Healthcare",
-      "price": 82.06999969482422,
+      "price": 82.1500015258789,
       "as_of": "2026-11-20",
       "scores": {
         "value": 71,
@@ -3812,16 +3812,16 @@
       "entry_score": 25,
       "coverage": 11,
       "metrics": {
-        "pe": 9.5319395,
-        "forward_pe": 9.429258,
-        "pb": 1.3050184,
+        "pe": 9.541232,
+        "forward_pe": 9.437246,
+        "pb": 1.3062905,
         "roe": 0.14364,
         "margin": 0.02639,
         "revenue_growth": 0.054,
         "earnings_growth": null,
-        "dividend_yield": 0.032411356159376147,
+        "dividend_yield": 0.032379793061472914,
         "payout": 0.3089,
-        "market_cap": 105006448640.0
+        "market_cap": 105108807680.0
       },
       "status": "Delayed public feed"
     },
@@ -3831,17 +3831,17 @@
         "label": "Worth Watching",
         "reasons": [
           "RSI(14): 29",
-          "22.6% below one-year closing high",
-          "Forward/trailing P/E: 8.5",
+          "22.5% below one-year closing high",
+          "Forward/trailing P/E: 8.6",
           "Below 50-day average"
         ],
-        "rsi": 28.7,
-        "drawdown_pct": -22.64
+        "rsi": 28.9,
+        "drawdown_pct": -22.49
       },
       "ticker": "C",
       "name": "Citigroup, Inc.",
       "sector": "Financial Services",
-      "price": 111.51000213623047,
+      "price": 111.7300033569336,
       "as_of": "2026-11-20",
       "scores": {
         "value": 79,
@@ -3854,16 +3854,16 @@
       "entry_score": 25,
       "coverage": 10,
       "metrics": {
-        "pe": 10.868421,
-        "forward_pe": 8.536481,
-        "pb": 0.96453595,
+        "pe": 10.889864,
+        "forward_pe": 8.553323,
+        "pb": 0.9664389,
         "roe": 0.09353,
         "margin": 0.23208,
         "revenue_growth": 0.08,
         "earnings_growth": 0.534,
-        "dividend_yield": 0.024033718948973187,
+        "dividend_yield": 0.023986395775530297,
         "payout": 0.24069999,
-        "market_cap": 184571854848.0
+        "market_cap": 184936005632.0
       },
       "status": "Delayed public feed"
     },
@@ -3917,17 +3917,17 @@
         "label": "Worth Watching",
         "reasons": [
           "RSI(14): 34",
-          "12.8% below one-year closing high",
+          "12.7% below one-year closing high",
           "Forward/trailing P/E: 9.2",
           "Below 50-day average"
         ],
-        "rsi": 34.2,
-        "drawdown_pct": -12.78
+        "rsi": 34.3,
+        "drawdown_pct": -12.7
       },
       "ticker": "PYPL",
       "name": "PayPal Holdings, Inc.",
       "sector": "Financial Services",
-      "price": 54.380001068115234,
+      "price": 54.43000030517578,
       "as_of": "2026-11-20",
       "scores": {
         "value": 82,
@@ -3940,16 +3940,16 @@
       "entry_score": 50,
       "coverage": 12,
       "metrics": {
-        "pe": 10.377863,
-        "forward_pe": 9.21136,
-        "pb": 2.3362117,
+        "pe": 10.387405,
+        "forward_pe": 9.219829,
+        "pb": 2.3383598,
         "roe": 0.23825,
         "margin": 0.13783,
         "revenue_growth": 0.02,
         "earnings_growth": -0.038,
-        "dividend_yield": 0.010297903641044503,
+        "dividend_yield": 0.01028844387286423,
         "payout": 0.1069,
-        "market_cap": 45171200000.0
+        "market_cap": 45212733440.0
       },
       "status": "Delayed public feed"
     },
@@ -3959,17 +3959,17 @@
         "label": "Wait / Higher Risk",
         "reasons": [
           "RSI(14): 27",
-          "62.1% below one-year closing high",
-          "Forward/trailing P/E: 42.8",
+          "62.0% below one-year closing high",
+          "Forward/trailing P/E: 43.9",
           "Below 50-day average"
         ],
-        "rsi": 27.0,
-        "drawdown_pct": -62.07
+        "rsi": 27.1,
+        "drawdown_pct": -62.01
       },
       "ticker": "COIN",
       "name": "Coinbase Global, Inc.",
       "sector": "Financial Services",
-      "price": 105.19000244140625,
+      "price": 105.37000274658203,
       "as_of": "2026-11-20",
       "scores": {
         "value": 26,
@@ -3983,15 +3983,15 @@
       "coverage": 11,
       "metrics": {
         "pe": null,
-        "forward_pe": 42.84446,
-        "pb": 1.9977969,
+        "forward_pe": 43.91478,
+        "pb": 2.0012155,
         "roe": -0.046830002,
         "margin": -0.12894,
         "revenue_growth": -0.342,
         "earnings_growth": 0.674,
         "dividend_yield": 0.0,
         "payout": 0.0,
-        "market_cap": 27850465280.0
+        "market_cap": 27898122240.0
       },
       "status": "Delayed public feed"
     },
@@ -4001,17 +4001,17 @@
         "label": "Worth Watching",
         "reasons": [
           "RSI(14): 27",
-          "53.5% below one-year closing high",
-          "Forward/trailing P/E: 18.7",
+          "53.3% below one-year closing high",
+          "Forward/trailing P/E: 18.8",
           "Below 50-day average"
         ],
-        "rsi": 27.0,
-        "drawdown_pct": -53.49
+        "rsi": 27.1,
+        "drawdown_pct": -53.31
       },
       "ticker": "HOOD",
       "name": "Robinhood Markets, Inc.",
       "sector": "Financial Services",
-      "price": 63.75,
+      "price": 64.0,
       "as_of": "2026-11-20",
       "scores": {
         "value": 65,
@@ -4024,32 +4024,37 @@
       "entry_score": 25,
       "coverage": 11,
       "metrics": {
-        "pe": 29.37788,
-        "forward_pe": 18.69233,
-        "pb": 5.743243,
+        "pe": 29.493086,
+        "forward_pe": 18.765633,
+        "pb": 5.7657657,
         "roe": 0.21452999,
         "margin": 0.39040002,
         "revenue_growth": 0.118,
         "earnings_growth": -0.164,
         "dividend_yield": 0.0,
         "payout": 0.0,
-        "market_cap": 57406316544.0
+        "market_cap": 57631440896.0
       },
       "status": "Delayed public feed"
     },
     {
       "opportunity": {
-        "score": null,
-        "label": "Insufficient history",
+        "score": 47,
+        "label": "Wait / Higher Risk",
         "reasons": [
-          "At least 200 daily closes required"
-        ]
+          "RSI(14): 61",
+          "1.4% below one-year closing high",
+          "Forward/trailing P/E: 40.1",
+          "Above 50-day average"
+        ],
+        "rsi": 61.5,
+        "drawdown_pct": -1.38
       },
       "ticker": "ROKU",
       "name": "Roku, Inc.",
       "sector": "Communication Services",
       "price": 160.52000427246094,
-      "as_of": "2026-11-09",
+      "as_of": "2026-11-06",
       "scores": {
         "value": 35,
         "growth": 78,
@@ -4058,7 +4063,7 @@
       },
       "risk_score": 26,
       "risk": "Lower",
-      "entry_score": 25,
+      "entry_score": 80,
       "coverage": 12,
       "metrics": {
         "pe": 46.259365,
@@ -4080,17 +4085,17 @@
         "label": "Wait / Higher Risk",
         "reasons": [
           "RSI(14): 30",
-          "29.4% below one-year closing high",
-          "Forward/trailing P/E: 51.5",
+          "28.9% below one-year closing high",
+          "Forward/trailing P/E: 51.8",
           "Below 50-day average"
         ],
-        "rsi": 30.1,
-        "drawdown_pct": -29.38
+        "rsi": 30.4,
+        "drawdown_pct": -28.94
       },
       "ticker": "SHOP",
       "name": "Shopify Inc.",
       "sector": "Technology",
-      "price": 126.56999969482422,
+      "price": 127.36000061035156,
       "as_of": "2026-11-20",
       "scores": {
         "value": 30,
@@ -4103,16 +4108,16 @@
       "entry_score": 25,
       "coverage": 12,
       "metrics": {
-        "pe": 77.65031,
-        "forward_pe": 51.452686,
-        "pb": 12.7706585,
+        "pe": 78.13497,
+        "forward_pe": 51.773834,
+        "pb": 12.850368,
         "roe": 0.16833,
         "margin": 0.15007,
         "revenue_growth": 0.316,
         "earnings_growth": 0.795,
         "dividend_yield": 0.0,
         "payout": 0.0,
-        "market_cap": 162835087360.0
+        "market_cap": 163851436032.0
       },
       "status": "Delayed public feed"
     },
@@ -4122,17 +4127,17 @@
         "label": "Wait / Higher Risk",
         "reasons": [
           "RSI(14): 36",
-          "30.3% below one-year closing high",
-          "Forward/trailing P/E: 83.7",
+          "29.9% below one-year closing high",
+          "Forward/trailing P/E: 84.1",
           "Below 50-day average"
         ],
-        "rsi": 35.9,
-        "drawdown_pct": -30.26
+        "rsi": 36.3,
+        "drawdown_pct": -29.9
       },
       "ticker": "SNOW",
       "name": "Snowflake Inc.",
       "sector": "Technology",
-      "price": 257.2699890136719,
+      "price": 258.5799865722656,
       "as_of": "2026-11-20",
       "scores": {
         "value": 5,
@@ -4146,15 +4151,15 @@
       "coverage": 9,
       "metrics": {
         "pe": null,
-        "forward_pe": 83.67701,
-        "pb": 42.182323,
+        "forward_pe": 84.10309,
+        "pb": 42.397114,
         "roe": -0.48063,
         "margin": -0.20071,
         "revenue_growth": 0.351,
         "earnings_growth": null,
         "dividend_yield": 0.0,
         "payout": null,
-        "market_cap": 90764853248.0
+        "market_cap": 91227021312.0
       },
       "status": "Delayed public feed"
     },
@@ -4163,18 +4168,18 @@
         "score": 48,
         "label": "Wait / Higher Risk",
         "reasons": [
-          "RSI(14): 19",
-          "45.0% below one-year closing high",
-          "Forward/trailing P/E: 50.7",
+          "RSI(14): 20",
+          "44.7% below one-year closing high",
+          "Forward/trailing P/E: 50.9",
           "Below 50-day average"
         ],
-        "rsi": 19.5,
-        "drawdown_pct": -44.97
+        "rsi": 19.6,
+        "drawdown_pct": -44.71
       },
       "ticker": "DDOG",
       "name": "Datadog, Inc.",
       "sector": "Technology",
-      "price": 161.38999938964844,
+      "price": 162.14999389648438,
       "as_of": "2026-11-20",
       "scores": {
         "value": 17,
@@ -4187,16 +4192,16 @@
       "entry_score": 25,
       "coverage": 12,
       "metrics": {
-        "pe": 224.15277,
-        "forward_pe": 50.705334,
-        "pb": 12.355688,
+        "pe": 225.20831,
+        "forward_pe": 50.944107,
+        "pb": 12.413872,
         "roe": 0.06426,
         "margin": 0.061240003,
         "revenue_growth": 0.352,
         "earnings_growth": 2.316,
         "dividend_yield": 0.0,
         "payout": 0.0,
-        "market_cap": 58268659712.0
+        "market_cap": 58543050752.0
       },
       "status": "Delayed public feed"
     },
@@ -4206,18 +4211,18 @@
         "label": "Wait / Higher Risk",
         "reasons": [
           "RSI(14): 53",
-          "23.3% below one-year closing high",
-          "Forward/trailing P/E: 148.6",
+          "22.9% below one-year closing high",
+          "Forward/trailing P/E: 149.3",
           "Below 50-day average",
           "Elevated model risk"
         ],
-        "rsi": 53.1,
-        "drawdown_pct": -23.28
+        "rsi": 53.4,
+        "drawdown_pct": -22.92
       },
       "ticker": "NET",
       "name": "Cloudflare, Inc.",
       "sector": "Technology",
-      "price": 276.9150085449219,
+      "price": 278.2099914550781,
       "as_of": "2026-11-20",
       "scores": {
         "value": 0,
@@ -4231,15 +4236,15 @@
       "coverage": 9,
       "metrics": {
         "pe": null,
-        "forward_pe": 148.61537,
-        "pb": 67.72193,
+        "forward_pe": 149.31036,
+        "pb": 68.038635,
         "roe": -0.17003,
         "margin": -0.087469995,
         "revenue_growth": 0.392,
         "earnings_growth": null,
         "dividend_yield": 0.0,
         "payout": null,
-        "market_cap": 99244195840.0
+        "market_cap": 99708305408.0
       },
       "status": "Delayed public feed"
     },
@@ -4249,17 +4254,17 @@
         "label": "Wait / Higher Risk",
         "reasons": [
           "RSI(14): 35",
-          "39.0% below one-year closing high",
-          "Forward/trailing P/E: 36.3",
+          "38.9% below one-year closing high",
+          "Forward/trailing P/E: 36.4",
           "Below 50-day average"
         ],
-        "rsi": 34.7,
-        "drawdown_pct": -39.03
+        "rsi": 34.9,
+        "drawdown_pct": -38.87
       },
       "ticker": "MDB",
       "name": "MongoDB, Inc.",
       "sector": "Technology",
-      "price": 287.9599914550781,
+      "price": 288.701904296875,
       "as_of": "2026-11-20",
       "scores": {
         "value": 24,
@@ -4272,16 +4277,16 @@
       "entry_score": 25,
       "coverage": 11,
       "metrics": {
-        "pe": 399.94443,
-        "forward_pe": 36.34514,
-        "pb": 7.7917576,
+        "pe": 400.97485,
+        "forward_pe": 36.43878,
+        "pb": 7.8118324,
         "roe": 0.01989,
         "margin": 0.02116,
         "revenue_growth": 0.305,
         "earnings_growth": null,
         "dividend_yield": 0.0,
         "payout": 0.0,
-        "market_cap": 23161178112.0
+        "market_cap": 23256770560.0
       },
       "status": "Delayed public feed"
     },
@@ -4291,20 +4296,20 @@
         "label": "Worth Watching",
         "reasons": [
           "RSI(14): 22",
-          "57.0% below one-year closing high",
-          "Forward/trailing P/E: 14.2",
+          "56.7% below one-year closing high",
+          "Forward/trailing P/E: 14.3",
           "Below 50-day average"
         ],
-        "rsi": 21.9,
-        "drawdown_pct": -57.02
+        "rsi": 22.2,
+        "drawdown_pct": -56.68
       },
       "ticker": "SOFI",
       "name": "SoFi Technologies, Inc.",
       "sector": "Financial Services",
-      "price": 12.774200439453125,
+      "price": 12.875200271606445,
       "as_of": "2026-11-20",
       "scores": {
-        "value": 71,
+        "value": 70,
         "growth": 88,
         "income": 0,
         "speculative": 78
@@ -4314,16 +4319,16 @@
       "entry_score": 25,
       "coverage": 11,
       "metrics": {
-        "pe": 23.225819,
-        "forward_pe": 14.19971,
-        "pb": 1.4664447,
+        "pe": 23.409454,
+        "forward_pe": 14.31198,
+        "pb": 1.4780393,
         "roe": 0.07351,
         "margin": 0.15745,
         "revenue_growth": 0.439,
         "earnings_growth": 0.644,
         "dividend_yield": 0.0,
         "payout": 0.0,
-        "market_cap": 16578873344.0
+        "market_cap": 16709954560.0
       },
       "status": "Delayed public feed"
     },
@@ -4332,25 +4337,25 @@
         "score": 65,
         "label": "Worth Watching",
         "reasons": [
-          "RSI(14): 27",
-          "53.0% below one-year closing high",
+          "RSI(14): 28",
+          "52.8% below one-year closing high",
           "Forward/trailing P/E: -6.0",
           "Below 50-day average",
           "Valuation evidence incomplete"
         ],
-        "rsi": 27.3,
-        "drawdown_pct": -53.01
+        "rsi": 27.6,
+        "drawdown_pct": -52.76
       },
       "ticker": "RIVN",
       "name": "Rivian Automotive, Inc.",
       "sector": "Consumer Cyclical",
-      "price": 10.550000190734863,
+      "price": 10.605299949645996,
       "as_of": "2026-11-20",
       "scores": {
         "value": 58,
         "growth": 58,
         "income": 0,
-        "speculative": 49
+        "speculative": 48
       },
       "risk_score": 64,
       "risk": "Moderate",
@@ -4358,15 +4363,15 @@
       "coverage": 9,
       "metrics": {
         "pe": null,
-        "forward_pe": -5.9887433,
-        "pb": 2.7078247,
+        "forward_pe": -6.0172253,
+        "pb": 2.720703,
         "roe": -0.54879004,
         "margin": -0.45880002,
         "revenue_growth": 0.383,
         "earnings_growth": null,
         "dividend_yield": 0.0,
         "payout": null,
-        "market_cap": 15409249280.0
+        "market_cap": 15482534912.0
       },
       "status": "Delayed public feed"
     },
@@ -4376,19 +4381,19 @@
         "label": "Wait / Higher Risk",
         "reasons": [
           "RSI(14): 43",
-          "81.9% below one-year closing high",
+          "81.8% below one-year closing high",
           "Forward/trailing P/E: -0.4",
           "Below 50-day average",
           "Elevated model risk",
           "Valuation evidence incomplete"
         ],
-        "rsi": 42.8,
-        "drawdown_pct": -81.91
+        "rsi": 43.0,
+        "drawdown_pct": -81.8
       },
       "ticker": "LCID",
       "name": "Lucid Group, Inc.",
       "sector": "Consumer Cyclical",
-      "price": 2.5601000785827637,
+      "price": 2.575000047683716,
       "as_of": "2026-11-20",
       "scores": {
         "value": 55,
@@ -4402,15 +4407,15 @@
       "coverage": 10,
       "metrics": {
         "pe": null,
-        "forward_pe": -0.4279315,
-        "pb": -0.4841339,
+        "forward_pe": -0.43042207,
+        "pb": -0.4869516,
         "roe": -1.55076,
         "margin": -2.37566,
         "revenue_growth": 0.041,
         "earnings_growth": null,
         "dividend_yield": 0.0,
         "payout": 0.0,
-        "market_cap": 1014446912.0
+        "market_cap": 1020351040.0
       },
       "status": "Delayed public feed"
     },
@@ -4420,18 +4425,18 @@
         "label": "Worth Watching",
         "reasons": [
           "RSI(14): 38",
-          "70.6% below one-year closing high",
-          "Forward/trailing P/E: -14.9",
+          "70.3% below one-year closing high",
+          "Forward/trailing P/E: -15.1",
           "Below 50-day average",
           "Valuation evidence incomplete"
         ],
-        "rsi": 37.8,
-        "drawdown_pct": -70.56
+        "rsi": 38.0,
+        "drawdown_pct": -70.28
       },
       "ticker": "IONQ",
       "name": "IonQ, Inc.",
       "sector": "Technology",
-      "price": 21.219999313354492,
+      "price": 21.420000076293945,
       "as_of": "2026-11-20",
       "scores": {
         "value": 83,
@@ -4444,16 +4449,16 @@
       "entry_score": 25,
       "coverage": 11,
       "metrics": {
-        "pe": 12.265896,
-        "forward_pe": -14.935247,
-        "pb": 1.7389166,
+        "pe": 12.381503,
+        "forward_pe": -15.076014,
+        "pb": 1.7553061,
         "roe": 0.06903,
         "margin": 0.67091006,
         "revenue_growth": 3.36,
         "earnings_growth": null,
         "dividend_yield": 0.0,
         "payout": 0.0,
-        "market_cap": 9822353408.0
+        "market_cap": 9914930176.0
       },
       "status": "Delayed public feed"
     },
@@ -4462,18 +4467,18 @@
         "score": 47,
         "label": "Wait / Higher Risk",
         "reasons": [
-          "RSI(14): 44",
-          "69.1% below one-year closing high",
-          "Forward/trailing P/E: 648.1",
+          "RSI(14): 45",
+          "68.8% below one-year closing high",
+          "Forward/trailing P/E: 654.7",
           "Below 50-day average"
         ],
-        "rsi": 44.4,
-        "drawdown_pct": -69.12
+        "rsi": 44.8,
+        "drawdown_pct": -68.8
       },
       "ticker": "RKLB",
       "name": "Rocket Lab Corporation",
       "sector": "Industrials",
-      "price": 46.38949966430664,
+      "price": 46.8650016784668,
       "as_of": "2026-11-20",
       "scores": {
         "value": 22,
@@ -4487,15 +4492,15 @@
       "coverage": 10,
       "metrics": {
         "pe": null,
-        "forward_pe": 648.07904,
-        "pb": 5.110101,
+        "forward_pe": 654.722,
+        "pb": 5.162481,
         "roe": -0.06406,
         "margin": -0.25726,
         "revenue_growth": 0.727,
         "earnings_growth": null,
         "dividend_yield": 0.0,
         "payout": 0.0,
-        "market_cap": 31218841600.0
+        "market_cap": 31538841600.0
       },
       "status": "Delayed public feed"
     },
@@ -4505,18 +4510,18 @@
         "label": "Worth Watching",
         "reasons": [
           "RSI(14): 31",
-          "82.4% below one-year closing high",
-          "Forward/trailing P/E: -15.0",
+          "82.3% below one-year closing high",
+          "Forward/trailing P/E: -15.1",
           "Below 50-day average",
           "Valuation evidence incomplete"
         ],
-        "rsi": 30.9,
-        "drawdown_pct": -82.42
+        "rsi": 31.1,
+        "drawdown_pct": -82.27
       },
       "ticker": "ASTS",
       "name": "AST SpaceMobile, Inc.",
       "sector": "Technology",
-      "price": 23.399999618530273,
+      "price": 23.598499298095703,
       "as_of": "2026-11-20",
       "scores": {
         "value": 52,
@@ -4530,15 +4535,15 @@
       "coverage": 9,
       "metrics": {
         "pe": null,
-        "forward_pe": -14.987894,
-        "pb": 4.0738163,
+        "forward_pe": -15.115035,
+        "pb": 4.1083736,
         "roe": -0.43232,
         "margin": 0.0,
         "revenue_growth": 1.871,
         "earnings_growth": null,
         "dividend_yield": 0.0,
         "payout": null,
-        "market_cap": 9377035264.0
+        "market_cap": 9456579584.0
       },
       "status": "Delayed public feed"
     },
@@ -4548,18 +4553,18 @@
         "label": "Worth Watching",
         "reasons": [
           "RSI(14): 43",
-          "81.6% below one-year closing high",
-          "Forward/trailing P/E: -18.1",
+          "81.5% below one-year closing high",
+          "Forward/trailing P/E: -18.2",
           "Below 50-day average",
           "Valuation evidence incomplete"
         ],
-        "rsi": 42.6,
-        "drawdown_pct": -81.56
+        "rsi": 42.8,
+        "drawdown_pct": -81.47
       },
       "ticker": "OKLO",
       "name": "Oklo Inc.",
       "sector": "Utilities",
-      "price": 20.59000015258789,
+      "price": 20.690000534057617,
       "as_of": "2026-11-20",
       "scores": {
         "value": 65,
@@ -4573,15 +4578,15 @@
       "coverage": 8,
       "metrics": {
         "pe": null,
-        "forward_pe": -18.117664,
-        "pb": 1.1014229,
+        "forward_pe": -18.205658,
+        "pb": 1.1067722,
         "roe": -0.0679,
         "margin": 0.0,
         "revenue_growth": null,
         "earnings_growth": null,
         "dividend_yield": 0.0,
         "payout": null,
-        "market_cap": 4021012992.0
+        "market_cap": 4040541952.0
       },
       "status": "Delayed public feed"
     },
@@ -4591,18 +4596,18 @@
         "label": "Worth Watching",
         "reasons": [
           "RSI(14): 27",
-          "85.1% below one-year closing high",
-          "Forward/trailing P/E: -5.0",
+          "84.9% below one-year closing high",
+          "Forward/trailing P/E: -5.1",
           "Below 50-day average",
           "Valuation evidence incomplete"
         ],
-        "rsi": 26.6,
-        "drawdown_pct": -85.08
+        "rsi": 26.8,
+        "drawdown_pct": -84.95
       },
       "ticker": "SMR",
       "name": "NuScale Power Corporation",
       "sector": "Industrials",
-      "price": 3.4100000858306885,
+      "price": 3.440000057220459,
       "as_of": "2026-11-20",
       "scores": {
         "value": 65,
@@ -4616,15 +4621,15 @@
       "coverage": 9,
       "metrics": {
         "pe": null,
-        "forward_pe": -5.0370765,
-        "pb": 0.6916836,
+        "forward_pe": -5.081391,
+        "pb": 0.6977688,
         "roe": -0.17122999,
         "margin": 0.0,
         "revenue_growth": -0.966,
         "earnings_growth": null,
         "dividend_yield": 0.0,
         "payout": null,
-        "market_cap": 1399946112.0
+        "market_cap": 1412262400.0
       },
       "status": "Delayed public feed"
     },
@@ -4634,21 +4639,21 @@
         "label": "Wait / Higher Risk",
         "reasons": [
           "RSI(14): 25",
-          "62.9% below one-year closing high",
-          "Forward/trailing P/E: 36.8",
+          "62.6% below one-year closing high",
+          "Forward/trailing P/E: 37.1",
           "Below 50-day average",
           "Elevated model risk"
         ],
-        "rsi": 24.6,
-        "drawdown_pct": -62.87
+        "rsi": 24.8,
+        "drawdown_pct": -62.57
       },
       "ticker": "HIMS",
       "name": "Hims & Hers Health, Inc.",
       "sector": "Healthcare",
-      "price": 14.859999656677246,
+      "price": 14.979999542236328,
       "as_of": "2026-11-20",
       "scores": {
-        "value": 8,
+        "value": 7,
         "growth": 58,
         "income": 0,
         "speculative": 70
@@ -4659,35 +4664,35 @@
       "coverage": 10,
       "metrics": {
         "pe": null,
-        "forward_pe": 36.782177,
-        "pb": 9.802111,
+        "forward_pe": 37.079205,
+        "pb": 9.881266,
         "roe": -0.40765998,
         "margin": -0.06651,
         "revenue_growth": 0.486,
         "earnings_growth": null,
         "dividend_yield": 0.0,
         "payout": 0.0,
-        "market_cap": 3483368448.0
+        "market_cap": 3511497984.0
       },
       "status": "Delayed public feed"
     },
     {
       "opportunity": {
-        "score": 72,
+        "score": 68,
         "label": "Worth Watching",
         "reasons": [
           "RSI(14): 47",
-          "48.5% below one-year closing high",
+          "48.7% below one-year closing high",
           "Forward/trailing P/E: 17.4",
-          "Above 50-day average"
+          "Below 50-day average"
         ],
-        "rsi": 47.0,
-        "drawdown_pct": -48.54
+        "rsi": 46.8,
+        "drawdown_pct": -48.65
       },
       "ticker": "CELH",
       "name": "Celsius Holdings, Inc.",
       "sector": "Consumer Defensive",
-      "price": 29.170000076293945,
+      "price": 29.110000610351562,
       "as_of": "2026-11-20",
       "scores": {
         "value": 58,
@@ -4697,19 +4702,19 @@
       },
       "risk_score": 29,
       "risk": "Lower",
-      "entry_score": 55,
+      "entry_score": 25,
       "coverage": 11,
       "metrics": {
-        "pe": 32.77528,
-        "forward_pe": 17.447634,
-        "pb": 5.7568583,
+        "pe": 32.707867,
+        "forward_pe": 17.411745,
+        "pb": 5.745017,
         "roe": 0.10572,
         "margin": 0.10005,
         "revenue_growth": 0.168,
         "earnings_growth": null,
         "dividend_yield": 0.0,
         "payout": 0.0,
-        "market_cap": 7308727296.0
+        "market_cap": 7293693952.0
       },
       "status": "Delayed public feed"
     },
@@ -4719,17 +4724,17 @@
         "label": "Wait / Higher Risk",
         "reasons": [
           "RSI(14): 26",
-          "48.8% below one-year closing high",
-          "Forward/trailing P/E: 70.2",
+          "48.7% below one-year closing high",
+          "Forward/trailing P/E: 70.3",
           "Below 50-day average"
         ],
-        "rsi": 25.9,
-        "drawdown_pct": -48.76
+        "rsi": 26.0,
+        "drawdown_pct": -48.68
       },
       "ticker": "CAVA",
       "name": "CAVA Group, Inc.",
       "sector": "Consumer Cyclical",
-      "price": 49.904998779296875,
+      "price": 49.97999954223633,
       "as_of": "2026-11-20",
       "scores": {
         "value": 25,
@@ -4742,16 +4747,16 @@
       "entry_score": 25,
       "coverage": 12,
       "metrics": {
-        "pe": 90.73636,
-        "forward_pe": 70.23432,
-        "pb": 6.7888722,
+        "pe": 90.87273,
+        "forward_pe": 70.339874,
+        "pb": 6.799075,
         "roe": 0.07949,
         "margin": 0.04499,
         "revenue_growth": 0.22,
         "earnings_growth": -0.083,
         "dividend_yield": 0.0,
         "payout": 0.0,
-        "market_cap": 5831072768.0
+        "market_cap": 5839836160.0
       },
       "status": "Delayed public feed"
     },
@@ -4760,18 +4765,18 @@
         "score": 71,
         "label": "Worth Watching",
         "reasons": [
-          "RSI(14): 55",
-          "30.2% below one-year closing high",
-          "Forward/trailing P/E: 18.9",
+          "RSI(14): 56",
+          "29.8% below one-year closing high",
+          "Forward/trailing P/E: 19.0",
           "Below 50-day average"
         ],
-        "rsi": 55.1,
-        "drawdown_pct": -30.17
+        "rsi": 55.5,
+        "drawdown_pct": -29.79
       },
       "ticker": "DUOL",
       "name": "Duolingo, Inc.",
       "sector": "Technology",
-      "price": 145.9949951171875,
+      "price": 146.78500366210938,
       "as_of": "2026-11-20",
       "scores": {
         "value": 61,
@@ -4784,16 +4789,16 @@
       "entry_score": 50,
       "coverage": 12,
       "metrics": {
-        "pe": 48.342712,
-        "forward_pe": 18.937222,
-        "pb": 4.641835,
+        "pe": 48.604305,
+        "forward_pe": 19.039694,
+        "pb": 4.666953,
         "roe": 0.104499996,
         "margin": 0.12327,
         "revenue_growth": 0.137,
         "earnings_growth": -0.909,
         "dividend_yield": 0.0,
         "payout": 0.0,
-        "market_cap": 6887790080.0
+        "market_cap": 6925061120.0
       },
       "status": "Delayed public feed"
     },
@@ -4803,17 +4808,17 @@
         "label": "Worth Watching",
         "reasons": [
           "RSI(14): 19",
-          "35.4% below one-year closing high",
-          "Forward/trailing P/E: 10.9",
+          "35.1% below one-year closing high",
+          "Forward/trailing P/E: 11.0",
           "Below 50-day average"
         ],
-        "rsi": 18.9,
-        "drawdown_pct": -35.38
+        "rsi": 19.0,
+        "drawdown_pct": -35.11
       },
       "ticker": "AFRM",
       "name": "Affirm Holdings, Inc.",
       "sector": "Financial Services",
-      "price": 55.43000030517578,
+      "price": 55.65999984741211,
       "as_of": "2026-11-20",
       "scores": {
         "value": 85,
@@ -4826,16 +4831,16 @@
       "entry_score": 25,
       "coverage": 12,
       "metrics": {
-        "pe": 9.6065855,
-        "forward_pe": 10.946001,
-        "pb": 3.2665448,
+        "pe": 9.646447,
+        "forward_pe": 10.99142,
+        "pb": 3.280099,
         "roe": 0.44491002,
         "margin": 0.43862,
         "revenue_growth": 0.352,
         "earnings_growth": 1.014,
         "dividend_yield": 0.0,
         "payout": 0.0,
-        "market_cap": 18791542784.0
+        "market_cap": 18869516288.0
       },
       "status": "Delayed public feed"
     }
@@ -4844,9 +4849,9 @@
     {
       "name": "S&P 500",
       "ticker": "^GSPC",
-      "close": 7014.64013671875,
+      "close": 7030.97021484375,
       "peak": 7818.93017578125,
-      "drawdown_pct": -10.29,
+      "drawdown_pct": -10.08,
       "levels": {
         "5": 7427.98,
         "10": 7037.04,
@@ -4859,9 +4864,9 @@
     {
       "name": "Nasdaq Composite",
       "ticker": "^IXIC",
-      "close": 22998.603515625,
+      "close": 23076.748046875,
       "peak": 27599.7890625,
-      "drawdown_pct": -16.67,
+      "drawdown_pct": -16.39,
       "levels": {
         "5": 26219.8,
         "10": 24839.81,
@@ -4874,9 +4879,9 @@
     {
       "name": "Dow Jones",
       "ticker": "^DJI",
-      "close": 48757.51171875,
+      "close": 48833.69921875,
       "peak": 54349.12109375,
-      "drawdown_pct": -10.29,
+      "drawdown_pct": -10.15,
       "levels": {
         "5": 51631.67,
         "10": 48914.21,
@@ -4889,9 +4894,9 @@
     {
       "name": "Russell 2000",
       "ticker": "^RUT",
-      "close": 2609.41552734375,
+      "close": 2609.101318359375,
       "peak": 3068.419921875,
-      "drawdown_pct": -14.96,
+      "drawdown_pct": -14.97,
       "levels": {
         "5": 2915.0,
         "10": 2761.58,
@@ -4904,9 +4909,9 @@
     {
       "name": "RSP (Equal Weight S&P 500)",
       "ticker": "RSP",
-      "close": 210.08990478515625,
+      "close": 210.35000610351562,
       "peak": 223.3300018310547,
-      "drawdown_pct": -5.93,
+      "drawdown_pct": -5.81,
       "levels": {
         "5": 212.16,
         "10": 201.0,
@@ -4919,9 +4924,9 @@
     {
       "name": "VTI (Total US Market)",
       "ticker": "VTI",
-      "close": 344.6700134277344,
+      "close": 345.4200134277344,
       "peak": 383.33258056640625,
-      "drawdown_pct": -10.09,
+      "drawdown_pct": -9.89,
       "levels": {
         "5": 364.17,
         "10": 345.0,
@@ -4934,11 +4939,11 @@
   ],
   "market": {
     "vix": {
-      "value": 32.27,
+      "value": 32.02,
       "as_of": "2026-11-20",
       "interpretation": "Elevated volatility expectations"
     },
-    "trend": "S&P 500 -10.29% from 1y peak",
+    "trend": "S&P 500 -10.08% from 1y peak",
     "entry": "Model-specific scores; not a trade signal"
   }
 }
