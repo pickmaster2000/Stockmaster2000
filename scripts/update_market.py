@@ -51,12 +51,41 @@ def history(t,period="1y"):
         return h if h is not None and not h.empty else None
     except Exception as e:
         print("History unavailable",t.ticker,str(e)[:120]);return None
+def buying_opportunity(closes, fundamentals):
+    """Conservative, explainable watchlist flag; not a purchase recommendation."""
+    c=closes.dropna()
+    if len(c)<200: return {"score":None,"label":"Insufficient history","reasons":["At least 200 daily closes required"]}
+    price=float(c.iloc[-1])
+    ma50=float(c.tail(50).mean()); ma200=float(c.tail(200).mean())
+    delta=c.diff()
+    up=delta.clip(lower=0).tail(14).mean()
+    down=(-delta.clip(upper=0)).tail(14).mean()
+    rsi=100 if down==0 else 100-100/(1+up/down)
+    high=float(c.max())
+    drawdown=100*(price/high-1)
+    pe=fundamentals["metrics"]["forward_pe"] or fundamentals["metrics"]["pe"]
+    quality=max(fundamentals["scores"]["value"],fundamentals["scores"]["growth"])
+    risk=fundamentals["risk_score"]
+    # Reward reasonable valuation, moderate pullback and recovering trend.
+    valuation=inverse(pe,12,40)
+    pullback=grade(-drawdown,3,22)
+    momentum=grade(rsi,30,65)
+    trend=100 if price>=ma50 and ma50>=ma200 else 65 if price>=ma50 else 30
+    result=clamp(.30*quality+.25*valuation+.20*pullback+.15*momentum+.10*trend)
+    reasons=[f"RSI(14): {rsi:.0f}",f"{-drawdown:.1f}% below one-year closing high",f"Forward/trailing P/E: {pe:.1f}" if pe else "P/E unavailable", "Above 50-day average" if price>=ma50 else "Below 50-day average"]
+    # Explicit guardrails: no buy-opportunity label for weak fundamentals, high risk or missing valuation.
+    qualified=quality>=65 and risk<65 and pe is not None and pe>0 and result>=70 and rsi>=35 and price>=ma50
+    label="Potential Buying Opportunity" if qualified else "Worth Watching" if result>=60 and quality>=55 and risk<65 else "Wait / Higher Risk"
+    if risk>=65: reasons.append("Elevated model risk")
+    if pe is None or pe<=0: reasons.append("Valuation evidence incomplete")
+    return {"score":result,"label":label,"reasons":reasons,"rsi":round(rsi,1),"drawdown_pct":round(drawdown,2)}
+
 def main():
     out={"mode":"live","updated_at":datetime.now(timezone.utc).isoformat(),"source":"Yahoo Finance via yfinance (unofficial; delayed, missing, or revised data possible)","stocks":[],"indices":[],"market":{}}
     for j,sym in enumerate(SYMBOLS):
         try:
             t=yf.Ticker(sym);i=safe_info(t)
-            h=history(t,"6mo")
+            h=history(t,"1y")
             if not i or h is None: continue
             q=score(i)
             if q["coverage"]<5: continue
@@ -64,7 +93,8 @@ def main():
             if closes.empty: continue
             last=number(closes.iloc[-1]);ma50=number(closes.tail(50).mean());ma200=number(closes.tail(200).mean()) if len(closes)>=200 else None
             entry=clamp(50+(15 if ma50 and last>ma50 else -15)+(15 if ma200 and last>ma200 else -10))
-            out["stocks"].append(dict(ticker=sym,name=i.get("shortName") or sym,sector=i.get("sector") or "Unknown",price=last,as_of=str(closes.index[-1].date()),scores=q["scores"],risk_score=q["risk_score"],risk=("High" if q["risk_score"]>=65 else "Moderate" if q["risk_score"]>=35 else "Lower"),entry_score=entry,coverage=q["coverage"],metrics=q["metrics"],status="Delayed public feed"))
+            opportunity=buying_opportunity(closes,q)
+            out["stocks"].append(dict(opportunity=opportunity,ticker=sym,name=i.get("shortName") or sym,sector=i.get("sector") or "Unknown",price=last,as_of=str(closes.index[-1].date()),scores=q["scores"],risk_score=q["risk_score"],risk=("High" if q["risk_score"]>=65 else "Moderate" if q["risk_score"]>=35 else "Lower"),entry_score=entry,coverage=q["coverage"],metrics=q["metrics"],status="Delayed public feed"))
         except Exception as e: print("Skipped",sym,str(e)[:120])
         if j%20==0: print("Processed",j+1,"of",len(SYMBOLS))
     for name,sym in INDICES.items():
