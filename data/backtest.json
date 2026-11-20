@@ -1,0 +1,401 @@
+{
+  "generated_at": "2026-11-20T18:55:43.076701+00:00",
+  "test_type": "Historical technical proxy ONLY; not a backtest of current fundamental scores",
+  "strategy": "Equal weight all available curated stocks whose close > 50-day MA > 200-day MA at month end; cash if none; next-close execution",
+  "benchmark": "SPY adjusted closing prices",
+  "assumptions": "No transaction costs, taxes, slippage or cash interest. Current ticker list is retrospectively applied, creating survivorship and selection bias. Daily adjusted close data may be revised.",
+  "symbols_requested": 116,
+  "symbols_with_history": 115,
+  "periods": [
+    {
+      "decision": "2022-11-30",
+      "entry": "2022-12-01",
+      "exit": "2023-01-03",
+      "holdings": 32,
+      "strategy_return_pct": -4.29,
+      "spy_return_pct": -6.09
+    },
+    {
+      "decision": "2022-12-30",
+      "entry": "2023-01-03",
+      "exit": "2023-02-01",
+      "holdings": 37,
+      "strategy_return_pct": 2.281,
+      "spy_return_pct": 7.872
+    },
+    {
+      "decision": "2023-01-31",
+      "entry": "2023-02-01",
+      "exit": "2023-03-01",
+      "holdings": 39,
+      "strategy_return_pct": -3.272,
+      "spy_return_pct": -3.909
+    },
+    {
+      "decision": "2023-02-28",
+      "entry": "2023-03-01",
+      "exit": "2023-04-03",
+      "holdings": 20,
+      "strategy_return_pct": 1.567,
+      "spy_return_pct": 4.504
+    },
+    {
+      "decision": "2023-03-31",
+      "entry": "2023-04-03",
+      "exit": "2023-05-01",
+      "holdings": 50,
+      "strategy_return_pct": -0.767,
+      "spy_return_pct": 1.11
+    },
+    {
+      "decision": "2023-04-28",
+      "entry": "2023-05-01",
+      "exit": "2023-06-01",
+      "holdings": 45,
+      "strategy_return_pct": 5.718,
+      "spy_return_pct": 1.519
+    },
+    {
+      "decision": "2023-05-31",
+      "entry": "2023-06-01",
+      "exit": "2023-07-03",
+      "holdings": 38,
+      "strategy_return_pct": 7.008,
+      "spy_return_pct": 5.599
+    },
+    {
+      "decision": "2023-06-30",
+      "entry": "2023-07-03",
+      "exit": "2023-08-01",
+      "holdings": 62,
+      "strategy_return_pct": 6.05,
+      "spy_return_pct": 2.859
+    },
+    {
+      "decision": "2023-07-31",
+      "entry": "2023-08-01",
+      "exit": "2023-09-01",
+      "holdings": 70,
+      "strategy_return_pct": -2.754,
+      "spy_return_pct": -1.159
+    },
+    {
+      "decision": "2023-08-31",
+      "entry": "2023-09-01",
+      "exit": "2023-10-02",
+      "holdings": 50,
+      "strategy_return_pct": -5.784,
+      "spy_return_pct": -4.959
+    },
+    {
+      "decision": "2023-09-29",
+      "entry": "2023-10-02",
+      "exit": "2023-11-01",
+      "holdings": 16,
+      "strategy_return_pct": -5.056,
+      "spy_return_pct": -1.088
+    },
+    {
+      "decision": "2023-10-31",
+      "entry": "2023-11-01",
+      "exit": "2023-12-01",
+      "holdings": 14,
+      "strategy_return_pct": 14.229,
+      "spy_return_pct": 8.622
+    },
+    {
+      "decision": "2023-11-30",
+      "entry": "2023-12-01",
+      "exit": "2024-01-02",
+      "holdings": 48,
+      "strategy_return_pct": 2.148,
+      "spy_return_pct": 3.369
+    },
+    {
+      "decision": "2023-12-29",
+      "entry": "2024-01-02",
+      "exit": "2024-02-01",
+      "holdings": 67,
+      "strategy_return_pct": 2.683,
+      "spy_return_pct": 3.502
+    },
+    {
+      "decision": "2024-01-31",
+      "entry": "2024-02-01",
+      "exit": "2024-03-01",
+      "holdings": 61,
+      "strategy_return_pct": 5.741,
+      "spy_return_pct": 4.834
+    },
+    {
+      "decision": "2024-02-29",
+      "entry": "2024-03-01",
+      "exit": "2024-04-01",
+      "holdings": 66,
+      "strategy_return_pct": 2.111,
+      "spy_return_pct": 2.132
+    },
+    {
+      "decision": "2024-03-28",
+      "entry": "2024-04-01",
+      "exit": "2024-05-01",
+      "holdings": 70,
+      "strategy_return_pct": -4.573,
+      "spy_return_pct": -4.177
+    },
+    {
+      "decision": "2024-04-30",
+      "entry": "2024-05-01",
+      "exit": "2024-06-03",
+      "holdings": 37,
+      "strategy_return_pct": 3.577,
+      "spy_return_pct": 5.486
+    },
+    {
+      "decision": "2024-05-31",
+      "entry": "2024-06-03",
+      "exit": "2024-07-01",
+      "holdings": 39,
+      "strategy_return_pct": 2.785,
+      "spy_return_pct": 3.657
+    },
+    {
+      "decision": "2024-06-28",
+      "entry": "2024-07-01",
+      "exit": "2024-08-01",
+      "holdings": 52,
+      "strategy_return_pct": -1.913,
+      "spy_return_pct": -0.427
+    },
+    {
+      "decision": "2024-07-31",
+      "entry": "2024-08-01",
+      "exit": "2024-09-03",
+      "holdings": 53,
+      "strategy_return_pct": 3.881,
+      "spy_return_pct": 1.67
+    },
+    {
+      "decision": "2024-08-30",
+      "entry": "2024-09-03",
+      "exit": "2024-10-01",
+      "holdings": 63,
+      "strategy_return_pct": 3.198,
+      "spy_return_pct": 3.312
+    },
+    {
+      "decision": "2024-09-30",
+      "entry": "2024-10-01",
+      "exit": "2024-11-01",
+      "holdings": 72,
+      "strategy_return_pct": 1.155,
+      "spy_return_pct": 0.426
+    },
+    {
+      "decision": "2024-10-31",
+      "entry": "2024-11-01",
+      "exit": "2024-12-02",
+      "holdings": 50,
+      "strategy_return_pct": 18.183,
+      "spy_return_pct": 5.707
+    },
+    {
+      "decision": "2024-11-29",
+      "entry": "2024-12-02",
+      "exit": "2025-01-02",
+      "holdings": 68,
+      "strategy_return_pct": -4.356,
+      "spy_return_pct": -2.82
+    },
+    {
+      "decision": "2024-12-31",
+      "entry": "2025-01-02",
+      "exit": "2025-02-03",
+      "holdings": 34,
+      "strategy_return_pct": 6.326,
+      "spy_return_pct": 2.246
+    },
+    {
+      "decision": "2025-01-31",
+      "entry": "2025-02-03",
+      "exit": "2025-03-03",
+      "holdings": 59,
+      "strategy_return_pct": -4.634,
+      "spy_return_pct": -2.342
+    },
+    {
+      "decision": "2025-02-28",
+      "entry": "2025-03-03",
+      "exit": "2025-04-01",
+      "holdings": 48,
+      "strategy_return_pct": -4.918,
+      "spy_return_pct": -3.617
+    },
+    {
+      "decision": "2025-03-31",
+      "entry": "2025-04-01",
+      "exit": "2025-05-01",
+      "holdings": 24,
+      "strategy_return_pct": -2.762,
+      "spy_return_pct": -0.446
+    },
+    {
+      "decision": "2025-04-30",
+      "entry": "2025-05-01",
+      "exit": "2025-06-02",
+      "holdings": 35,
+      "strategy_return_pct": 9.591,
+      "spy_return_pct": 6.131
+    },
+    {
+      "decision": "2025-05-30",
+      "entry": "2025-06-02",
+      "exit": "2025-07-01",
+      "holdings": 45,
+      "strategy_return_pct": 3.654,
+      "spy_return_pct": 4.516
+    },
+    {
+      "decision": "2025-06-30",
+      "entry": "2025-07-01",
+      "exit": "2025-08-01",
+      "holdings": 56,
+      "strategy_return_pct": 2.652,
+      "spy_return_pct": 0.659
+    },
+    {
+      "decision": "2025-07-31",
+      "entry": "2025-08-01",
+      "exit": "2025-09-02",
+      "holdings": 57,
+      "strategy_return_pct": 1.665,
+      "spy_return_pct": 2.984
+    },
+    {
+      "decision": "2025-08-29",
+      "entry": "2025-09-02",
+      "exit": "2025-10-01",
+      "holdings": 57,
+      "strategy_return_pct": 6.455,
+      "spy_return_pct": 4.691
+    },
+    {
+      "decision": "2025-09-30",
+      "entry": "2025-10-01",
+      "exit": "2025-11-03",
+      "holdings": 65,
+      "strategy_return_pct": 3.666,
+      "spy_return_pct": 2.228
+    },
+    {
+      "decision": "2025-10-31",
+      "entry": "2025-11-03",
+      "exit": "2025-12-01",
+      "holdings": 55,
+      "strategy_return_pct": -6.423,
+      "spy_return_pct": -0.449
+    },
+    {
+      "decision": "2025-11-28",
+      "entry": "2025-12-01",
+      "exit": "2026-01-02",
+      "holdings": 40,
+      "strategy_return_pct": 2.611,
+      "spy_return_pct": 0.723
+    },
+    {
+      "decision": "2025-12-31",
+      "entry": "2026-01-02",
+      "exit": "2026-02-02",
+      "holdings": 42,
+      "strategy_return_pct": 6.271,
+      "spy_return_pct": 1.792
+    },
+    {
+      "decision": "2026-01-30",
+      "entry": "2026-02-02",
+      "exit": "2026-03-02",
+      "holdings": 49,
+      "strategy_return_pct": 1.87,
+      "spy_return_pct": -1.298
+    },
+    {
+      "decision": "2026-02-27",
+      "entry": "2026-03-02",
+      "exit": "2026-04-01",
+      "holdings": 42,
+      "strategy_return_pct": -3.775,
+      "spy_return_pct": -4.276
+    },
+    {
+      "decision": "2026-03-31",
+      "entry": "2026-04-01",
+      "exit": "2026-05-01",
+      "holdings": 23,
+      "strategy_return_pct": 1.709,
+      "spy_return_pct": 9.983
+    },
+    {
+      "decision": "2026-04-30",
+      "entry": "2026-05-01",
+      "exit": "2026-06-01",
+      "holdings": 40,
+      "strategy_return_pct": 5.874,
+      "spy_return_pct": 5.258
+    },
+    {
+      "decision": "2026-05-29",
+      "entry": "2026-06-01",
+      "exit": "2026-07-01",
+      "holdings": 34,
+      "strategy_return_pct": 2.319,
+      "spy_return_pct": -1.432
+    },
+    {
+      "decision": "2026-06-30",
+      "entry": "2026-07-01",
+      "exit": "2026-08-03",
+      "holdings": 40,
+      "strategy_return_pct": -2.945,
+      "spy_return_pct": 1.597
+    },
+    {
+      "decision": "2026-07-31",
+      "entry": "2026-08-03",
+      "exit": "2026-09-01",
+      "holdings": 37,
+      "strategy_return_pct": 2.509,
+      "spy_return_pct": 0.542
+    },
+    {
+      "decision": "2026-08-31",
+      "entry": "2026-09-01",
+      "exit": "2026-10-01",
+      "holdings": 45,
+      "strategy_return_pct": -1.793,
+      "spy_return_pct": 0.539
+    },
+    {
+      "decision": "2026-09-30",
+      "entry": "2026-10-01",
+      "exit": "2026-11-02",
+      "holdings": 34,
+      "strategy_return_pct": -6.815,
+      "spy_return_pct": -1.556
+    }
+  ],
+  "strategy_stats": {
+    "total_return_pct": 93.69,
+    "cagr_pct": 18.37,
+    "max_drawdown_pct": -13.01,
+    "positive_periods": 30,
+    "periods": 47
+  },
+  "benchmark_stats": {
+    "total_return_pct": 94.45,
+    "cagr_pct": 18.49,
+    "max_drawdown_pct": -7.08,
+    "positive_periods": 31,
+    "periods": 47
+  }
+}
