@@ -14,6 +14,8 @@ jobs:
     timeout-minutes: 35
     steps:
       - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
@@ -27,5 +29,16 @@ jobs:
           git add data/latest.json
           if ! git diff --cached --quiet; then
             git commit -m "Refresh daily market snapshot"
-            git push
+            # Another commit can reach main while the data download runs.
+            # Rebase onto latest main and keep our freshly generated JSON.
+            for attempt in 1 2 3; do
+              git fetch origin main
+              if git rebase -X ours origin/main && git push origin HEAD:main; then
+                exit 0
+              fi
+              git rebase --abort 2>/dev/null || true
+              sleep 2
+            done
+            echo "Unable to publish market snapshot after 3 attempts."
+            exit 1
           fi
