@@ -13,3 +13,11 @@ Uses highest *daily close within the previous 1 year* and latest daily close, wh
 
 ## Known gaps
 On-demand arbitrary-ticker lookup, VIX/FRED macro data, comprehensive market breadth, sector-relative valuation, portfolio features, automated fundamentals validation, backtesting and full historical audit trail are not yet implemented. Do not rely on this tool for execution decisions. Verify all prices and filings with primary sources.
+
+## Historical technical strategy test (separate from fundamental models)
+The `Historical technical backtest` GitHub Action runs `scripts/backtest.py` and writes `data/backtest.json`. It uses approximately five years of adjusted daily closing prices for the CURRENT curated ticker universe. At each month-end close, it selects stocks with close > 50-day average > 200-day average, equally weights them, and measures next-close to next-close returns until the following rebalance. When no stocks qualify, it holds zero-return cash. SPY is the benchmark. The output reports compounded total return, annualized return, maximum drawdown and monthly observations.
+
+**This does not backtest the four fundamental models or the Buying Opportunity score.** Using today's ticker universe creates survivorship/selection bias, and the test omits transaction costs, taxes, slippage and cash interest. The historical signal may overfit, and results are not predictive. A reliable fundamental backtest requires point-in-time financial statements, historical constituents and delisted companies, plus realistic filing/reporting lags.
+
+## Forward test of the actual model
+Each successful market-data refresh archives the first score snapshot for that UTC day in `data/history/YYYY-MM-DD.json`. Do not overwrite old observations with revised fundamentals. Once enough forward history has accumulated, subsequent stock returns can be compared to scores and benchmarks without leaking future information. The archive begins when this feature is deployed; it does not reconstruct old scores.
