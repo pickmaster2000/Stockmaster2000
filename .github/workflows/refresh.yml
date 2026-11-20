@@ -30,10 +30,10 @@ jobs:
           if ! git diff --cached --quiet; then
             git commit -m "Refresh daily market snapshot"
             # Another commit can reach main while the data download runs.
-            # Rebase onto latest main and keep our freshly generated JSON.
+            # Rebase onto latest main, preferring the fresh snapshot if data conflicts.
             for attempt in 1 2 3; do
               git fetch origin main
-              if git rebase -X ours origin/main && git push origin HEAD:main; then
+              if git rebase -X theirs origin/main && git push origin HEAD:main; then
                 exit 0
               fi
               git rebase --abort 2>/dev/null || true
