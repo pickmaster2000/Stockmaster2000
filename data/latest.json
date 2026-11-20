@@ -12,7 +12,7 @@
       "scores": {
         "value": 50,
         "growth": 56,
-        "income": 97,
+        "income": 30,
         "speculative": 36
       },
       "risk_score": 11,
@@ -27,9 +27,9 @@
         "margin": 0.27604,
         "revenue_growth": 0.117,
         "earnings_growth": 0.141,
-        "dividend_yield": 0.31,
+        "dividend_yield": 0.0031,
         "payout": 0.118,
-        "market_cap": 5024574865408.0
+        "market_cap": 5024574865408
       },
       "status": "Delayed public feed"
     },
@@ -42,7 +42,7 @@
       "scores": {
         "value": 73,
         "growth": 74,
-        "income": 88,
+        "income": 30,
         "speculative": 44
       },
       "risk_score": 4,
@@ -57,9 +57,9 @@
         "margin": 0.41169998,
         "revenue_growth": 0.188,
         "earnings_growth": 0.323,
-        "dividend_yield": 0.79,
+        "dividend_yield": 0.0079,
         "payout": 0.19,
-        "market_cap": 3643899904000.0
+        "market_cap": 3643899904000
       },
       "status": "Delayed public feed"
     },
@@ -72,7 +72,7 @@
       "scores": {
         "value": 79,
         "growth": 100,
-        "income": 99,
+        "income": 30,
         "speculative": 80
       },
       "risk_score": 2,
@@ -87,9 +87,9 @@
         "margin": 0.62535,
         "revenue_growth": 1.032,
         "earnings_growth": 1.077,
-        "dividend_yield": 0.69,
+        "dividend_yield": 0.0069,
         "payout": 0.0354,
-        "market_cap": 3292322594816.0
+        "market_cap": 3292322594816
       },
       "status": "Delayed public feed"
     },
@@ -102,7 +102,7 @@
       "scores": {
         "value": 69,
         "growth": 41,
-        "income": 38,
+        "income": 0,
         "speculative": 32
       },
       "risk_score": 11,
@@ -117,9 +117,9 @@
         "margin": 0.16900998,
         "revenue_growth": 0.121,
         "earnings_growth": -0.031,
-        "dividend_yield": 0.0,
-        "payout": 0.0,
-        "market_cap": 2710853648384.0
+        "dividend_yield": 0,
+        "payout": 0,
+        "market_cap": 2710853648384
       },
       "status": "Delayed public feed"
     },
@@ -132,7 +132,7 @@
       "scores": {
         "value": 81,
         "growth": 55,
-        "income": 84,
+        "income": 30,
         "speculative": 34
       },
       "risk_score": 3,
@@ -147,9 +147,9 @@
         "margin": 0.50031,
         "revenue_growth": 0.247,
         "earnings_growth": -0.253,
-        "dividend_yield": 0.32,
+        "dividend_yield": 0.0032,
         "payout": 0.044899996,
-        "market_cap": 3360196132864.0
+        "market_cap": 3360196132864
       },
       "status": "Delayed public feed"
     },
@@ -162,7 +162,7 @@
       "scores": {
         "value": 82,
         "growth": 91,
-        "income": 98,
+        "income": 30,
         "speculative": 59
       },
       "risk_score": 6,
@@ -177,9 +177,9 @@
         "margin": 0.31145,
         "revenue_growth": 0.261,
         "earnings_growth": 2.648,
-        "dividend_yield": 0.35,
+        "dividend_yield": 0.0034999999999999996,
         "payout": 0.0716,
-        "market_cap": 1456239411200.0
+        "market_cap": 1456239411200
       },
       "status": "Delayed public feed"
     },
@@ -192,7 +192,7 @@
       "scores": {
         "value": 64,
         "growth": 32,
-        "income": 54,
+        "income": 0,
         "speculative": 26
       },
       "risk_score": 5,
@@ -207,9 +207,9 @@
         "margin": 0.19497,
         "revenue_growth": 0.112,
         "earnings_growth": -0.276,
-        "dividend_yield": 0.0,
-        "payout": 0.0,
-        "market_cap": 1212973056000.0
+        "dividend_yield": 0,
+        "payout": 0,
+        "market_cap": 1212973056000
       },
       "status": "Delayed public feed"
     },
@@ -222,7 +222,7 @@
       "scores": {
         "value": 69,
         "growth": 100,
-        "income": 97,
+        "income": 30,
         "speculative": 80
       },
       "risk_score": 8,
@@ -237,9 +237,9 @@
         "margin": 0.42944,
         "revenue_growth": 0.855,
         "earnings_growth": 2.153,
-        "dividend_yield": 0.75,
+        "dividend_yield": 0.0075,
         "payout": 0.32439998,
-        "market_cap": 1472044204032.0
+        "market_cap": 1472044204032
       },
       "status": "Delayed public feed"
     },
@@ -252,7 +252,7 @@
       "scores": {
         "value": 14,
         "growth": 10,
-        "income": 47,
+        "income": 0,
         "speculative": 15
       },
       "risk_score": 12,
@@ -267,9 +267,9 @@
         "margin": 0.031070001,
         "revenue_growth": -0.002,
         "earnings_growth": -0.436,
-        "dividend_yield": 0.0,
-        "payout": 0.0,
-        "market_cap": 1391825387520.0
+        "dividend_yield": 0,
+        "payout": 0,
+        "market_cap": 1391825387520
       },
       "status": "Delayed public feed"
     },
@@ -299,7 +299,7 @@
         "earnings_growth": 0.099,
         "dividend_yield": 0.0206,
         "payout": 0.258,
-        "market_cap": 833409908736.0
+        "market_cap": 833409908736
       },
       "status": "Delayed public feed"
     },
@@ -312,7 +312,7 @@
       "scores": {
         "value": 60,
         "growth": 62,
-        "income": 98,
+        "income": 30,
         "speculative": 39
       },
       "risk_score": 8,
@@ -327,9 +327,9 @@
         "margin": 0.51203996,
         "revenue_growth": 0.132,
         "earnings_growth": 0.219,
-        "dividend_yield": 0.78,
+        "dividend_yield": 0.0078000000000000005,
         "payout": 0.2175,
-        "market_cap": 756731150336.0
+        "market_cap": 756731150336
       },
       "status": "Delayed public feed"
     },
@@ -359,7 +359,7 @@
         "earnings_growth": 0.761,
         "dividend_yield": 0.0281,
         "payout": 0.5171,
-        "market_cap": 308106330112.0
+        "market_cap": 308106330112
       },
       "status": "Delayed public feed"
     },
@@ -389,7 +389,7 @@
         "earnings_growth": 1.114,
         "dividend_yield": 0.0269,
         "payout": 0.4239,
-        "market_cap": 658121424896.0
+        "market_cap": 658121424896
       },
       "status": "Delayed public feed"
     },
@@ -402,7 +402,7 @@
       "scores": {
         "value": 49,
         "growth": 63,
-        "income": 90,
+        "income": 30,
         "speculative": 39
       },
       "risk_score": 40,
@@ -417,9 +417,9 @@
         "margin": 0.46732,
         "revenue_growth": 0.14,
         "earnings_growth": 0.217,
-        "dividend_yield": 0.56,
+        "dividend_yield": 0.005600000000000001,
         "payout": 0.17629999,
-        "market_cap": 548806131712.0
+        "market_cap": 548806131712
       },
       "status": "Delayed public feed"
     },
@@ -432,7 +432,7 @@
       "scores": {
         "value": 30,
         "growth": 44,
-        "income": 94,
+        "income": 30,
         "speculative": 31
       },
       "risk_score": 14,
@@ -447,9 +447,9 @@
         "margin": 0.03043,
         "revenue_growth": 0.111,
         "earnings_growth": 0.15,
-        "dividend_yield": 0.54,
+        "dividend_yield": 0.0054,
         "payout": 0.2669,
-        "market_cap": 493747994624.0
+        "market_cap": 493747994624
       },
       "status": "Delayed public feed"
     },
@@ -479,7 +479,7 @@
         "earnings_growth": 0.028,
         "dividend_yield": 0.0277,
         "payout": 0.648,
-        "market_cap": 342337224704.0
+        "market_cap": 342337224704
       },
       "status": "Delayed public feed"
     },
@@ -509,7 +509,7 @@
         "earnings_growth": 0.008,
         "dividend_yield": 0.0259,
         "payout": 0.6462,
-        "market_cap": 394278076416.0
+        "market_cap": 394278076416
       },
       "status": "Delayed public feed"
     },
@@ -539,7 +539,7 @@
         "earnings_growth": -0.959,
         "dividend_yield": 0.020099999999999996,
         "payout": 0.80120003,
-        "market_cap": 651851464704.0
+        "market_cap": 651851464704
       },
       "status": "Delayed public feed"
     },
@@ -569,7 +569,7 @@
         "earnings_growth": 22.821,
         "dividend_yield": 0.024399999999999998,
         "payout": 1.1735,
-        "market_cap": 509921951744.0
+        "market_cap": 509921951744
       },
       "status": "Delayed public feed"
     },
@@ -582,7 +582,7 @@
       "scores": {
         "value": 27,
         "growth": 23,
-        "income": 91,
+        "income": 30,
         "speculative": 23
       },
       "risk_score": 20,
@@ -597,9 +597,9 @@
         "margin": 0.03,
         "revenue_growth": 0.059,
         "earnings_growth": -0.091,
-        "dividend_yield": 0.78,
+        "dividend_yield": 0.0078000000000000005,
         "payout": 0.3496,
-        "market_cap": 1032560771072.0
+        "market_cap": 1032560771072
       },
       "status": "Delayed public feed"
     },
@@ -612,7 +612,7 @@
       "scores": {
         "value": 77,
         "growth": 75,
-        "income": 53,
+        "income": 0,
         "speculative": 44
       },
       "risk_score": 8,
@@ -627,9 +627,9 @@
         "margin": 0.29691,
         "revenue_growth": 0.118,
         "earnings_growth": 0.475,
-        "dividend_yield": 0.0,
-        "payout": 0.0,
-        "market_cap": 235708874752.0
+        "dividend_yield": 0,
+        "payout": 0,
+        "market_cap": 235708874752
       },
       "status": "Delayed public feed"
     },
@@ -659,7 +659,7 @@
         "earnings_growth": 0.545,
         "dividend_yield": 0.0181,
         "payout": 0.31350002,
-        "market_cap": 321092747264.0
+        "market_cap": 321092747264
       },
       "status": "Delayed public feed"
     },
@@ -672,7 +672,7 @@
       "scores": {
         "value": 78,
         "growth": 71,
-        "income": 96,
+        "income": 30,
         "speculative": 51
       },
       "risk_score": 21,
@@ -687,9 +687,9 @@
         "margin": 0.2199,
         "revenue_growth": 0.108,
         "earnings_growth": 1.189,
-        "dividend_yield": 0.96,
+        "dividend_yield": 0.0096,
         "payout": 0.1566,
-        "market_cap": 151798235136.0
+        "market_cap": 151798235136
       },
       "status": "Delayed public feed"
     },
@@ -702,7 +702,7 @@
       "scores": {
         "value": 47,
         "growth": 90,
-        "income": 51,
+        "income": 0,
         "speculative": 68
       },
       "risk_score": 5,
@@ -717,9 +717,9 @@
         "margin": 0.16769,
         "revenue_growth": 0.447,
         "earnings_growth": 0.938,
-        "dividend_yield": 0.0,
-        "payout": 0.0,
-        "market_cap": 723743670272.0
+        "dividend_yield": 0,
+        "payout": 0,
+        "market_cap": 723743670272
       },
       "status": "Delayed public feed"
     },
@@ -732,7 +732,7 @@
       "scores": {
         "value": 86,
         "growth": 55,
-        "income": 52,
+        "income": 0,
         "speculative": 36
       },
       "risk_score": 19,
@@ -747,9 +747,9 @@
         "margin": 0.28048,
         "revenue_growth": 0.129,
         "earnings_growth": 0.105,
-        "dividend_yield": 0.0,
-        "payout": 0.0,
-        "market_cap": 87183409152.0
+        "dividend_yield": 0,
+        "payout": 0,
+        "market_cap": 87183409152
       },
       "status": "Delayed public feed"
     },
@@ -779,7 +779,7 @@
         "earnings_growth": -0.125,
         "dividend_yield": 0.0264,
         "payout": 0.2762,
-        "market_cap": 329381478400.0
+        "market_cap": 329381478400
       },
       "status": "Delayed public feed"
     },
@@ -809,7 +809,7 @@
         "earnings_growth": 0.083,
         "dividend_yield": 0.022099999999999998,
         "payout": 0.6195,
-        "market_cap": 419973201920.0
+        "market_cap": 419973201920
       },
       "status": "Delayed public feed"
     },
@@ -839,7 +839,7 @@
         "earnings_growth": 0.174,
         "dividend_yield": 0.0426,
         "payout": 0.7302,
-        "market_cap": 193407041536.0
+        "market_cap": 193407041536
       },
       "status": "Delayed public feed"
     },
@@ -869,7 +869,7 @@
         "earnings_growth": 1.78,
         "dividend_yield": 0.0345,
         "payout": 0.5176,
-        "market_cap": 409587646464.0
+        "market_cap": 409587646464
       },
       "status": "Delayed public feed"
     },
@@ -899,7 +899,7 @@
         "earnings_growth": -0.12,
         "dividend_yield": 0.0265,
         "payout": 3.4343,
-        "market_cap": 331433803776.0
+        "market_cap": 331433803776
       },
       "status": "Delayed public feed"
     },
@@ -929,7 +929,7 @@
         "earnings_growth": 0.583,
         "dividend_yield": 0.0177,
         "payout": 0.4441,
-        "market_cap": 363296587776.0
+        "market_cap": 363296587776
       },
       "status": "Delayed public feed"
     },
@@ -959,7 +959,7 @@
         "earnings_growth": 0.25,
         "dividend_yield": 0.0302,
         "payout": 0.5751,
-        "market_cap": 215922311168.0
+        "market_cap": 215922311168
       },
       "status": "Delayed public feed"
     },
@@ -972,7 +972,7 @@
       "scores": {
         "value": 43,
         "growth": 53,
-        "income": 90,
+        "income": 30,
         "speculative": 36
       },
       "risk_score": 19,
@@ -987,9 +987,9 @@
         "margin": 0.17313999,
         "revenue_growth": 0.159,
         "earnings_growth": 0.089,
-        "dividend_yield": 0.59,
+        "dividend_yield": 0.0059,
         "payout": 0.2023,
-        "market_cap": 323397812224.0
+        "market_cap": 323397812224
       },
       "status": "Delayed public feed"
     },
@@ -1019,7 +1019,7 @@
         "earnings_growth": 0.461,
         "dividend_yield": 0.0121,
         "payout": 0.24180001,
-        "market_cap": 236278743040.0
+        "market_cap": 236278743040
       },
       "status": "Delayed public feed"
     },
@@ -1027,7 +1027,7 @@
       "ticker": "MCD",
       "name": "McDonald's Corporation",
       "sector": "Consumer Cyclical",
-      "price": 276.0,
+      "price": 276,
       "as_of": "2026-11-20",
       "scores": {
         "value": 72,
@@ -1049,7 +1049,7 @@
         "earnings_growth": 0.104,
         "dividend_yield": 0.028300000000000002,
         "payout": 0.5886,
-        "market_cap": 194796601344.0
+        "market_cap": 194796601344
       },
       "status": "Delayed public feed"
     },
@@ -1079,7 +1079,7 @@
         "earnings_growth": 1.073,
         "dividend_yield": 0.0166,
         "payout": 0.26639998,
-        "market_cap": 202503995392.0
+        "market_cap": 202503995392
       },
       "status": "Delayed public feed"
     },
@@ -1092,7 +1092,7 @@
       "scores": {
         "value": 56,
         "growth": 39,
-        "income": 92,
+        "income": 30,
         "speculative": 32
       },
       "risk_score": 14,
@@ -1107,9 +1107,9 @@
         "margin": 0.14935,
         "revenue_growth": 0.091,
         "earnings_growth": 0.087,
-        "dividend_yield": 0.27,
+        "dividend_yield": 0.0027,
         "payout": 0.096999995,
-        "market_cap": 250928168960.0
+        "market_cap": 250928168960
       },
       "status": "Delayed public feed"
     },
@@ -1139,7 +1139,7 @@
         "earnings_growth": -0.436,
         "dividend_yield": 0.024300000000000002,
         "payout": 0.9254,
-        "market_cap": 180035321856.0
+        "market_cap": 180035321856
       },
       "status": "Delayed public feed"
     },
@@ -1169,7 +1169,7 @@
         "earnings_growth": 0.77,
         "dividend_yield": 0.0213,
         "payout": 0.7367,
-        "market_cap": 246498689024.0
+        "market_cap": 246498689024
       },
       "status": "Delayed public feed"
     },
@@ -1199,7 +1199,7 @@
         "earnings_growth": null,
         "dividend_yield": 0.0227,
         "payout": 0.285,
-        "market_cap": 166154960896.0
+        "market_cap": 166154960896
       },
       "status": "Delayed public feed"
     },
@@ -1229,7 +1229,7 @@
         "earnings_growth": 0.194,
         "dividend_yield": 0.023,
         "payout": 0.5762,
-        "market_cap": 237622411264.0
+        "market_cap": 237622411264
       },
       "status": "Delayed public feed"
     },
@@ -1259,7 +1259,7 @@
         "earnings_growth": 0.629,
         "dividend_yield": 0.0178,
         "payout": 0.2834,
-        "market_cap": 74603388928.0
+        "market_cap": 74603388928
       },
       "status": "Delayed public feed"
     },
@@ -1272,7 +1272,7 @@
       "scores": {
         "value": 53,
         "growth": 37,
-        "income": 46,
+        "income": 0,
         "speculative": 28
       },
       "risk_score": 26,
@@ -1287,9 +1287,9 @@
         "margin": 0.09364,
         "revenue_growth": 0.205,
         "earnings_growth": -0.442,
-        "dividend_yield": 0.0,
-        "payout": 0.0,
-        "market_cap": 93858832384.0
+        "dividend_yield": 0,
+        "payout": 0,
+        "market_cap": 93858832384
       },
       "status": "Delayed public feed"
     },
@@ -1302,7 +1302,7 @@
       "scores": {
         "value": 60,
         "growth": 24,
-        "income": 49,
+        "income": 0,
         "speculative": 21
       },
       "risk_score": 23,
@@ -1317,9 +1317,9 @@
         "margin": 0.061300002,
         "revenue_growth": 0.096,
         "earnings_growth": -0.92,
-        "dividend_yield": 0.0,
-        "payout": 0.0,
-        "market_cap": 133254275072.0
+        "dividend_yield": 0,
+        "payout": 0,
+        "market_cap": 133254275072
       },
       "status": "Delayed public feed"
     },
@@ -1332,7 +1332,7 @@
       "scores": {
         "value": 45,
         "growth": 100,
-        "income": 44,
+        "income": 0,
         "speculative": 80
       },
       "risk_score": 0,
@@ -1347,9 +1347,9 @@
         "margin": 0.50343,
         "revenue_growth": 0.959,
         "earnings_growth": 1.444,
-        "dividend_yield": 0.0,
-        "payout": 0.0,
-        "market_cap": 355075620864.0
+        "dividend_yield": 0,
+        "payout": 0,
+        "market_cap": 355075620864
       },
       "status": "Delayed public feed"
     },
@@ -1362,7 +1362,7 @@
       "scores": {
         "value": 17,
         "growth": 63,
-        "income": 46,
+        "income": 0,
         "speculative": 48
       },
       "risk_score": 11,
@@ -1377,9 +1377,9 @@
         "margin": 0.03654,
         "revenue_growth": 0.392,
         "earnings_growth": 0.213,
-        "dividend_yield": 0.0,
-        "payout": 0.0,
-        "market_cap": 288105332736.0
+        "dividend_yield": 0,
+        "payout": 0,
+        "market_cap": 288105332736
       },
       "status": "Delayed public feed"
     },
@@ -1392,7 +1392,7 @@
       "scores": {
         "value": 11,
         "growth": 52,
-        "income": 42,
+        "income": 0,
         "speculative": 41
       },
       "risk_score": 13,
@@ -1407,9 +1407,9 @@
         "margin": 0.00834,
         "revenue_growth": 0.258,
         "earnings_growth": null,
-        "dividend_yield": 0.0,
-        "payout": 0.0,
-        "market_cap": 239037579264.0
+        "dividend_yield": 0,
+        "payout": 0,
+        "market_cap": 239037579264
       },
       "status": "Delayed public feed"
     },
@@ -1439,7 +1439,7 @@
         "earnings_growth": 10.595,
         "dividend_yield": 0.09,
         "payout": 0.0070999996,
-        "market_cap": 684850479104.0
+        "market_cap": 684850479104
       },
       "status": "Delayed public feed"
     },
@@ -1452,7 +1452,7 @@
       "scores": {
         "value": 71,
         "growth": 100,
-        "income": 91,
+        "income": 30,
         "speculative": 74
       },
       "risk_score": 4,
@@ -1467,9 +1467,9 @@
         "margin": 0.3234,
         "revenue_growth": 0.544,
         "earnings_growth": 0.766,
-        "dividend_yield": 0.65,
+        "dividend_yield": 0.006500000000000001,
         "payout": 0.16540001,
-        "market_cap": 233095299072.0
+        "market_cap": 233095299072
       },
       "status": "Delayed public feed"
     },
@@ -1482,7 +1482,7 @@
       "scores": {
         "value": 79,
         "growth": 96,
-        "income": 88,
+        "income": 30,
         "speculative": 65
       },
       "risk_score": 3,
@@ -1497,9 +1497,9 @@
         "margin": 0.29286,
         "revenue_growth": 0.531,
         "earnings_growth": 0.431,
-        "dividend_yield": 0.63,
+        "dividend_yield": 0.0063,
         "payout": 0.16479999,
-        "market_cap": 245535064064.0
+        "market_cap": 245535064064
       },
       "status": "Delayed public feed"
     },
@@ -1512,7 +1512,7 @@
       "scores": {
         "value": 65,
         "growth": 87,
-        "income": 86,
+        "income": 30,
         "speculative": 51
       },
       "risk_score": 16,
@@ -1527,9 +1527,9 @@
         "margin": 0.3625,
         "revenue_growth": 0.289,
         "earnings_growth": 0.388,
-        "dividend_yield": 0.65,
+        "dividend_yield": 0.006500000000000001,
         "payout": 0.21030001,
-        "market_cap": 167925809152.0
+        "market_cap": 167925809152
       },
       "status": "Delayed public feed"
     },
@@ -1559,7 +1559,7 @@
         "earnings_growth": 0.137,
         "dividend_yield": 0.0252,
         "payout": 0.6028,
-        "market_cap": 120484519936.0
+        "market_cap": 120484519936
       },
       "status": "Delayed public feed"
     },
@@ -1589,7 +1589,7 @@
         "earnings_growth": 4.053,
         "dividend_yield": 0.0241,
         "payout": 1.1222,
-        "market_cap": 119163248640.0
+        "market_cap": 119163248640
       },
       "status": "Delayed public feed"
     },
@@ -1619,7 +1619,7 @@
         "earnings_growth": -0.021,
         "dividend_yield": 0.0478,
         "payout": 0.7885,
-        "market_cap": 49735565312.0
+        "market_cap": 49735565312
       },
       "status": "Delayed public feed"
     },
@@ -1649,7 +1649,7 @@
         "earnings_growth": 0.034,
         "dividend_yield": 0.022799999999999997,
         "payout": 0.41,
-        "market_cap": 125260914688.0
+        "market_cap": 125260914688
       },
       "status": "Delayed public feed"
     },
@@ -1679,7 +1679,7 @@
         "earnings_growth": 0.074,
         "dividend_yield": 0.0104,
         "payout": 0.36020002,
-        "market_cap": 164036050944.0
+        "market_cap": 164036050944
       },
       "status": "Delayed public feed"
     },
@@ -1709,7 +1709,7 @@
         "earnings_growth": 0.388,
         "dividend_yield": 0.0236,
         "payout": 0.2588,
-        "market_cap": 230825558016.0
+        "market_cap": 230825558016
       },
       "status": "Delayed public feed"
     },
@@ -1739,7 +1739,7 @@
         "earnings_growth": 0.082,
         "dividend_yield": 0.0263,
         "payout": 0.3291,
-        "market_cap": 262528860160.0
+        "market_cap": 262528860160
       },
       "status": "Delayed public feed"
     },
@@ -1769,7 +1769,7 @@
         "earnings_growth": 0.286,
         "dividend_yield": 0.0139,
         "payout": 0.21030001,
-        "market_cap": 158067785728.0
+        "market_cap": 158067785728
       },
       "status": "Delayed public feed"
     },
@@ -1799,7 +1799,7 @@
         "earnings_growth": 0.254,
         "dividend_yield": 0.0202,
         "payout": 0.51,
-        "market_cap": 172123439104.0
+        "market_cap": 172123439104
       },
       "status": "Delayed public feed"
     },
@@ -1812,7 +1812,7 @@
       "scores": {
         "value": 64,
         "growth": 45,
-        "income": 92,
+        "income": 30,
         "speculative": 32
       },
       "risk_score": 14,
@@ -1827,9 +1827,9 @@
         "margin": 0.30602,
         "revenue_growth": 0.068,
         "earnings_growth": 0.101,
-        "dividend_yield": 0.88,
+        "dividend_yield": 0.0088,
         "payout": 0.2206,
-        "market_cap": 129454841856.0
+        "market_cap": 129454841856
       },
       "status": "Delayed public feed"
     },
@@ -1859,7 +1859,7 @@
         "earnings_growth": 0.176,
         "dividend_yield": 0.012199999999999999,
         "payout": 0.2779,
-        "market_cap": 96333225984.0
+        "market_cap": 96333225984
       },
       "status": "Delayed public feed"
     },
@@ -1889,7 +1889,7 @@
         "earnings_growth": 0.161,
         "dividend_yield": 0.017,
         "payout": 0.92620003,
-        "market_cap": 111306702848.0
+        "market_cap": 111306702848
       },
       "status": "Delayed public feed"
     },
@@ -1919,7 +1919,7 @@
         "earnings_growth": 0.102,
         "dividend_yield": 0.0377,
         "payout": 0.4086,
-        "market_cap": 88903598080.0
+        "market_cap": 88903598080
       },
       "status": "Delayed public feed"
     },
@@ -1949,7 +1949,7 @@
         "earnings_growth": -0.097,
         "dividend_yield": 0.0625,
         "payout": 2.4571002,
-        "market_cap": 156859973632.0
+        "market_cap": 156859973632
       },
       "status": "Delayed public feed"
     },
@@ -1979,7 +1979,7 @@
         "earnings_growth": -0.202,
         "dividend_yield": 0.0197,
         "payout": 0.4346,
-        "market_cap": 209083875328.0
+        "market_cap": 209083875328
       },
       "status": "Delayed public feed"
     },
@@ -2009,7 +2009,7 @@
         "earnings_growth": -0.028,
         "dividend_yield": 0.0432,
         "payout": 0.5588,
-        "market_cap": 120856576000.0
+        "market_cap": 120856576000
       },
       "status": "Delayed public feed"
     },
@@ -2039,7 +2039,7 @@
         "earnings_growth": 0.407,
         "dividend_yield": 0.0286,
         "payout": 0.70019996,
-        "market_cap": 129154555904.0
+        "market_cap": 129154555904
       },
       "status": "Delayed public feed"
     },
@@ -2069,7 +2069,7 @@
         "earnings_growth": -0.636,
         "dividend_yield": 0.0129,
         "payout": 0.38869998,
-        "market_cap": 68666863616.0
+        "market_cap": 68666863616
       },
       "status": "Delayed public feed"
     },
@@ -2099,7 +2099,7 @@
         "earnings_growth": -0.116,
         "dividend_yield": 0.0601,
         "payout": 1.264,
-        "market_cap": 91635138560.0
+        "market_cap": 91635138560
       },
       "status": "Delayed public feed"
     },
@@ -2129,7 +2129,7 @@
         "earnings_growth": 0.34,
         "dividend_yield": 0.0151,
         "payout": 0.4585,
-        "market_cap": 260548624384.0
+        "market_cap": 260548624384
       },
       "status": "Delayed public feed"
     },
@@ -2159,7 +2159,7 @@
         "earnings_growth": 0.147,
         "dividend_yield": 0.0252,
         "payout": 0.4901,
-        "market_cap": 132104626176.0
+        "market_cap": 132104626176
       },
       "status": "Delayed public feed"
     },
@@ -2189,7 +2189,7 @@
         "earnings_growth": 0.029,
         "dividend_yield": 0.0182,
         "payout": 0.3018,
-        "market_cap": 76856893440.0
+        "market_cap": 76856893440
       },
       "status": "Delayed public feed"
     },
@@ -2202,7 +2202,7 @@
       "scores": {
         "value": 15,
         "growth": 38,
-        "income": 37,
+        "income": 0,
         "speculative": 31
       },
       "risk_score": 55,
@@ -2217,9 +2217,9 @@
         "margin": 0.08066,
         "revenue_growth": 0.039,
         "earnings_growth": null,
-        "dividend_yield": 0.0,
-        "payout": 0.0,
-        "market_cap": 125389348864.0
+        "dividend_yield": 0,
+        "payout": 0,
+        "market_cap": 125389348864
       },
       "status": "Delayed public feed"
     },
@@ -2249,7 +2249,7 @@
         "earnings_growth": 1.419,
         "dividend_yield": 0.0276,
         "payout": 0.3541,
-        "market_cap": 162393735168.0
+        "market_cap": 162393735168
       },
       "status": "Delayed public feed"
     },
@@ -2279,7 +2279,7 @@
         "earnings_growth": -0.02,
         "dividend_yield": 0.0246,
         "payout": 0.568,
-        "market_cap": 68856782848.0
+        "market_cap": 68856782848
       },
       "status": "Delayed public feed"
     },
@@ -2309,7 +2309,7 @@
         "earnings_growth": 0.974,
         "dividend_yield": 0.0294,
         "payout": 0.2634,
-        "market_cap": 78376722432.0
+        "market_cap": 78376722432
       },
       "status": "Delayed public feed"
     },
@@ -2339,7 +2339,7 @@
         "earnings_growth": 1.494,
         "dividend_yield": 0.0208,
         "payout": 0.2316,
-        "market_cap": 54284283904.0
+        "market_cap": 54284283904
       },
       "status": "Delayed public feed"
     },
@@ -2369,7 +2369,7 @@
         "earnings_growth": 0.143,
         "dividend_yield": 0.0326,
         "payout": 0.6849,
-        "market_cap": 109580247040.0
+        "market_cap": 109580247040
       },
       "status": "Delayed public feed"
     },
@@ -2399,7 +2399,7 @@
         "earnings_growth": 0.1,
         "dividend_yield": 0.0337,
         "payout": 0.62759995,
-        "market_cap": 101946859520.0
+        "market_cap": 101946859520
       },
       "status": "Delayed public feed"
     },
@@ -2429,7 +2429,7 @@
         "earnings_growth": 0.932,
         "dividend_yield": 0.0298,
         "payout": 0.4389,
-        "market_cap": 177673273344.0
+        "market_cap": 177673273344
       },
       "status": "Delayed public feed"
     },
@@ -2459,7 +2459,7 @@
         "earnings_growth": 0.193,
         "dividend_yield": 0.031,
         "payout": 0.6209,
-        "market_cap": 69220188160.0
+        "market_cap": 69220188160
       },
       "status": "Delayed public feed"
     },
@@ -2489,7 +2489,7 @@
         "earnings_growth": 0.084,
         "dividend_yield": 0.0298,
         "payout": 0.56380004,
-        "market_cap": 44757368832.0
+        "market_cap": 44757368832
       },
       "status": "Delayed public feed"
     },
@@ -2519,7 +2519,7 @@
         "earnings_growth": 0.376,
         "dividend_yield": 0.0158,
         "payout": 0.48029998,
-        "market_cap": 96413745152.0
+        "market_cap": 96413745152
       },
       "status": "Delayed public feed"
     },
@@ -2549,7 +2549,7 @@
         "earnings_growth": 0.097,
         "dividend_yield": 0.0109,
         "payout": 0.3525,
-        "market_cap": 75873214464.0
+        "market_cap": 75873214464
       },
       "status": "Delayed public feed"
     },
@@ -2579,7 +2579,7 @@
         "earnings_growth": -0.105,
         "dividend_yield": 0.0125,
         "payout": 0.41830003,
-        "market_cap": 233678241792.0
+        "market_cap": 233678241792
       },
       "status": "Delayed public feed"
     },
@@ -2609,7 +2609,7 @@
         "earnings_growth": 130.118,
         "dividend_yield": 0.023799999999999998,
         "payout": 3.0209,
-        "market_cap": 66941497344.0
+        "market_cap": 66941497344
       },
       "status": "Delayed public feed"
     },
@@ -2622,7 +2622,7 @@
       "scores": {
         "value": 42,
         "growth": 37,
-        "income": 79,
+        "income": 30,
         "speculative": 29
       },
       "risk_score": 58,
@@ -2637,9 +2637,9 @@
         "margin": 0.10742,
         "revenue_growth": 0.079,
         "earnings_growth": 0.009,
-        "dividend_yield": 0.94,
+        "dividend_yield": 0.009399999999999999,
         "payout": 0.2935,
-        "market_cap": 82461253632.0
+        "market_cap": 82461253632
       },
       "status": "Delayed public feed"
     },
@@ -2652,7 +2652,7 @@
       "scores": {
         "value": 42,
         "growth": 36,
-        "income": 78,
+        "income": 30,
         "speculative": 31
       },
       "risk_score": 36,
@@ -2667,9 +2667,9 @@
         "margin": 0.119890004,
         "revenue_growth": 0.127,
         "earnings_growth": -0.049,
-        "dividend_yield": 0.98,
+        "dividend_yield": 0.0098,
         "payout": 0.3973,
-        "market_cap": 83339591680.0
+        "market_cap": 83339591680
       },
       "status": "Delayed public feed"
     },
@@ -2699,7 +2699,7 @@
         "earnings_growth": 0.755,
         "dividend_yield": 0.0277,
         "payout": 0.47349998,
-        "market_cap": 75509342208.0
+        "market_cap": 75509342208
       },
       "status": "Delayed public feed"
     },
@@ -2729,7 +2729,7 @@
         "earnings_growth": null,
         "dividend_yield": 0.0332,
         "payout": 0.3089,
-        "market_cap": 104724963328.0
+        "market_cap": 104724963328
       },
       "status": "Delayed public feed"
     },
@@ -2759,7 +2759,7 @@
         "earnings_growth": 0.534,
         "dividend_yield": 0.0232,
         "payout": 0.24069999,
-        "market_cap": 184455987200.0
+        "market_cap": 184455987200
       },
       "status": "Delayed public feed"
     },
@@ -2772,7 +2772,7 @@
       "scores": {
         "value": 60,
         "growth": 38,
-        "income": 35,
+        "income": 0,
         "speculative": 50
       },
       "risk_score": 65,
@@ -2787,9 +2787,9 @@
         "margin": -1.12771,
         "revenue_growth": null,
         "earnings_growth": null,
-        "dividend_yield": 0.0,
-        "payout": 0.0,
-        "market_cap": 4255041.0
+        "dividend_yield": 0,
+        "payout": 0,
+        "market_cap": 4255041
       },
       "status": "Delayed public feed"
     },
@@ -2802,7 +2802,7 @@
       "scores": {
         "value": 82,
         "growth": 28,
-        "income": 89,
+        "income": 30,
         "speculative": 27
       },
       "risk_score": 30,
@@ -2817,9 +2817,9 @@
         "margin": 0.13783,
         "revenue_growth": 0.02,
         "earnings_growth": -0.038,
-        "dividend_yield": 0.99,
+        "dividend_yield": 0.009899999999999999,
         "payout": 0.1069,
-        "market_cap": 45054906368.0
+        "market_cap": 45054906368
       },
       "status": "Delayed public feed"
     },
@@ -2832,7 +2832,7 @@
       "scores": {
         "value": 26,
         "growth": 35,
-        "income": 44,
+        "income": 0,
         "speculative": 42
       },
       "risk_score": 41,
@@ -2847,9 +2847,9 @@
         "margin": -0.12894,
         "revenue_growth": -0.342,
         "earnings_growth": 0.674,
-        "dividend_yield": 0.0,
-        "payout": 0.0,
-        "market_cap": 28083456000.0
+        "dividend_yield": 0,
+        "payout": 0,
+        "market_cap": 28083456000
       },
       "status": "Delayed public feed"
     },
@@ -2862,7 +2862,7 @@
       "scores": {
         "value": 65,
         "growth": 39,
-        "income": 38,
+        "income": 0,
         "speculative": 29
       },
       "risk_score": 44,
@@ -2877,9 +2877,9 @@
         "margin": 0.39040002,
         "revenue_growth": 0.118,
         "earnings_growth": -0.164,
-        "dividend_yield": 0.0,
-        "payout": 0.0,
-        "market_cap": 57870069760.0
+        "dividend_yield": 0,
+        "payout": 0,
+        "market_cap": 57870069760
       },
       "status": "Delayed public feed"
     },
@@ -2892,7 +2892,7 @@
       "scores": {
         "value": 35,
         "growth": 78,
-        "income": 41,
+        "income": 0,
         "speculative": 66
       },
       "risk_score": 26,
@@ -2907,9 +2907,9 @@
         "margin": 0.0934,
         "revenue_growth": 0.241,
         "earnings_growth": 6.5,
-        "dividend_yield": 0.0,
-        "payout": 0.0,
-        "market_cap": 23933745152.0
+        "dividend_yield": 0,
+        "payout": 0,
+        "market_cap": 23933745152
       },
       "status": "Delayed public feed"
     },
@@ -2922,7 +2922,7 @@
       "scores": {
         "value": 30,
         "growth": 87,
-        "income": 42,
+        "income": 0,
         "speculative": 61
       },
       "risk_score": 8,
@@ -2937,9 +2937,9 @@
         "margin": 0.15007,
         "revenue_growth": 0.316,
         "earnings_growth": 0.795,
-        "dividend_yield": 0.0,
-        "payout": 0.0,
-        "market_cap": 163902898176.0
+        "dividend_yield": 0,
+        "payout": 0,
+        "market_cap": 163902898176
       },
       "status": "Delayed public feed"
     },
@@ -2952,7 +2952,7 @@
       "scores": {
         "value": 5,
         "growth": 58,
-        "income": 22,
+        "income": 0,
         "speculative": 40
       },
       "risk_score": 56,
@@ -2967,9 +2967,9 @@
         "margin": -0.20071,
         "revenue_growth": 0.351,
         "earnings_growth": null,
-        "dividend_yield": 0.0,
+        "dividend_yield": 0,
         "payout": null,
-        "market_cap": 91100012544.0
+        "market_cap": 91100012544
       },
       "status": "Delayed public feed"
     },
@@ -2982,7 +2982,7 @@
       "scores": {
         "value": 17,
         "growth": 83,
-        "income": 41,
+        "income": 0,
         "speculative": 60
       },
       "risk_score": 26,
@@ -2997,9 +2997,9 @@
         "margin": 0.061240003,
         "revenue_growth": 0.352,
         "earnings_growth": 2.316,
-        "dividend_yield": 0.0,
-        "payout": 0.0,
-        "market_cap": 58696495104.0
+        "dividend_yield": 0,
+        "payout": 0,
+        "market_cap": 58696495104
       },
       "status": "Delayed public feed"
     },
@@ -3012,7 +3012,7 @@
       "scores": {
         "value": 0,
         "growth": 58,
-        "income": 16,
+        "income": 0,
         "speculative": 45
       },
       "risk_score": 73,
@@ -3027,9 +3027,9 @@
         "margin": -0.087469995,
         "revenue_growth": 0.392,
         "earnings_growth": null,
-        "dividend_yield": 0.0,
+        "dividend_yield": 0,
         "payout": null,
-        "market_cap": 99729809408.0
+        "market_cap": 99729809408
       },
       "status": "Delayed public feed"
     },
@@ -3042,7 +3042,7 @@
       "scores": {
         "value": 24,
         "growth": 57,
-        "income": 41,
+        "income": 0,
         "speculative": 55
       },
       "risk_score": 29,
@@ -3057,9 +3057,9 @@
         "margin": 0.02116,
         "revenue_growth": 0.305,
         "earnings_growth": null,
-        "dividend_yield": 0.0,
-        "payout": 0.0,
-        "market_cap": 23276998656.0
+        "dividend_yield": 0,
+        "payout": 0,
+        "market_cap": 23276998656
       },
       "status": "Delayed public feed"
     },
@@ -3072,7 +3072,7 @@
       "scores": {
         "value": 71,
         "growth": 88,
-        "income": 46,
+        "income": 0,
         "speculative": 78
       },
       "risk_score": 27,
@@ -3087,9 +3087,9 @@
         "margin": 0.15745,
         "revenue_growth": 0.439,
         "earnings_growth": 0.644,
-        "dividend_yield": 0.0,
-        "payout": 0.0,
-        "market_cap": 16605868032.0
+        "dividend_yield": 0,
+        "payout": 0,
+        "market_cap": 16605868032
       },
       "status": "Delayed public feed"
     },
@@ -3102,7 +3102,7 @@
       "scores": {
         "value": 58,
         "growth": 58,
-        "income": 21,
+        "income": 0,
         "speculative": 48
       },
       "risk_score": 64,
@@ -3117,9 +3117,9 @@
         "margin": -0.45880002,
         "revenue_growth": 0.383,
         "earnings_growth": null,
-        "dividend_yield": 0.0,
+        "dividend_yield": 0,
         "payout": null,
-        "market_cap": 15460199424.0
+        "market_cap": 15460199424
       },
       "status": "Delayed public feed"
     },
@@ -3132,7 +3132,7 @@
       "scores": {
         "value": 55,
         "growth": 27,
-        "income": 30,
+        "income": 0,
         "speculative": 35
       },
       "risk_score": 85,
@@ -3147,9 +3147,9 @@
         "margin": -2.37566,
         "revenue_growth": 0.041,
         "earnings_growth": null,
-        "dividend_yield": 0.0,
-        "payout": 0.0,
-        "market_cap": 1024313600.0
+        "dividend_yield": 0,
+        "payout": 0,
+        "market_cap": 1024313600
       },
       "status": "Delayed public feed"
     },
@@ -3162,7 +3162,7 @@
       "scores": {
         "value": 83,
         "growth": 75,
-        "income": 40,
+        "income": 0,
         "speculative": 84
       },
       "risk_score": 19,
@@ -3177,9 +3177,9 @@
         "margin": 0.67091006,
         "revenue_growth": 3.36,
         "earnings_growth": null,
-        "dividend_yield": 0.0,
-        "payout": 0.0,
-        "market_cap": 9850080256.0
+        "dividend_yield": 0,
+        "payout": 0,
+        "market_cap": 9850080256
       },
       "status": "Delayed public feed"
     },
@@ -3192,7 +3192,7 @@
       "scores": {
         "value": 22,
         "growth": 58,
-        "income": 40,
+        "income": 0,
         "speculative": 62
       },
       "risk_score": 40,
@@ -3207,9 +3207,9 @@
         "margin": -0.25726,
         "revenue_growth": 0.727,
         "earnings_growth": null,
-        "dividend_yield": 0.0,
-        "payout": 0.0,
-        "market_cap": 31474909184.0
+        "dividend_yield": 0,
+        "payout": 0,
+        "market_cap": 31474909184
       },
       "status": "Delayed public feed"
     },
@@ -3222,7 +3222,7 @@
       "scores": {
         "value": 52,
         "growth": 60,
-        "income": 17,
+        "income": 0,
         "speculative": 78
       },
       "risk_score": 63,
@@ -3234,12 +3234,12 @@
         "forward_pe": -15.1095915,
         "pb": 4.106894,
         "roe": -0.43232,
-        "margin": 0.0,
+        "margin": 0,
         "revenue_growth": 1.871,
         "earnings_growth": null,
-        "dividend_yield": 0.0,
+        "dividend_yield": 0,
         "payout": null,
-        "market_cap": 9453173760.0
+        "market_cap": 9453173760
       },
       "status": "Delayed public feed"
     },
@@ -3252,7 +3252,7 @@
       "scores": {
         "value": 65,
         "growth": 40,
-        "income": 25,
+        "income": 0,
         "speculative": 63
       },
       "risk_score": 38,
@@ -3264,12 +3264,12 @@
         "forward_pe": -18.095667,
         "pb": 1.1000856,
         "roe": -0.0679,
-        "margin": 0.0,
+        "margin": 0,
         "revenue_growth": null,
         "earnings_growth": null,
-        "dividend_yield": 0.0,
+        "dividend_yield": 0,
         "payout": null,
-        "market_cap": 4016130816.0
+        "market_cap": 4016130816
       },
       "status": "Delayed public feed"
     },
@@ -3282,7 +3282,7 @@
       "scores": {
         "value": 65,
         "growth": 20,
-        "income": 25,
+        "income": 0,
         "speculative": 46
       },
       "risk_score": 39,
@@ -3294,12 +3294,12 @@
         "forward_pe": -5.0592337,
         "pb": 0.69472617,
         "roe": -0.17122999,
-        "margin": 0.0,
+        "margin": 0,
         "revenue_growth": -0.966,
         "earnings_growth": null,
-        "dividend_yield": 0.0,
+        "dividend_yield": 0,
         "payout": null,
-        "market_cap": 1406104192.0
+        "market_cap": 1406104192
       },
       "status": "Delayed public feed"
     },
@@ -3312,7 +3312,7 @@
       "scores": {
         "value": 8,
         "growth": 58,
-        "income": 31,
+        "income": 0,
         "speculative": 70
       },
       "risk_score": 74,
@@ -3327,9 +3327,9 @@
         "margin": -0.06651,
         "revenue_growth": 0.486,
         "earnings_growth": null,
-        "dividend_yield": 0.0,
-        "payout": 0.0,
-        "market_cap": 3485712640.0
+        "dividend_yield": 0,
+        "payout": 0,
+        "market_cap": 3485712640
       },
       "status": "Delayed public feed"
     },
@@ -3342,7 +3342,7 @@
       "scores": {
         "value": 58,
         "growth": 50,
-        "income": 40,
+        "income": 0,
         "speculative": 56
       },
       "risk_score": 29,
@@ -3357,9 +3357,9 @@
         "margin": 0.10005,
         "revenue_growth": 0.168,
         "earnings_growth": null,
-        "dividend_yield": 0.0,
-        "payout": 0.0,
-        "market_cap": 7318749184.0
+        "dividend_yield": 0,
+        "payout": 0,
+        "market_cap": 7318749184
       },
       "status": "Delayed public feed"
     },
@@ -3372,7 +3372,7 @@
       "scores": {
         "value": 25,
         "growth": 36,
-        "income": 38,
+        "income": 0,
         "speculative": 50
       },
       "risk_score": 37,
@@ -3387,9 +3387,9 @@
         "margin": 0.04499,
         "revenue_growth": 0.22,
         "earnings_growth": -0.083,
-        "dividend_yield": 0.0,
-        "payout": 0.0,
-        "market_cap": 5852688896.0
+        "dividend_yield": 0,
+        "payout": 0,
+        "market_cap": 5852688896
       },
       "status": "Delayed public feed"
     },
@@ -3402,7 +3402,7 @@
       "scores": {
         "value": 61,
         "growth": 31,
-        "income": 40,
+        "income": 0,
         "speculative": 43
       },
       "risk_score": 26,
@@ -3417,9 +3417,9 @@
         "margin": 0.12327,
         "revenue_growth": 0.137,
         "earnings_growth": -0.909,
-        "dividend_yield": 0.0,
-        "payout": 0.0,
-        "market_cap": 6867267584.0
+        "dividend_yield": 0,
+        "payout": 0,
+        "market_cap": 6867267584
       },
       "status": "Delayed public feed"
     },
@@ -3432,7 +3432,7 @@
       "scores": {
         "value": 85,
         "growth": 100,
-        "income": 34,
+        "income": 0,
         "speculative": 77
       },
       "risk_score": 43,
@@ -3447,9 +3447,9 @@
         "margin": 0.43862,
         "revenue_growth": 0.352,
         "earnings_growth": 1.014,
-        "dividend_yield": 0.0,
-        "payout": 0.0,
-        "market_cap": 18876297216.0
+        "dividend_yield": 0,
+        "payout": 0,
+        "market_cap": 18876297216
       },
       "status": "Delayed public feed"
     }
@@ -3507,7 +3507,7 @@
       "peak": 3068.419921875,
       "drawdown_pct": -14.98,
       "levels": {
-        "5": 2915.0,
+        "5": 2915,
         "10": 2761.58,
         "15": 2608.16,
         "20": 2454.74
@@ -3523,7 +3523,7 @@
       "drawdown_pct": -5.92,
       "levels": {
         "5": 212.16,
-        "10": 201.0,
+        "10": 201,
         "15": 189.83,
         "20": 178.66
       },
@@ -3538,7 +3538,7 @@
       "drawdown_pct": -9.93,
       "levels": {
         "5": 364.17,
-        "10": 345.0,
+        "10": 345,
         "15": 325.83,
         "20": 306.67
       },
@@ -3550,5 +3550,6 @@
     "vix": "Not yet connected",
     "trend": "S&P 500 -10.1% from 1y peak",
     "entry": "Model-specific scores; not a trade signal"
-  }
+  },
+  "updated_note": "Dividend yield units were normalized and low-yield names capped in Income screen; full rescore happens during next data refresh."
 }
