@@ -1,0 +1,47 @@
+{
+  "mode": "demo",
+  "updated_at": "2026-11-19 (illustrative only)",
+  "stocks": [
+    {
+      "ticker": "DEMO-A",
+      "name": "Example Holdings A",
+      "sector": "Illustrative",
+      "scores": {
+        "value": 88,
+        "growth": 55,
+        "income": 74,
+        "speculative": 20
+      },
+      "risk": "Illustrative"
+    },
+    {
+      "ticker": "DEMO-B",
+      "name": "Example Ventures B",
+      "sector": "Illustrative",
+      "scores": {
+        "value": 34,
+        "growth": 90,
+        "income": 12,
+        "speculative": 85
+      },
+      "risk": "Illustrative"
+    },
+    {
+      "ticker": "DEMO-C",
+      "name": "Example Income C",
+      "sector": "Illustrative",
+      "scores": {
+        "value": 72,
+        "growth": 28,
+        "income": 91,
+        "speculative": 10
+      },
+      "risk": "Illustrative"
+    }
+  ],
+  "market": {
+    "vix": "Not connected",
+    "trend": "Not connected",
+    "entry": "Not connected"
+  }
+}
