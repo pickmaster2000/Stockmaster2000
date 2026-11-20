@@ -22,6 +22,8 @@ jobs:
           cache: pip
       - run: pip install -r requirements.txt
       - run: python scripts/update_market.py
+      - name: Validate market snapshot
+        run: python scripts/validate_snapshot.py
       - name: Archive point-in-time scores
         run: python scripts/archive_scores.py
       - name: Commit refreshed data
