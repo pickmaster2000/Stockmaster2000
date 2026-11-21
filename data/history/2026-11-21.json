@@ -1,0 +1,2994 @@
+{
+  "snapshot_date": "2026-11-21",
+  "updated_at": "2026-11-21T00:22:00.281218+00:00",
+  "source": "Yahoo Finance via yfinance (unofficial; delayed, missing, or revised data possible)",
+  "stocks": [
+    {
+      "ticker": "AAPL",
+      "as_of": "2026-11-20",
+      "price": 342.55999755859375,
+      "scores": {
+        "value": 50,
+        "growth": 56,
+        "income": 30,
+        "speculative": 36
+      },
+      "opportunity": {
+        "score": 44,
+        "label": "Wait / Higher Risk",
+        "reasons": [
+          "RSI(14): 53",
+          "3.8% below one-year closing high",
+          "Forward/trailing P/E: 32.4",
+          "Above 50-day average"
+        ],
+        "rsi": 53.4,
+        "drawdown_pct": -3.85
+      },
+      "risk_score": 11,
+      "coverage": 12
+    },
+    {
+      "ticker": "MSFT",
+      "as_of": "2026-11-20",
+      "price": 484.5199890136719,
+      "scores": {
+        "value": 74,
+        "growth": 74,
+        "income": 30,
+        "speculative": 44
+      },
+      "opportunity": {
+        "score": 59,
+        "label": "Wait / Higher Risk",
+        "reasons": [
+          "RSI(14): 43",
+          "12.7% below one-year closing high",
+          "Forward/trailing P/E: 20.0",
+          "Below 50-day average"
+        ],
+        "rsi": 43.1,
+        "drawdown_pct": -12.66
+      },
+      "risk_score": 4,
+      "coverage": 12
+    },
+    {
+      "ticker": "NVDA",
+      "as_of": "2026-11-20",
+      "price": 125.52999877929688,
+      "scores": {
+        "value": 81,
+        "growth": 100,
+        "income": 30,
+        "speculative": 80
+      },
+      "opportunity": {
+        "score": 78,
+        "label": "Worth Watching",
+        "reasons": [
+          "RSI(14): 14",
+          "47.5% below one-year closing high",
+          "Forward/trailing P/E: 7.6",
+          "Below 50-day average"
+        ],
+        "rsi": 13.7,
+        "drawdown_pct": -47.53
+      },
+      "risk_score": 2,
+      "coverage": 12
+    },
+    {
+      "ticker": "AMZN",
+      "as_of": "2026-11-20",
+      "price": 246.82000732421875,
+      "scores": {
+        "value": 69,
+        "growth": 41,
+        "income": 0,
+        "speculative": 32
+      },
+      "opportunity": {
+        "score": 59,
+        "label": "Wait / Higher Risk",
+        "reasons": [
+          "RSI(14): 51",
+          "13.1% below one-year closing high",
+          "Forward/trailing P/E: 22.6",
+          "Below 50-day average"
+        ],
+        "rsi": 50.7,
+        "drawdown_pct": -13.1
+      },
+      "risk_score": 11,
+      "coverage": 12
+    },
+    {
+      "ticker": "GOOGL",
+      "as_of": "2026-11-20",
+      "price": 265.2900085449219,
+      "scores": {
+        "value": 82,
+        "growth": 55,
+        "income": 30,
+        "speculative": 34
+      },
+      "opportunity": {
+        "score": 72,
+        "label": "Worth Watching",
+        "reasons": [
+          "RSI(14): 40",
+          "34.0% below one-year closing high",
+          "Forward/trailing P/E: 17.3",
+          "Below 50-day average"
+        ],
+        "rsi": 40.5,
+        "drawdown_pct": -34.03
+      },
+      "risk_score": 3,
+      "coverage": 12
+    },
+    {
+      "ticker": "META",
+      "as_of": "2026-11-20",
+      "price": 560.8400268554688,
+      "scores": {
+        "value": 82,
+        "growth": 91,
+        "income": 30,
+        "speculative": 59
+      },
+      "opportunity": {
+        "score": 76,
+        "label": "Worth Watching",
+        "reasons": [
+          "RSI(14): 39",
+          "27.9% below one-year closing high",
+          "Forward/trailing P/E: 15.7",
+          "Below 50-day average"
+        ],
+        "rsi": 38.6,
+        "drawdown_pct": -27.87
+      },
+      "risk_score": 6,
+      "coverage": 12
+    },
+    {
+      "ticker": "BRK-B",
+      "as_of": "2026-11-20",
+      "price": 570.0,
+      "scores": {
+        "value": 64,
+        "growth": 32,
+        "income": 0,
+        "speculative": 26
+      },
+      "opportunity": {
+        "score": 56,
+        "label": "Wait / Higher Risk",
+        "reasons": [
+          "RSI(14): 59",
+          "3.9% below one-year closing high",
+          "Forward/trailing P/E: 25.0",
+          "Above 50-day average"
+        ],
+        "rsi": 59.1,
+        "drawdown_pct": -3.87
+      },
+      "risk_score": 5,
+      "coverage": 12
+    },
+    {
+      "ticker": "AVGO",
+      "as_of": "2026-11-20",
+      "price": 304.4100036621094,
+      "scores": {
+        "value": 69,
+        "growth": 100,
+        "income": 30,
+        "speculative": 80
+      },
+      "opportunity": {
+        "score": 82,
+        "label": "Worth Watching",
+        "reasons": [
+          "RSI(14): 46",
+          "36.6% below one-year closing high",
+          "Forward/trailing P/E: 15.7",
+          "Below 50-day average"
+        ],
+        "rsi": 46.0,
+        "drawdown_pct": -36.57
+      },
+      "risk_score": 8,
+      "coverage": 12
+    },
+    {
+      "ticker": "TSLA",
+      "as_of": "2026-11-20",
+      "price": 345.82000732421875,
+      "scores": {
+        "value": 14,
+        "growth": 10,
+        "income": 0,
+        "speculative": 15
+      },
+      "opportunity": {
+        "score": 29,
+        "label": "Wait / Higher Risk",
+        "reasons": [
+          "RSI(14): 33",
+          "29.4% below one-year closing high",
+          "Forward/trailing P/E: 160.2",
+          "Below 50-day average"
+        ],
+        "rsi": 33.3,
+        "drawdown_pct": -29.41
+      },
+      "risk_score": 12,
+      "coverage": 12
+    },
+    {
+      "ticker": "JPM",
+      "as_of": "2026-11-20",
+      "price": 310.5299987792969,
+      "scores": {
+        "value": 80,
+        "growth": 48,
+        "income": 56,
+        "speculative": 35
+      },
+      "opportunity": {
+        "score": 65,
+        "label": "Worth Watching",
+        "reasons": [
+          "RSI(14): 32",
+          "14.5% below one-year closing high",
+          "Forward/trailing P/E: 12.1",
+          "Below 50-day average"
+        ],
+        "rsi": 31.9,
+        "drawdown_pct": -14.54
+      },
+      "risk_score": 20,
+      "coverage": 10
+    },
+    {
+      "ticker": "V",
+      "as_of": "2026-11-20",
+      "price": 401.8699951171875,
+      "scores": {
+        "value": 61,
+        "growth": 62,
+        "income": 30,
+        "speculative": 39
+      },
+      "opportunity": {
+        "score": 50,
+        "label": "Wait / Higher Risk",
+        "reasons": [
+          "RSI(14): 35",
+          "7.8% below one-year closing high",
+          "Forward/trailing P/E: 23.4",
+          "Above 50-day average"
+        ],
+        "rsi": 34.9,
+        "drawdown_pct": -7.78
+      },
+      "risk_score": 8,
+      "coverage": 12
+    },
+    {
+      "ticker": "UNH",
+      "as_of": "2026-11-20",
+      "price": 339.8500061035156,
+      "scores": {
+        "value": 64,
+        "growth": 49,
+        "income": 63,
+        "speculative": 39
+      },
+      "opportunity": {
+        "score": 65,
+        "label": "Worth Watching",
+        "reasons": [
+          "RSI(14): 28",
+          "21.6% below one-year closing high",
+          "Forward/trailing P/E: 14.5",
+          "Below 50-day average"
+        ],
+        "rsi": 27.9,
+        "drawdown_pct": -21.64
+      },
+      "risk_score": 22,
+      "coverage": 12
+    },
+    {
+      "ticker": "XOM",
+      "as_of": "2026-11-20",
+      "price": 159.99000549316406,
+      "scores": {
+        "value": 73,
+        "growth": 86,
+        "income": 67,
+        "speculative": 60
+      },
+      "opportunity": {
+        "score": 65,
+        "label": "Worth Watching",
+        "reasons": [
+          "RSI(14): 23",
+          "14.0% below one-year closing high",
+          "Forward/trailing P/E: 12.8",
+          "Below 50-day average"
+        ],
+        "rsi": 23.2,
+        "drawdown_pct": -14.02
+      },
+      "risk_score": 10,
+      "coverage": 12
+    },
+    {
+      "ticker": "MA",
+      "as_of": "2026-11-20",
+      "price": 625.5900268554688,
+      "scores": {
+        "value": 49,
+        "growth": 63,
+        "income": 30,
+        "speculative": 39
+      },
+      "opportunity": {
+        "score": 47,
+        "label": "Wait / Higher Risk",
+        "reasons": [
+          "RSI(14): 36",
+          "7.0% below one-year closing high",
+          "Forward/trailing P/E: 27.0",
+          "Above 50-day average"
+        ],
+        "rsi": 36.2,
+        "drawdown_pct": -7.0
+      },
+      "risk_score": 40,
+      "coverage": 12
+    },
+    {
+      "ticker": "COST",
+      "as_of": "2026-11-20",
+      "price": 1102.1500244140625,
+      "scores": {
+        "value": 30,
+        "growth": 44,
+        "income": 30,
+        "speculative": 31
+      },
+      "opportunity": {
+        "score": 38,
+        "label": "Wait / Higher Risk",
+        "reasons": [
+          "RSI(14): 68",
+          "1.0% below one-year closing high",
+          "Forward/trailing P/E: 44.0",
+          "Above 50-day average"
+        ],
+        "rsi": 68.3,
+        "drawdown_pct": -1.04
+      },
+      "risk_score": 14,
+      "coverage": 12
+    },
+    {
+      "ticker": "HD",
+      "as_of": "2026-11-20",
+      "price": 339.0400085449219,
+      "scores": {
+        "value": 45,
+        "growth": 34,
+        "income": 51,
+        "speculative": 27
+      },
+      "opportunity": {
+        "score": 53,
+        "label": "Wait / Higher Risk",
+        "reasons": [
+          "RSI(14): 49",
+          "11.4% below one-year closing high",
+          "Forward/trailing P/E: 21.5",
+          "Above 50-day average"
+        ],
+        "rsi": 48.5,
+        "drawdown_pct": -11.42
+      },
+      "risk_score": 52,
+      "coverage": 12
+    },
+    {
+      "ticker": "PG",
+      "as_of": "2026-11-20",
+      "price": 169.3699951171875,
+      "scores": {
+        "value": 65,
+        "growth": 37,
+        "income": 57,
+        "speculative": 28
+      },
+      "opportunity": {
+        "score": 58,
+        "label": "Wait / Higher Risk",
+        "reasons": [
+          "RSI(14): 62",
+          "2.1% below one-year closing high",
+          "Forward/trailing P/E: 22.8",
+          "Above 50-day average"
+        ],
+        "rsi": 61.6,
+        "drawdown_pct": -2.11
+      },
+      "risk_score": 17,
+      "coverage": 12
+    },
+    {
+      "ticker": "JNJ",
+      "as_of": "2026-11-20",
+      "price": 270.4700012207031,
+      "scores": {
+        "value": 56,
+        "growth": 28,
+        "income": 49,
+        "speculative": 22
+      },
+      "opportunity": {
+        "score": 53,
+        "label": "Wait / Higher Risk",
+        "reasons": [
+          "RSI(14): 50",
+          "5.3% below one-year closing high",
+          "Forward/trailing P/E: 23.3",
+          "Above 50-day average"
+        ],
+        "rsi": 49.9,
+        "drawdown_pct": -5.35
+      },
+      "risk_score": 18,
+      "coverage": 12
+    },
+    {
+      "ticker": "ABBV",
+      "as_of": "2026-11-20",
+      "price": 286.20001220703125,
+      "scores": {
+        "value": 69,
+        "growth": 66,
+        "income": 37,
+        "speculative": 49
+      },
+      "opportunity": {
+        "score": 58,
+        "label": "Wait / Higher Risk",
+        "reasons": [
+          "RSI(14): 47",
+          "3.0% below one-year closing high",
+          "Forward/trailing P/E: 17.6",
+          "Above 50-day average"
+        ],
+        "rsi": 46.7,
+        "drawdown_pct": -2.99
+      },
+      "risk_score": 35,
+      "coverage": 10
+    },
+    {
+      "ticker": "WMT",
+      "as_of": "2026-11-20",
+      "price": 127.94999694824219,
+      "scores": {
+        "value": 27,
+        "growth": 23,
+        "income": 30,
+        "speculative": 23
+      },
+      "opportunity": {
+        "score": 25,
+        "label": "Wait / Higher Risk",
+        "reasons": [
+          "RSI(14): 51",
+          "4.4% below one-year closing high",
+          "Forward/trailing P/E: 39.6",
+          "Above 50-day average"
+        ],
+        "rsi": 50.7,
+        "drawdown_pct": -4.43
+      },
+      "risk_score": 20,
+      "coverage": 12
+    },
+    {
+      "ticker": "NFLX",
+      "as_of": "2026-11-20",
+      "price": 56.72999954223633,
+      "scores": {
+        "value": 77,
+        "growth": 75,
+        "income": 0,
+        "speculative": 44
+      },
+      "opportunity": {
+        "score": 70,
+        "label": "Worth Watching",
+        "reasons": [
+          "RSI(14): 34",
+          "48.1% below one-year closing high",
+          "Forward/trailing P/E: 15.0",
+          "Below 50-day average"
+        ],
+        "rsi": 34.1,
+        "drawdown_pct": -48.12
+      },
+      "risk_score": 8,
+      "coverage": 12
+    },
+    {
+      "ticker": "ORCL",
+      "as_of": "2026-11-20",
+      "price": 101.19000244140625,
+      "scores": {
+        "value": 81,
+        "growth": 94,
+        "income": 42,
+        "speculative": 55
+      },
+      "opportunity": {
+        "score": 79,
+        "label": "Worth Watching",
+        "reasons": [
+          "RSI(14): 35",
+          "58.9% below one-year closing high",
+          "Forward/trailing P/E: 9.2",
+          "Below 50-day average"
+        ],
+        "rsi": 35.5,
+        "drawdown_pct": -58.93
+      },
+      "risk_score": 34,
+      "coverage": 12
+    },
+    {
+      "ticker": "CRM",
+      "as_of": "2026-11-20",
+      "price": 180.6199951171875,
+      "scores": {
+        "value": 78,
+        "growth": 71,
+        "income": 30,
+        "speculative": 51
+      },
+      "opportunity": {
+        "score": 71,
+        "label": "Worth Watching",
+        "reasons": [
+          "RSI(14): 16",
+          "31.7% below one-year closing high",
+          "Forward/trailing P/E: 11.3",
+          "Below 50-day average"
+        ],
+        "rsi": 16.3,
+        "drawdown_pct": -31.69
+      },
+      "risk_score": 21,
+      "coverage": 12
+    },
+    {
+      "ticker": "AMD",
+      "as_of": "2026-11-20",
+      "price": 424.3900146484375,
+      "scores": {
+        "value": 48,
+        "growth": 90,
+        "income": 0,
+        "speculative": 68
+      },
+      "opportunity": {
+        "score": 71,
+        "label": "Worth Watching",
+        "reasons": [
+          "RSI(14): 46",
+          "34.7% below one-year closing high",
+          "Forward/trailing P/E: 24.1",
+          "Below 50-day average"
+        ],
+        "rsi": 45.8,
+        "drawdown_pct": -34.65
+      },
+      "risk_score": 5,
+      "coverage": 12
+    },
+    {
+      "ticker": "ADBE",
+      "as_of": "2026-11-20",
+      "price": 217.7100067138672,
+      "scores": {
+        "value": 86,
+        "growth": 55,
+        "income": 0,
+        "speculative": 36
+      },
+      "opportunity": {
+        "score": 74,
+        "label": "Worth Watching",
+        "reasons": [
+          "RSI(14): 20",
+          "39.1% below one-year closing high",
+          "Forward/trailing P/E: 7.9",
+          "Below 50-day average"
+        ],
+        "rsi": 20.4,
+        "drawdown_pct": -39.11
+      },
+      "risk_score": 19,
+      "coverage": 12
+    },
+    {
+      "ticker": "BAC",
+      "as_of": "2026-11-20",
+      "price": 47.040000915527344,
+      "scores": {
+        "value": 81,
+        "growth": 27,
+        "income": 60,
+        "speculative": 26
+      },
+      "opportunity": {
+        "score": 76,
+        "label": "Worth Watching",
+        "reasons": [
+          "RSI(14): 38",
+          "27.0% below one-year closing high",
+          "Forward/trailing P/E: 9.1",
+          "Below 50-day average"
+        ],
+        "rsi": 37.6,
+        "drawdown_pct": -27.05
+      },
+      "risk_score": 20,
+      "coverage": 10
+    },
+    {
+      "ticker": "KO",
+      "as_of": "2026-11-20",
+      "price": 96.98999786376953,
+      "scores": {
+        "value": 56,
+        "growth": 48,
+        "income": 45,
+        "speculative": 33
+      },
+      "opportunity": {
+        "score": 49,
+        "label": "Wait / Higher Risk",
+        "reasons": [
+          "RSI(14): 56",
+          "2.5% below one-year closing high",
+          "Forward/trailing P/E: 27.4",
+          "Above 50-day average"
+        ],
+        "rsi": 55.5,
+        "drawdown_pct": -2.5
+      },
+      "risk_score": 18,
+      "coverage": 12
+    },
+    {
+      "ticker": "PEP",
+      "as_of": "2026-11-20",
+      "price": 140.5399932861328,
+      "scores": {
+        "value": 60,
+        "growth": 45,
+        "income": 57,
+        "speculative": 31
+      },
+      "opportunity": {
+        "score": 67,
+        "label": "Worth Watching",
+        "reasons": [
+          "RSI(14): 50",
+          "15.1% below one-year closing high",
+          "Forward/trailing P/E: 16.4",
+          "Above 50-day average"
+        ],
+        "rsi": 50.2,
+        "drawdown_pct": -15.06
+      },
+      "risk_score": 43,
+      "coverage": 12
+    },
+    {
+      "ticker": "CVX",
+      "as_of": "2026-11-20",
+      "price": 208.3699951171875,
+      "scores": {
+        "value": 74,
+        "growth": 88,
+        "income": 69,
+        "speculative": 62
+      },
+      "opportunity": {
+        "score": 62,
+        "label": "Worth Watching",
+        "reasons": [
+          "RSI(14): 28",
+          "10.8% below one-year closing high",
+          "Forward/trailing P/E: 12.6",
+          "Below 50-day average"
+        ],
+        "rsi": 28.4,
+        "drawdown_pct": -10.79
+      },
+      "risk_score": 11,
+      "coverage": 12
+    },
+    {
+      "ticker": "MRK",
+      "as_of": "2026-11-20",
+      "price": 133.72000122070312,
+      "scores": {
+        "value": 47,
+        "growth": 16,
+        "income": 37,
+        "speculative": 22
+      },
+      "opportunity": {
+        "score": 51,
+        "label": "Wait / Higher Risk",
+        "reasons": [
+          "RSI(14): 28",
+          "14.0% below one-year closing high",
+          "Forward/trailing P/E: 14.9",
+          "Below 50-day average"
+        ],
+        "rsi": 28.2,
+        "drawdown_pct": -14.02
+      },
+      "risk_score": 41,
+      "coverage": 12
+    },
+    {
+      "ticker": "CSCO",
+      "as_of": "2026-11-20",
+      "price": 90.63999938964844,
+      "scores": {
+        "value": 77,
+        "growth": 88,
+        "income": 60,
+        "speculative": 53
+      },
+      "opportunity": {
+        "score": 74,
+        "label": "Worth Watching",
+        "reasons": [
+          "RSI(14): 35",
+          "29.7% below one-year closing high",
+          "Forward/trailing P/E: 15.0",
+          "Below 50-day average"
+        ],
+        "rsi": 35.4,
+        "drawdown_pct": -29.74
+      },
+      "risk_score": 11,
+      "coverage": 12
+    },
+    {
+      "ticker": "IBM",
+      "as_of": "2026-11-20",
+      "price": 224.44000244140625,
+      "scores": {
+        "value": 68,
+        "growth": 50,
+        "income": 58,
+        "speculative": 34
+      },
+      "opportunity": {
+        "score": 64,
+        "label": "Worth Watching",
+        "reasons": [
+          "RSI(14): 24",
+          "30.9% below one-year closing high",
+          "Forward/trailing P/E: 17.0",
+          "Below 50-day average"
+        ],
+        "rsi": 24.0,
+        "drawdown_pct": -30.87
+      },
+      "risk_score": 32,
+      "coverage": 12
+    },
+    {
+      "ticker": "GE",
+      "as_of": "2026-11-20",
+      "price": 309.6199951171875,
+      "scores": {
+        "value": 43,
+        "growth": 53,
+        "income": 30,
+        "speculative": 36
+      },
+      "opportunity": {
+        "score": 48,
+        "label": "Wait / Higher Risk",
+        "reasons": [
+          "RSI(14): 47",
+          "18.7% below one-year closing high",
+          "Forward/trailing P/E: 33.2",
+          "Below 50-day average"
+        ],
+        "rsi": 46.8,
+        "drawdown_pct": -18.66
+      },
+      "risk_score": 19,
+      "coverage": 12
+    },
+    {
+      "ticker": "CAT",
+      "as_of": "2026-11-20",
+      "price": 510.45001220703125,
+      "scores": {
+        "value": 59,
+        "growth": 75,
+        "income": 46,
+        "speculative": 45
+      },
+      "opportunity": {
+        "score": 67,
+        "label": "Worth Watching",
+        "reasons": [
+          "RSI(14): 30",
+          "51.9% below one-year closing high",
+          "Forward/trailing P/E: 15.9",
+          "Below 50-day average"
+        ],
+        "rsi": 29.9,
+        "drawdown_pct": -51.86
+      },
+      "risk_score": 32,
+      "coverage": 12
+    },
+    {
+      "ticker": "MCD",
+      "as_of": "2026-11-20",
+      "price": 273.239990234375,
+      "scores": {
+        "value": 72,
+        "growth": 38,
+        "income": 52,
+        "speculative": 30
+      },
+      "opportunity": {
+        "score": 74,
+        "label": "Potential Buying Opportunity",
+        "reasons": [
+          "RSI(14): 58",
+          "18.3% below one-year closing high",
+          "Forward/trailing P/E: 20.0",
+          "Above 50-day average"
+        ],
+        "rsi": 58.0,
+        "drawdown_pct": -18.31
+      },
+      "risk_score": 24,
+      "coverage": 10
+    },
+    {
+      "ticker": "DIS",
+      "as_of": "2026-11-20",
+      "price": 117.9800033569336,
+      "scores": {
+        "value": 67,
+        "growth": 66,
+        "income": 60,
+        "speculative": 50
+      },
+      "opportunity": {
+        "score": 67,
+        "label": "Worth Watching",
+        "reasons": [
+          "RSI(14): 60",
+          "3.6% below one-year closing high",
+          "Forward/trailing P/E: 13.8",
+          "Above 50-day average"
+        ],
+        "rsi": 59.8,
+        "drawdown_pct": -3.58
+      },
+      "risk_score": 12,
+      "coverage": 12
+    },
+    {
+      "ticker": "TMO",
+      "as_of": "2026-11-20",
+      "price": 669.5399780273438,
+      "scores": {
+        "value": 56,
+        "growth": 39,
+        "income": 30,
+        "speculative": 32
+      },
+      "opportunity": {
+        "score": 45,
+        "label": "Wait / Higher Risk",
+        "reasons": [
+          "RSI(14): 46",
+          "7.2% below one-year closing high",
+          "Forward/trailing P/E: 24.1",
+          "Below 50-day average"
+        ],
+        "rsi": 46.0,
+        "drawdown_pct": -7.22
+      },
+      "risk_score": 14,
+      "coverage": 12
+    },
+    {
+      "ticker": "ABT",
+      "as_of": "2026-11-20",
+      "price": 103.0,
+      "scores": {
+        "value": 60,
+        "growth": 30,
+        "income": 42,
+        "speculative": 25
+      },
+      "opportunity": {
+        "score": 59,
+        "label": "Wait / Higher Risk",
+        "reasons": [
+          "RSI(14): 34",
+          "18.1% below one-year closing high",
+          "Forward/trailing P/E: 17.3",
+          "Below 50-day average"
+        ],
+        "rsi": 34.5,
+        "drawdown_pct": -18.11
+      },
+      "risk_score": 25,
+      "coverage": 12
+    },
+    {
+      "ticker": "TXN",
+      "as_of": "2026-11-20",
+      "price": 263.75,
+      "scores": {
+        "value": 61,
+        "growth": 93,
+        "income": 45,
+        "speculative": 59
+      },
+      "opportunity": {
+        "score": 67,
+        "label": "Worth Watching",
+        "reasons": [
+          "RSI(14): 36",
+          "19.8% below one-year closing high",
+          "Forward/trailing P/E: 22.7",
+          "Below 50-day average"
+        ],
+        "rsi": 35.6,
+        "drawdown_pct": -19.83
+      },
+      "risk_score": 15,
+      "coverage": 12
+    },
+    {
+      "ticker": "QCOM",
+      "as_of": "2026-11-20",
+      "price": 149.94000244140625,
+      "scores": {
+        "value": 86,
+        "growth": 42,
+        "income": 67,
+        "speculative": 32
+      },
+      "opportunity": {
+        "score": 79,
+        "label": "Worth Watching",
+        "reasons": [
+          "RSI(14): 42",
+          "39.7% below one-year closing high",
+          "Forward/trailing P/E: 12.3",
+          "Below 50-day average"
+        ],
+        "rsi": 42.4,
+        "drawdown_pct": -39.72
+      },
+      "risk_score": 11,
+      "coverage": 11
+    },
+    {
+      "ticker": "AMGN",
+      "as_of": "2026-11-20",
+      "price": 435.6400146484375,
+      "scores": {
+        "value": 59,
+        "growth": 55,
+        "income": 47,
+        "speculative": 36
+      },
+      "opportunity": {
+        "score": 55,
+        "label": "Wait / Higher Risk",
+        "reasons": [
+          "RSI(14): 31",
+          "9.0% below one-year closing high",
+          "Forward/trailing P/E: 17.3",
+          "Above 50-day average"
+        ],
+        "rsi": 31.3,
+        "drawdown_pct": -8.95
+      },
+      "risk_score": 44,
+      "coverage": 12
+    },
+    {
+      "ticker": "INTU",
+      "as_of": "2026-11-20",
+      "price": 270.44000244140625,
+      "scores": {
+        "value": 86,
+        "growth": 74,
+        "income": 62,
+        "speculative": 48
+      },
+      "opportunity": {
+        "score": 74,
+        "label": "Worth Watching",
+        "reasons": [
+          "RSI(14): 17",
+          "59.5% below one-year closing high",
+          "Forward/trailing P/E: 10.0",
+          "Below 50-day average"
+        ],
+        "rsi": 17.4,
+        "drawdown_pct": -59.46
+      },
+      "risk_score": 20,
+      "coverage": 12
+    },
+    {
+      "ticker": "NOW",
+      "as_of": "2026-11-20",
+      "price": 87.61000061035156,
+      "scores": {
+        "value": 54,
+        "growth": 37,
+        "income": 0,
+        "speculative": 28
+      },
+      "opportunity": {
+        "score": 59,
+        "label": "Wait / Higher Risk",
+        "reasons": [
+          "RSI(14): 24",
+          "49.5% below one-year closing high",
+          "Forward/trailing P/E: 18.2",
+          "Below 50-day average"
+        ],
+        "rsi": 24.3,
+        "drawdown_pct": -49.5
+      },
+      "risk_score": 26,
+      "coverage": 12
+    },
+    {
+      "ticker": "UBER",
+      "as_of": "2026-11-20",
+      "price": 63.470001220703125,
+      "scores": {
+        "value": 61,
+        "growth": 24,
+        "income": 0,
+        "speculative": 21
+      },
+      "opportunity": {
+        "score": 69,
+        "label": "Worth Watching",
+        "reasons": [
+          "RSI(14): 41",
+          "31.4% below one-year closing high",
+          "Forward/trailing P/E: 14.4",
+          "Below 50-day average"
+        ],
+        "rsi": 41.0,
+        "drawdown_pct": -31.44
+      },
+      "risk_score": 24,
+      "coverage": 12
+    },
+    {
+      "ticker": "PLTR",
+      "as_of": "2026-11-20",
+      "price": 143.49000549316406,
+      "scores": {
+        "value": 45,
+        "growth": 100,
+        "income": 0,
+        "speculative": 80
+      },
+      "opportunity": {
+        "score": 53,
+        "label": "Wait / Higher Risk",
+        "reasons": [
+          "RSI(14): 25",
+          "31.4% below one-year closing high",
+          "Forward/trailing P/E: 56.5",
+          "Below 50-day average"
+        ],
+        "rsi": 25.3,
+        "drawdown_pct": -31.36
+      },
+      "risk_score": 0,
+      "coverage": 12
+    },
+    {
+      "ticker": "PANW",
+      "as_of": "2026-11-20",
+      "price": 343.32000732421875,
+      "scores": {
+        "value": 17,
+        "growth": 63,
+        "income": 0,
+        "speculative": 48
+      },
+      "opportunity": {
+        "score": 45,
+        "label": "Wait / Higher Risk",
+        "reasons": [
+          "RSI(14): 47",
+          "18.2% below one-year closing high",
+          "Forward/trailing P/E: 69.9",
+          "Below 50-day average"
+        ],
+        "rsi": 47.4,
+        "drawdown_pct": -18.24
+      },
+      "risk_score": 11,
+      "coverage": 12
+    },
+    {
+      "ticker": "CRWD",
+      "as_of": "2026-11-20",
+      "price": 229.44000244140625,
+      "scores": {
+        "value": 11,
+        "growth": 52,
+        "income": 0,
+        "speculative": 41
+      },
+      "opportunity": {
+        "score": 40,
+        "label": "Wait / Higher Risk",
+        "reasons": [
+          "RSI(14): 44",
+          "17.7% below one-year closing high",
+          "Forward/trailing P/E: 142.4",
+          "Below 50-day average"
+        ],
+        "rsi": 43.7,
+        "drawdown_pct": -17.72
+      },
+      "risk_score": 13,
+      "coverage": 11
+    },
+    {
+      "ticker": "MU",
+      "as_of": "2026-11-20",
+      "price": 594.510009765625,
+      "scores": {
+        "value": 93,
+        "growth": 100,
+        "income": 30,
+        "speculative": 80
+      },
+      "opportunity": {
+        "score": 78,
+        "label": "Worth Watching",
+        "reasons": [
+          "RSI(14): 30",
+          "51.0% below one-year closing high",
+          "Forward/trailing P/E: 2.8",
+          "Below 50-day average"
+        ],
+        "rsi": 30.3,
+        "drawdown_pct": -51.0
+      },
+      "risk_score": 0,
+      "coverage": 12
+    },
+    {
+      "ticker": "LRCX",
+      "as_of": "2026-11-20",
+      "price": 183.27000427246094,
+      "scores": {
+        "value": 71,
+        "growth": 100,
+        "income": 30,
+        "speculative": 74
+      },
+      "opportunity": {
+        "score": 78,
+        "label": "Worth Watching",
+        "reasons": [
+          "RSI(14): 36",
+          "57.7% below one-year closing high",
+          "Forward/trailing P/E: 14.9",
+          "Below 50-day average"
+        ],
+        "rsi": 35.6,
+        "drawdown_pct": -57.66
+      },
+      "risk_score": 4,
+      "coverage": 12
+    },
+    {
+      "ticker": "AMAT",
+      "as_of": "2026-11-20",
+      "price": 302.6300048828125,
+      "scores": {
+        "value": 80,
+        "growth": 96,
+        "income": 30,
+        "speculative": 65
+      },
+      "opportunity": {
+        "score": 79,
+        "label": "Worth Watching",
+        "reasons": [
+          "RSI(14): 35",
+          "58.0% below one-year closing high",
+          "Forward/trailing P/E: 12.3",
+          "Below 50-day average"
+        ],
+        "rsi": 35.4,
+        "drawdown_pct": -58.03
+      },
+      "risk_score": 3,
+      "coverage": 12
+    },
+    {
+      "ticker": "KLAC",
+      "as_of": "2026-11-20",
+      "price": 126.87000274658203,
+      "scores": {
+        "value": 65,
+        "growth": 87,
+        "income": 30,
+        "speculative": 51
+      },
+      "opportunity": {
+        "score": 72,
+        "label": "Worth Watching",
+        "reasons": [
+          "RSI(14): 37",
+          "57.8% below one-year closing high",
+          "Forward/trailing P/E: 17.9",
+          "Below 50-day average"
+        ],
+        "rsi": 36.5,
+        "drawdown_pct": -57.84
+      },
+      "risk_score": 16,
+      "coverage": 12
+    },
+    {
+      "ticker": "ADP",
+      "as_of": "2026-11-20",
+      "price": 301.7099914550781,
+      "scores": {
+        "value": 57,
+        "growth": 48,
+        "income": 51,
+        "speculative": 33
+      },
+      "opportunity": {
+        "score": 54,
+        "label": "Wait / Higher Risk",
+        "reasons": [
+          "RSI(14): 53",
+          "3.7% below one-year closing high",
+          "Forward/trailing P/E: 22.3",
+          "Above 50-day average"
+        ],
+        "rsi": 53.4,
+        "drawdown_pct": -3.74
+      },
+      "risk_score": 29,
+      "coverage": 12
+    },
+    {
+      "ticker": "SBUX",
+      "as_of": "2026-11-20",
+      "price": 103.12999725341797,
+      "scores": {
+        "value": 52,
+        "growth": 46,
+        "income": 28,
+        "speculative": 41
+      },
+      "opportunity": {
+        "score": 44,
+        "label": "Wait / Higher Risk",
+        "reasons": [
+          "RSI(14): 49",
+          "5.6% below one-year closing high",
+          "Forward/trailing P/E: 27.7",
+          "Above 50-day average"
+        ],
+        "rsi": 48.8,
+        "drawdown_pct": -5.65
+      },
+      "risk_score": 47,
+      "coverage": 10
+    },
+    {
+      "ticker": "NKE",
+      "as_of": "2026-11-20",
+      "price": 32.91999816894531,
+      "scores": {
+        "value": 59,
+        "growth": 18,
+        "income": 56,
+        "speculative": 23
+      },
+      "opportunity": {
+        "score": 55,
+        "label": "Wait / Higher Risk",
+        "reasons": [
+          "RSI(14): 29",
+          "50.1% below one-year closing high",
+          "Forward/trailing P/E: 23.7",
+          "Below 50-day average"
+        ],
+        "rsi": 28.9,
+        "drawdown_pct": -50.15
+      },
+      "risk_score": 39,
+      "coverage": 12
+    },
+    {
+      "ticker": "LOW",
+      "as_of": "2026-11-20",
+      "price": 220.83999633789062,
+      "scores": {
+        "value": 64,
+        "growth": 33,
+        "income": 56,
+        "speculative": 29
+      },
+      "opportunity": {
+        "score": 75,
+        "label": "Worth Watching",
+        "reasons": [
+          "RSI(14): 53",
+          "21.8% below one-year closing high",
+          "Forward/trailing P/E: 17.3",
+          "Above 50-day average"
+        ],
+        "rsi": 52.5,
+        "drawdown_pct": -21.82
+      },
+      "risk_score": 37,
+      "coverage": 10
+    },
+    {
+      "ticker": "DE",
+      "as_of": "2026-11-20",
+      "price": 609.25,
+      "scores": {
+        "value": 45,
+        "growth": 34,
+        "income": 42,
+        "speculative": 28
+      },
+      "opportunity": {
+        "score": 40,
+        "label": "Wait / Higher Risk",
+        "reasons": [
+          "RSI(14): 30",
+          "13.9% below one-year closing high",
+          "Forward/trailing P/E: 26.6",
+          "Below 50-day average"
+        ],
+        "rsi": 29.7,
+        "drawdown_pct": -13.92
+      },
+      "risk_score": 42,
+      "coverage": 12
+    },
+    {
+      "ticker": "GS",
+      "as_of": "2026-11-20",
+      "price": 790.6900024414062,
+      "scores": {
+        "value": 77,
+        "growth": 78,
+        "income": 54,
+        "speculative": 48
+      },
+      "opportunity": {
+        "score": 72,
+        "label": "Worth Watching",
+        "reasons": [
+          "RSI(14): 32",
+          "31.0% below one-year closing high",
+          "Forward/trailing P/E: 10.6",
+          "Below 50-day average"
+        ],
+        "rsi": 32.0,
+        "drawdown_pct": -31.03
+      },
+      "risk_score": 40,
+      "coverage": 11
+    },
+    {
+      "ticker": "MS",
+      "as_of": "2026-11-20",
+      "price": 165.6699981689453,
+      "scores": {
+        "value": 75,
+        "growth": 48,
+        "income": 55,
+        "speculative": 35
+      },
+      "opportunity": {
+        "score": 71,
+        "label": "Worth Watching",
+        "reasons": [
+          "RSI(14): 33",
+          "26.7% below one-year closing high",
+          "Forward/trailing P/E: 12.1",
+          "Below 50-day average"
+        ],
+        "rsi": 32.7,
+        "drawdown_pct": -26.67
+      },
+      "risk_score": 40,
+      "coverage": 11
+    },
+    {
+      "ticker": "SCHW",
+      "as_of": "2026-11-20",
+      "price": 90.16000366210938,
+      "scores": {
+        "value": 80,
+        "growth": 66,
+        "income": 50,
+        "speculative": 42
+      },
+      "opportunity": {
+        "score": 82,
+        "label": "Worth Watching",
+        "reasons": [
+          "RSI(14): 56",
+          "20.4% below one-year closing high",
+          "Forward/trailing P/E: 11.6",
+          "Below 50-day average"
+        ],
+        "rsi": 55.8,
+        "drawdown_pct": -20.39
+      },
+      "risk_score": 24,
+      "coverage": 11
+    },
+    {
+      "ticker": "BLK",
+      "as_of": "2026-11-20",
+      "price": 1101.719970703125,
+      "scores": {
+        "value": 73,
+        "growth": 63,
+        "income": 58,
+        "speculative": 43
+      },
+      "opportunity": {
+        "score": 57,
+        "label": "Wait / Higher Risk",
+        "reasons": [
+          "RSI(14): 40",
+          "10.2% below one-year closing high",
+          "Forward/trailing P/E: 17.0",
+          "Below 50-day average"
+        ],
+        "rsi": 39.6,
+        "drawdown_pct": -10.16
+      },
+      "risk_score": 9,
+      "coverage": 12
+    },
+    {
+      "ticker": "SPGI",
+      "as_of": "2026-11-20",
+      "price": 439.57000732421875,
+      "scores": {
+        "value": 65,
+        "growth": 45,
+        "income": 30,
+        "speculative": 32
+      },
+      "opportunity": {
+        "score": 58,
+        "label": "Wait / Higher Risk",
+        "reasons": [
+          "RSI(14): 31",
+          "14.4% below one-year closing high",
+          "Forward/trailing P/E: 21.8",
+          "Above 50-day average"
+        ],
+        "rsi": 30.6,
+        "drawdown_pct": -14.37
+      },
+      "risk_score": 14,
+      "coverage": 12
+    },
+    {
+      "ticker": "ICE",
+      "as_of": "2026-11-20",
+      "price": 170.0,
+      "scores": {
+        "value": 70,
+        "growth": 56,
+        "income": 45,
+        "speculative": 39
+      },
+      "opportunity": {
+        "score": 60,
+        "label": "Worth Watching",
+        "reasons": [
+          "RSI(14): 46",
+          "5.9% below one-year closing high",
+          "Forward/trailing P/E: 19.0",
+          "Above 50-day average"
+        ],
+        "rsi": 46.0,
+        "drawdown_pct": -5.86
+      },
+      "risk_score": 21,
+      "coverage": 12
+    },
+    {
+      "ticker": "CME",
+      "as_of": "2026-11-20",
+      "price": 307.55999755859375,
+      "scores": {
+        "value": 68,
+        "growth": 54,
+        "income": 34,
+        "speculative": 38
+      },
+      "opportunity": {
+        "score": 55,
+        "label": "Wait / Higher Risk",
+        "reasons": [
+          "RSI(14): 52",
+          "3.7% below one-year closing high",
+          "Forward/trailing P/E: 23.2",
+          "Above 50-day average"
+        ],
+        "rsi": 51.6,
+        "drawdown_pct": -3.7
+      },
+      "risk_score": 19,
+      "coverage": 12
+    },
+    {
+      "ticker": "USB",
+      "as_of": "2026-11-20",
+      "price": 56.04999923706055,
+      "scores": {
+        "value": 81,
+        "growth": 45,
+        "income": 64,
+        "speculative": 34
+      },
+      "opportunity": {
+        "score": 63,
+        "label": "Worth Watching",
+        "reasons": [
+          "RSI(14): 29",
+          "13.5% below one-year closing high",
+          "Forward/trailing P/E: 9.6",
+          "Below 50-day average"
+        ],
+        "rsi": 29.4,
+        "drawdown_pct": -13.52
+      },
+      "risk_score": 33,
+      "coverage": 10
+    },
+    {
+      "ticker": "PFE",
+      "as_of": "2026-11-20",
+      "price": 27.399999618530273,
+      "scores": {
+        "value": 66,
+        "growth": 12,
+        "income": 63,
+        "speculative": 20
+      },
+      "opportunity": {
+        "score": 55,
+        "label": "Wait / Higher Risk",
+        "reasons": [
+          "RSI(14): 21",
+          "9.7% below one-year closing high",
+          "Forward/trailing P/E: 9.3",
+          "Below 50-day average"
+        ],
+        "rsi": 21.4,
+        "drawdown_pct": -9.71
+      },
+      "risk_score": 38,
+      "coverage": 12
+    },
+    {
+      "ticker": "GILD",
+      "as_of": "2026-11-20",
+      "price": 166.42999267578125,
+      "scores": {
+        "value": 28,
+        "growth": 12,
+        "income": 55,
+        "speculative": 17
+      },
+      "opportunity": {
+        "score": 47,
+        "label": "Wait / Higher Risk",
+        "reasons": [
+          "RSI(14): 44",
+          "4.6% below one-year closing high",
+          "Forward/trailing P/E: 16.4",
+          "Above 50-day average"
+        ],
+        "rsi": 43.8,
+        "drawdown_pct": -4.61
+      },
+      "risk_score": 45,
+      "coverage": 11
+    },
+    {
+      "ticker": "BMY",
+      "as_of": "2026-11-20",
+      "price": 58.79999923706055,
+      "scores": {
+        "value": 80,
+        "growth": 38,
+        "income": 61,
+        "speculative": 30
+      },
+      "opportunity": {
+        "score": 64,
+        "label": "Worth Watching",
+        "reasons": [
+          "RSI(14): 35",
+          "12.7% below one-year closing high",
+          "Forward/trailing P/E: 8.8",
+          "Below 50-day average"
+        ],
+        "rsi": 34.8,
+        "drawdown_pct": -12.75
+      },
+      "risk_score": 40,
+      "coverage": 12
+    },
+    {
+      "ticker": "MDT",
+      "as_of": "2026-11-20",
+      "price": 99.94000244140625,
+      "scores": {
+        "value": 67,
+        "growth": 62,
+        "income": 51,
+        "speculative": 42
+      },
+      "opportunity": {
+        "score": 63,
+        "label": "Worth Watching",
+        "reasons": [
+          "RSI(14): 52",
+          "4.8% below one-year closing high",
+          "Forward/trailing P/E: 15.6",
+          "Above 50-day average"
+        ],
+        "rsi": 51.9,
+        "drawdown_pct": -4.78
+      },
+      "risk_score": 24,
+      "coverage": 12
+    },
+    {
+      "ticker": "HON",
+      "as_of": "2026-11-20",
+      "price": 212.63999938964844,
+      "scores": {
+        "value": 75,
+        "growth": 28,
+        "income": 53,
+        "speculative": 20
+      },
+      "opportunity": {
+        "score": 62,
+        "label": "Worth Watching",
+        "reasons": [
+          "RSI(14): 41",
+          "17.3% below one-year closing high",
+          "Forward/trailing P/E: 21.5",
+          "Below 50-day average"
+        ],
+        "rsi": 40.6,
+        "drawdown_pct": -17.3
+      },
+      "risk_score": 27,
+      "coverage": 12
+    },
+    {
+      "ticker": "UPS",
+      "as_of": "2026-11-20",
+      "price": 106.22000122070312,
+      "scores": {
+        "value": 64,
+        "growth": 26,
+        "income": 51,
+        "speculative": 23
+      },
+      "opportunity": {
+        "score": 61,
+        "label": "Worth Watching",
+        "reasons": [
+          "RSI(14): 47",
+          "7.0% below one-year closing high",
+          "Forward/trailing P/E: 13.1",
+          "Above 50-day average"
+        ],
+        "rsi": 46.6,
+        "drawdown_pct": -6.97
+      },
+      "risk_score": 59,
+      "coverage": 12
+    },
+    {
+      "ticker": "RTX",
+      "as_of": "2026-11-20",
+      "price": 190.1699981689453,
+      "scores": {
+        "value": 55,
+        "growth": 53,
+        "income": 55,
+        "speculative": 37
+      },
+      "opportunity": {
+        "score": 50,
+        "label": "Wait / Higher Risk",
+        "reasons": [
+          "RSI(14): 36",
+          "15.7% below one-year closing high",
+          "Forward/trailing P/E: 23.5",
+          "Below 50-day average"
+        ],
+        "rsi": 35.9,
+        "drawdown_pct": -15.66
+      },
+      "risk_score": 17,
+      "coverage": 12
+    },
+    {
+      "ticker": "LMT",
+      "as_of": "2026-11-20",
+      "price": 565.5,
+      "scores": {
+        "value": 52,
+        "growth": 47,
+        "income": 50,
+        "speculative": 33
+      },
+      "opportunity": {
+        "score": 56,
+        "label": "Wait / Higher Risk",
+        "reasons": [
+          "RSI(14): 28",
+          "15.4% below one-year closing high",
+          "Forward/trailing P/E: 17.0",
+          "Above 50-day average"
+        ],
+        "rsi": 27.7,
+        "drawdown_pct": -15.37
+      },
+      "risk_score": 44,
+      "coverage": 12
+    },
+    {
+      "ticker": "NOC",
+      "as_of": "2026-11-20",
+      "price": 534.3099975585938,
+      "scores": {
+        "value": 68,
+        "growth": 36,
+        "income": 53,
+        "speculative": 28
+      },
+      "opportunity": {
+        "score": 70,
+        "label": "Potential Buying Opportunity",
+        "reasons": [
+          "RSI(14): 38",
+          "29.8% below one-year closing high",
+          "Forward/trailing P/E: 17.8",
+          "Above 50-day average"
+        ],
+        "rsi": 38.4,
+        "drawdown_pct": -29.81
+      },
+      "risk_score": 32,
+      "coverage": 12
+    },
+    {
+      "ticker": "BA",
+      "as_of": "2026-11-20",
+      "price": 155.88999938964844,
+      "scores": {
+        "value": 15,
+        "growth": 38,
+        "income": 0,
+        "speculative": 31
+      },
+      "opportunity": {
+        "score": 34,
+        "label": "Wait / Higher Risk",
+        "reasons": [
+          "RSI(14): 20",
+          "38.2% below one-year closing high",
+          "Forward/trailing P/E: 71.6",
+          "Below 50-day average"
+        ],
+        "rsi": 20.4,
+        "drawdown_pct": -38.18
+      },
+      "risk_score": 55,
+      "coverage": 10
+    },
+    {
+      "ticker": "COP",
+      "as_of": "2026-11-20",
+      "price": 136.1199951171875,
+      "scores": {
+        "value": 79,
+        "growth": 86,
+        "income": 69,
+        "speculative": 60
+      },
+      "opportunity": {
+        "score": 64,
+        "label": "Worth Watching",
+        "reasons": [
+          "RSI(14): 34",
+          "11.0% below one-year closing high",
+          "Forward/trailing P/E: 11.8",
+          "Below 50-day average"
+        ],
+        "rsi": 33.9,
+        "drawdown_pct": -11.05
+      },
+      "risk_score": 13,
+      "coverage": 12
+    },
+    {
+      "ticker": "SLB",
+      "as_of": "2026-11-20",
+      "price": 45.88999938964844,
+      "scores": {
+        "value": 65,
+        "growth": 26,
+        "income": 50,
+        "speculative": 26
+      },
+      "opportunity": {
+        "score": 65,
+        "label": "Worth Watching",
+        "reasons": [
+          "RSI(14): 22",
+          "23.2% below one-year closing high",
+          "Forward/trailing P/E: 14.9",
+          "Below 50-day average"
+        ],
+        "rsi": 22.2,
+        "drawdown_pct": -23.25
+      },
+      "risk_score": 30,
+      "coverage": 12
+    },
+    {
+      "ticker": "EOG",
+      "as_of": "2026-11-20",
+      "price": 148.60000610351562,
+      "scores": {
+        "value": 93,
+        "growth": 99,
+        "income": 66,
+        "speculative": 68
+      },
+      "opportunity": {
+        "score": 68,
+        "label": "Worth Watching",
+        "reasons": [
+          "RSI(14): 37",
+          "10.2% below one-year closing high",
+          "Forward/trailing P/E: 8.7",
+          "Below 50-day average"
+        ],
+        "rsi": 37.2,
+        "drawdown_pct": -10.23
+      },
+      "risk_score": 16,
+      "coverage": 12
+    },
+    {
+      "ticker": "OXY",
+      "as_of": "2026-11-20",
+      "price": 53.900001525878906,
+      "scores": {
+        "value": 84,
+        "growth": 78,
+        "income": 60,
+        "speculative": 55
+      },
+      "opportunity": {
+        "score": 69,
+        "label": "Worth Watching",
+        "reasons": [
+          "RSI(14): 24",
+          "17.9% below one-year closing high",
+          "Forward/trailing P/E: 10.2",
+          "Below 50-day average"
+        ],
+        "rsi": 24.0,
+        "drawdown_pct": -17.88
+      },
+      "risk_score": 19,
+      "coverage": 12
+    },
+    {
+      "ticker": "SO",
+      "as_of": "2026-11-20",
+      "price": 93.12999725341797,
+      "scores": {
+        "value": 61,
+        "growth": 46,
+        "income": 42,
+        "speculative": 36
+      },
+      "opportunity": {
+        "score": 52,
+        "label": "Wait / Higher Risk",
+        "reasons": [
+          "RSI(14): 47",
+          "3.7% below one-year closing high",
+          "Forward/trailing P/E: 18.9",
+          "Above 50-day average"
+        ],
+        "rsi": 46.9,
+        "drawdown_pct": -3.69
+      },
+      "risk_score": 40,
+      "coverage": 12
+    },
+    {
+      "ticker": "DUK",
+      "as_of": "2026-11-20",
+      "price": 129.77999877929688,
+      "scores": {
+        "value": 62,
+        "growth": 37,
+        "income": 44,
+        "speculative": 32
+      },
+      "opportunity": {
+        "score": 57,
+        "label": "Wait / Higher Risk",
+        "reasons": [
+          "RSI(14): 58",
+          "0.6% below one-year closing high",
+          "Forward/trailing P/E: 18.1",
+          "Above 50-day average"
+        ],
+        "rsi": 58.1,
+        "drawdown_pct": -0.62
+      },
+      "risk_score": 40,
+      "coverage": 12
+    },
+    {
+      "ticker": "NEE",
+      "as_of": "2026-11-20",
+      "price": 83.44999694824219,
+      "scores": {
+        "value": 68,
+        "growth": 62,
+        "income": 49,
+        "speculative": 46
+      },
+      "opportunity": {
+        "score": 62,
+        "label": "Worth Watching",
+        "reasons": [
+          "RSI(14): 43",
+          "13.5% below one-year closing high",
+          "Forward/trailing P/E: 19.1",
+          "Above 50-day average"
+        ],
+        "rsi": 42.8,
+        "drawdown_pct": -13.47
+      },
+      "risk_score": 25,
+      "coverage": 12
+    },
+    {
+      "ticker": "AEP",
+      "as_of": "2026-11-20",
+      "price": 125.13999938964844,
+      "scores": {
+        "value": 61,
+        "growth": 49,
+        "income": 42,
+        "speculative": 37
+      },
+      "opportunity": {
+        "score": 52,
+        "label": "Wait / Higher Risk",
+        "reasons": [
+          "RSI(14): 35",
+          "8.4% below one-year closing high",
+          "Forward/trailing P/E: 18.1",
+          "Above 50-day average"
+        ],
+        "rsi": 34.7,
+        "drawdown_pct": -8.39
+      },
+      "risk_score": 44,
+      "coverage": 12
+    },
+    {
+      "ticker": "ED",
+      "as_of": "2026-11-20",
+      "price": 119.36000061035156,
+      "scores": {
+        "value": 62,
+        "growth": 36,
+        "income": 46,
+        "speculative": 34
+      },
+      "opportunity": {
+        "score": 59,
+        "label": "Wait / Higher Risk",
+        "reasons": [
+          "RSI(14): 55",
+          "1.3% below one-year closing high",
+          "Forward/trailing P/E: 18.4",
+          "Above 50-day average"
+        ],
+        "rsi": 55.2,
+        "drawdown_pct": -1.33
+      },
+      "risk_score": 38,
+      "coverage": 12
+    },
+    {
+      "ticker": "WM",
+      "as_of": "2026-11-20",
+      "price": 239.6300048828125,
+      "scores": {
+        "value": 46,
+        "growth": 57,
+        "income": 39,
+        "speculative": 36
+      },
+      "opportunity": {
+        "score": 45,
+        "label": "Wait / Higher Risk",
+        "reasons": [
+          "RSI(14): 53",
+          "1.9% below one-year closing high",
+          "Forward/trailing P/E: 26.8",
+          "Above 50-day average"
+        ],
+        "rsi": 53.2,
+        "drawdown_pct": -1.92
+      },
+      "risk_score": 50,
+      "coverage": 12
+    },
+    {
+      "ticker": "RSG",
+      "as_of": "2026-11-20",
+      "price": 246.58999633789062,
+      "scores": {
+        "value": 46,
+        "growth": 40,
+        "income": 44,
+        "speculative": 32
+      },
+      "opportunity": {
+        "score": 42,
+        "label": "Wait / Higher Risk",
+        "reasons": [
+          "RSI(14): 51",
+          "3.5% below one-year closing high",
+          "Forward/trailing P/E: 30.8",
+          "Above 50-day average"
+        ],
+        "rsi": 51.0,
+        "drawdown_pct": -3.51
+      },
+      "risk_score": 34,
+      "coverage": 12
+    },
+    {
+      "ticker": "LIN",
+      "as_of": "2026-11-20",
+      "price": 502.8299865722656,
+      "scores": {
+        "value": 58,
+        "growth": 32,
+        "income": 48,
+        "speculative": 29
+      },
+      "opportunity": {
+        "score": 45,
+        "label": "Wait / Higher Risk",
+        "reasons": [
+          "RSI(14): 38",
+          "7.7% below one-year closing high",
+          "Forward/trailing P/E: 25.7",
+          "Above 50-day average"
+        ],
+        "rsi": 38.4,
+        "drawdown_pct": -7.71
+      },
+      "risk_score": 13,
+      "coverage": 12
+    },
+    {
+      "ticker": "APD",
+      "as_of": "2026-11-20",
+      "price": 297.0899963378906,
+      "scores": {
+        "value": 46,
+        "growth": 58,
+        "income": 21,
+        "speculative": 47
+      },
+      "opportunity": {
+        "score": 52,
+        "label": "Wait / Higher Risk",
+        "reasons": [
+          "RSI(14): 33",
+          "6.8% below one-year closing high",
+          "Forward/trailing P/E: 19.1",
+          "Above 50-day average"
+        ],
+        "rsi": 33.2,
+        "drawdown_pct": -6.83
+      },
+      "risk_score": 52,
+      "coverage": 12
+    },
+    {
+      "ticker": "SHW",
+      "as_of": "2026-11-20",
+      "price": 339.739990234375,
+      "scores": {
+        "value": 42,
+        "growth": 37,
+        "income": 30,
+        "speculative": 29
+      },
+      "opportunity": {
+        "score": 46,
+        "label": "Wait / Higher Risk",
+        "reasons": [
+          "RSI(14): 44",
+          "8.0% below one-year closing high",
+          "Forward/trailing P/E: 25.8",
+          "Above 50-day average"
+        ],
+        "rsi": 43.5,
+        "drawdown_pct": -7.96
+      },
+      "risk_score": 58,
+      "coverage": 12
+    },
+    {
+      "ticker": "ECL",
+      "as_of": "2026-11-20",
+      "price": 294.70001220703125,
+      "scores": {
+        "value": 43,
+        "growth": 36,
+        "income": 30,
+        "speculative": 31
+      },
+      "opportunity": {
+        "score": 38,
+        "label": "Wait / Higher Risk",
+        "reasons": [
+          "RSI(14): 39",
+          "6.4% below one-year closing high",
+          "Forward/trailing P/E: 31.1",
+          "Above 50-day average"
+        ],
+        "rsi": 38.6,
+        "drawdown_pct": -6.45
+      },
+      "risk_score": 37,
+      "coverage": 12
+    },
+    {
+      "ticker": "TGT",
+      "as_of": "2026-11-20",
+      "price": 165.8300018310547,
+      "scores": {
+        "value": 68,
+        "growth": 62,
+        "income": 52,
+        "speculative": 43
+      },
+      "opportunity": {
+        "score": 64,
+        "label": "Worth Watching",
+        "reasons": [
+          "RSI(14): 60",
+          "1.7% below one-year closing high",
+          "Forward/trailing P/E: 17.0",
+          "Above 50-day average"
+        ],
+        "rsi": 59.9,
+        "drawdown_pct": -1.7
+      },
+      "risk_score": 38,
+      "coverage": 12
+    },
+    {
+      "ticker": "CVS",
+      "as_of": "2026-11-20",
+      "price": 80.83999633789062,
+      "scores": {
+        "value": 71,
+        "growth": 36,
+        "income": 72,
+        "speculative": 30
+      },
+      "opportunity": {
+        "score": 73,
+        "label": "Worth Watching",
+        "reasons": [
+          "RSI(14): 39",
+          "25.9% below one-year closing high",
+          "Forward/trailing P/E: 9.3",
+          "Below 50-day average"
+        ],
+        "rsi": 39.0,
+        "drawdown_pct": -25.93
+      },
+      "risk_score": 32,
+      "coverage": 11
+    },
+    {
+      "ticker": "C",
+      "as_of": "2026-11-20",
+      "price": 110.62000274658203,
+      "scores": {
+        "value": 80,
+        "growth": 65,
+        "income": 58,
+        "speculative": 43
+      },
+      "opportunity": {
+        "score": 72,
+        "label": "Worth Watching",
+        "reasons": [
+          "RSI(14): 28",
+          "23.3% below one-year closing high",
+          "Forward/trailing P/E: 8.5",
+          "Below 50-day average"
+        ],
+        "rsi": 27.8,
+        "drawdown_pct": -23.26
+      },
+      "risk_score": 22,
+      "coverage": 10
+    },
+    {
+      "ticker": "VS",
+      "as_of": "2026-11-20",
+      "price": 0.5705000162124634,
+      "scores": {
+        "value": 60,
+        "growth": 38,
+        "income": 0,
+        "speculative": 50
+      },
+      "opportunity": {
+        "score": 67,
+        "label": "Wait / Higher Risk",
+        "reasons": [
+          "RSI(14): 32",
+          "66.2% below one-year closing high",
+          "Forward/trailing P/E: -0.3",
+          "Below 50-day average",
+          "Elevated model risk",
+          "Valuation evidence incomplete"
+        ],
+        "rsi": 32.0,
+        "drawdown_pct": -66.24
+      },
+      "risk_score": 65,
+      "coverage": 8
+    },
+    {
+      "ticker": "PYPL",
+      "as_of": "2026-11-20",
+      "price": 53.290000915527344,
+      "scores": {
+        "value": 83,
+        "growth": 28,
+        "income": 51,
+        "speculative": 28
+      },
+      "opportunity": {
+        "score": 66,
+        "label": "Worth Watching",
+        "reasons": [
+          "RSI(14): 32",
+          "14.5% below one-year closing high",
+          "Forward/trailing P/E: 9.0",
+          "Below 50-day average"
+        ],
+        "rsi": 31.7,
+        "drawdown_pct": -14.53
+      },
+      "risk_score": 30,
+      "coverage": 12
+    },
+    {
+      "ticker": "COIN",
+      "as_of": "2026-11-20",
+      "price": 101.97000122070312,
+      "scores": {
+        "value": 26,
+        "growth": 35,
+        "income": 0,
+        "speculative": 42
+      },
+      "opportunity": {
+        "score": 34,
+        "label": "Wait / Higher Risk",
+        "reasons": [
+          "RSI(14): 26",
+          "63.2% below one-year closing high",
+          "Forward/trailing P/E: 42.5",
+          "Below 50-day average"
+        ],
+        "rsi": 25.8,
+        "drawdown_pct": -63.24
+      },
+      "risk_score": 41,
+      "coverage": 11
+    },
+    {
+      "ticker": "HOOD",
+      "as_of": "2026-11-20",
+      "price": 62.16999816894531,
+      "scores": {
+        "value": 66,
+        "growth": 39,
+        "income": 0,
+        "speculative": 29
+      },
+      "opportunity": {
+        "score": 62,
+        "label": "Worth Watching",
+        "reasons": [
+          "RSI(14): 26",
+          "54.6% below one-year closing high",
+          "Forward/trailing P/E: 18.2",
+          "Below 50-day average"
+        ],
+        "rsi": 26.0,
+        "drawdown_pct": -54.65
+      },
+      "risk_score": 44,
+      "coverage": 11
+    },
+    {
+      "ticker": "ROKU",
+      "as_of": "2026-11-06",
+      "price": 160.52000427246094,
+      "scores": {
+        "value": 35,
+        "growth": 78,
+        "income": 0,
+        "speculative": 66
+      },
+      "opportunity": {
+        "score": 47,
+        "label": "Wait / Higher Risk",
+        "reasons": [
+          "RSI(14): 61",
+          "1.4% below one-year closing high",
+          "Forward/trailing P/E: 40.1",
+          "Above 50-day average"
+        ],
+        "rsi": 61.5,
+        "drawdown_pct": -1.38
+      },
+      "risk_score": 26,
+      "coverage": 12
+    },
+    {
+      "ticker": "SHOP",
+      "as_of": "2026-11-20",
+      "price": 123.72000122070312,
+      "scores": {
+        "value": 30,
+        "growth": 87,
+        "income": 0,
+        "speculative": 61
+      },
+      "opportunity": {
+        "score": 49,
+        "label": "Wait / Higher Risk",
+        "reasons": [
+          "RSI(14): 29",
+          "31.0% below one-year closing high",
+          "Forward/trailing P/E: 50.3",
+          "Below 50-day average"
+        ],
+        "rsi": 29.0,
+        "drawdown_pct": -30.97
+      },
+      "risk_score": 8,
+      "coverage": 12
+    },
+    {
+      "ticker": "SNOW",
+      "as_of": "2026-11-20",
+      "price": 254.82000732421875,
+      "scores": {
+        "value": 5,
+        "growth": 58,
+        "income": 0,
+        "speculative": 40
+      },
+      "opportunity": {
+        "score": 43,
+        "label": "Wait / Higher Risk",
+        "reasons": [
+          "RSI(14): 35",
+          "30.9% below one-year closing high",
+          "Forward/trailing P/E: 82.9",
+          "Below 50-day average"
+        ],
+        "rsi": 35.2,
+        "drawdown_pct": -30.92
+      },
+      "risk_score": 56,
+      "coverage": 9
+    },
+    {
+      "ticker": "DDOG",
+      "as_of": "2026-11-20",
+      "price": 157.3699951171875,
+      "scores": {
+        "value": 17,
+        "growth": 83,
+        "income": 0,
+        "speculative": 60
+      },
+      "opportunity": {
+        "score": 48,
+        "label": "Wait / Higher Risk",
+        "reasons": [
+          "RSI(14): 19",
+          "46.3% below one-year closing high",
+          "Forward/trailing P/E: 49.4",
+          "Below 50-day average"
+        ],
+        "rsi": 18.6,
+        "drawdown_pct": -46.34
+      },
+      "risk_score": 26,
+      "coverage": 12
+    },
+    {
+      "ticker": "NET",
+      "as_of": "2026-11-20",
+      "price": 274.9599914550781,
+      "scores": {
+        "value": 0,
+        "growth": 58,
+        "income": 0,
+        "speculative": 45
+      },
+      "opportunity": {
+        "score": 50,
+        "label": "Wait / Higher Risk",
+        "reasons": [
+          "RSI(14): 53",
+          "23.8% below one-year closing high",
+          "Forward/trailing P/E: 147.6",
+          "Below 50-day average",
+          "Elevated model risk"
+        ],
+        "rsi": 52.5,
+        "drawdown_pct": -23.82
+      },
+      "risk_score": 73,
+      "coverage": 9
+    },
+    {
+      "ticker": "MDB",
+      "as_of": "2026-11-20",
+      "price": 285.8999938964844,
+      "scores": {
+        "value": 24,
+        "growth": 57,
+        "income": 0,
+        "speculative": 55
+      },
+      "opportunity": {
+        "score": 45,
+        "label": "Wait / Higher Risk",
+        "reasons": [
+          "RSI(14): 34",
+          "39.5% below one-year closing high",
+          "Forward/trailing P/E: 36.1",
+          "Below 50-day average"
+        ],
+        "rsi": 34.2,
+        "drawdown_pct": -39.47
+      },
+      "risk_score": 29,
+      "coverage": 11
+    },
+    {
+      "ticker": "SOFI",
+      "as_of": "2026-11-20",
+      "price": 12.479999542236328,
+      "scores": {
+        "value": 71,
+        "growth": 88,
+        "income": 0,
+        "speculative": 78
+      },
+      "opportunity": {
+        "score": 73,
+        "label": "Worth Watching",
+        "reasons": [
+          "RSI(14): 21",
+          "58.0% below one-year closing high",
+          "Forward/trailing P/E: 13.9",
+          "Below 50-day average"
+        ],
+        "rsi": 21.0,
+        "drawdown_pct": -58.01
+      },
+      "risk_score": 27,
+      "coverage": 11
+    },
+    {
+      "ticker": "RIVN",
+      "as_of": "2026-11-20",
+      "price": 10.329999923706055,
+      "scores": {
+        "value": 58,
+        "growth": 58,
+        "income": 0,
+        "speculative": 49
+      },
+      "opportunity": {
+        "score": 65,
+        "label": "Worth Watching",
+        "reasons": [
+          "RSI(14): 26",
+          "54.0% below one-year closing high",
+          "Forward/trailing P/E: -5.9",
+          "Below 50-day average",
+          "Valuation evidence incomplete"
+        ],
+        "rsi": 26.3,
+        "drawdown_pct": -53.99
+      },
+      "risk_score": 64,
+      "coverage": 9
+    },
+    {
+      "ticker": "LCID",
+      "as_of": "2026-11-20",
+      "price": 2.5,
+      "scores": {
+        "value": 55,
+        "growth": 27,
+        "income": 0,
+        "speculative": 35
+      },
+      "opportunity": {
+        "score": 70,
+        "label": "Wait / Higher Risk",
+        "reasons": [
+          "RSI(14): 42",
+          "82.3% below one-year closing high",
+          "Forward/trailing P/E: -0.4",
+          "Below 50-day average",
+          "Elevated model risk",
+          "Valuation evidence incomplete"
+        ],
+        "rsi": 42.0,
+        "drawdown_pct": -82.33
+      },
+      "risk_score": 85,
+      "coverage": 10
+    },
+    {
+      "ticker": "IONQ",
+      "as_of": "2026-11-20",
+      "price": 20.719999313354492,
+      "scores": {
+        "value": 83,
+        "growth": 75,
+        "income": 0,
+        "speculative": 84
+      },
+      "opportunity": {
+        "score": 76,
+        "label": "Worth Watching",
+        "reasons": [
+          "RSI(14): 37",
+          "71.3% below one-year closing high",
+          "Forward/trailing P/E: -14.6",
+          "Below 50-day average",
+          "Valuation evidence incomplete"
+        ],
+        "rsi": 37.1,
+        "drawdown_pct": -71.25
+      },
+      "risk_score": 19,
+      "coverage": 11
+    },
+    {
+      "ticker": "RKLB",
+      "as_of": "2026-11-20",
+      "price": 45.41999816894531,
+      "scores": {
+        "value": 23,
+        "growth": 58,
+        "income": 0,
+        "speculative": 62
+      },
+      "opportunity": {
+        "score": 46,
+        "label": "Wait / Higher Risk",
+        "reasons": [
+          "RSI(14): 44",
+          "69.8% below one-year closing high",
+          "Forward/trailing P/E: 634.5",
+          "Below 50-day average"
+        ],
+        "rsi": 43.6,
+        "drawdown_pct": -69.77
+      },
+      "risk_score": 40,
+      "coverage": 10
+    },
+    {
+      "ticker": "ASTS",
+      "as_of": "2026-11-20",
+      "price": 23.270000457763672,
+      "scores": {
+        "value": 52,
+        "growth": 60,
+        "income": 0,
+        "speculative": 78
+      },
+      "opportunity": {
+        "score": 66,
+        "label": "Worth Watching",
+        "reasons": [
+          "RSI(14): 31",
+          "82.5% below one-year closing high",
+          "Forward/trailing P/E: -14.9",
+          "Below 50-day average",
+          "Valuation evidence incomplete"
+        ],
+        "rsi": 30.8,
+        "drawdown_pct": -82.52
+      },
+      "risk_score": 63,
+      "coverage": 9
+    },
+    {
+      "ticker": "OKLO",
+      "as_of": "2026-11-20",
+      "price": 19.850000381469727,
+      "scores": {
+        "value": 65,
+        "growth": 40,
+        "income": 0,
+        "speculative": 63
+      },
+      "opportunity": {
+        "score": 72,
+        "label": "Worth Watching",
+        "reasons": [
+          "RSI(14): 41",
+          "82.2% below one-year closing high",
+          "Forward/trailing P/E: -17.5",
+          "Below 50-day average",
+          "Valuation evidence incomplete"
+        ],
+        "rsi": 41.0,
+        "drawdown_pct": -82.22
+      },
+      "risk_score": 38,
+      "coverage": 8
+    },
+    {
+      "ticker": "SMR",
+      "as_of": "2026-11-20",
+      "price": 3.359999895095825,
+      "scores": {
+        "value": 65,
+        "growth": 20,
+        "income": 0,
+        "speculative": 46
+      },
+      "opportunity": {
+        "score": 68,
+        "label": "Worth Watching",
+        "reasons": [
+          "RSI(14): 26",
+          "85.3% below one-year closing high",
+          "Forward/trailing P/E: -5.0",
+          "Below 50-day average",
+          "Valuation evidence incomplete"
+        ],
+        "rsi": 26.3,
+        "drawdown_pct": -85.3
+      },
+      "risk_score": 39,
+      "coverage": 9
+    },
+    {
+      "ticker": "HIMS",
+      "as_of": "2026-11-20",
+      "price": 14.600000381469727,
+      "scores": {
+        "value": 9,
+        "growth": 58,
+        "income": 0,
+        "speculative": 70
+      },
+      "opportunity": {
+        "score": 44,
+        "label": "Wait / Higher Risk",
+        "reasons": [
+          "RSI(14): 24",
+          "63.5% below one-year closing high",
+          "Forward/trailing P/E: 36.1",
+          "Below 50-day average",
+          "Elevated model risk"
+        ],
+        "rsi": 24.3,
+        "drawdown_pct": -63.52
+      },
+      "risk_score": 74,
+      "coverage": 10
+    },
+    {
+      "ticker": "CELH",
+      "as_of": "2026-11-20",
+      "price": 28.459999084472656,
+      "scores": {
+        "value": 59,
+        "growth": 50,
+        "income": 0,
+        "speculative": 56
+      },
+      "opportunity": {
+        "score": 68,
+        "label": "Worth Watching",
+        "reasons": [
+          "RSI(14): 45",
+          "49.8% below one-year closing high",
+          "Forward/trailing P/E: 17.0",
+          "Below 50-day average"
+        ],
+        "rsi": 44.7,
+        "drawdown_pct": -49.8
+      },
+      "risk_score": 29,
+      "coverage": 11
+    },
+    {
+      "ticker": "CAVA",
+      "as_of": "2026-11-20",
+      "price": 48.84000015258789,
+      "scores": {
+        "value": 25,
+        "growth": 36,
+        "income": 0,
+        "speculative": 50
+      },
+      "opportunity": {
+        "score": 34,
+        "label": "Wait / Higher Risk",
+        "reasons": [
+          "RSI(14): 25",
+          "49.9% below one-year closing high",
+          "Forward/trailing P/E: 68.7",
+          "Below 50-day average"
+        ],
+        "rsi": 24.8,
+        "drawdown_pct": -49.85
+      },
+      "risk_score": 37,
+      "coverage": 12
+    },
+    {
+      "ticker": "DUOL",
+      "as_of": "2026-11-20",
+      "price": 145.02000427246094,
+      "scores": {
+        "value": 61,
+        "growth": 31,
+        "income": 0,
+        "speculative": 43
+      },
+      "opportunity": {
+        "score": 71,
+        "label": "Worth Watching",
+        "reasons": [
+          "RSI(14): 55",
+          "30.6% below one-year closing high",
+          "Forward/trailing P/E: 18.8",
+          "Below 50-day average"
+        ],
+        "rsi": 54.6,
+        "drawdown_pct": -30.64
+      },
+      "risk_score": 26,
+      "coverage": 12
+    },
+    {
+      "ticker": "AFRM",
+      "as_of": "2026-11-20",
+      "price": 54.0,
+      "scores": {
+        "value": 86,
+        "growth": 100,
+        "income": 0,
+        "speculative": 77
+      },
+      "opportunity": {
+        "score": 78,
+        "label": "Worth Watching",
+        "reasons": [
+          "RSI(14): 18",
+          "37.0% below one-year closing high",
+          "Forward/trailing P/E: 10.7",
+          "Below 50-day average"
+        ],
+        "rsi": 18.0,
+        "drawdown_pct": -37.05
+      },
+      "risk_score": 43,
+      "coverage": 12
+    }
+  ],
+  "indices": [
+    {
+      "name": "S&P 500",
+      "ticker": "^GSPC",
+      "close": 6910.39013671875,
+      "peak": 7818.93017578125,
+      "drawdown_pct": -11.62,
+      "levels": {
+        "5": 7427.98,
+        "10": 7037.04,
+        "15": 6646.09,
+        "20": 6255.14
+      },
+      "as_of": "2026-11-20",
+      "basis": "Highest daily close within past 1 year"
+    },
+    {
+      "name": "Nasdaq Composite",
+      "ticker": "^IXIC",
+      "close": 22617.732421875,
+      "peak": 27599.7890625,
+      "drawdown_pct": -18.05,
+      "levels": {
+        "5": 26219.8,
+        "10": 24839.81,
+        "15": 23459.82,
+        "20": 22079.83
+      },
+      "as_of": "2026-11-20",
+      "basis": "Highest daily close within past 1 year"
+    },
+    {
+      "name": "Dow Jones",
+      "ticker": "^DJI",
+      "close": 48147.328125,
+      "peak": 54349.12109375,
+      "drawdown_pct": -11.41,
+      "levels": {
+        "5": 51631.67,
+        "10": 48914.21,
+        "15": 46196.75,
+        "20": 43479.3
+      },
+      "as_of": "2026-11-20",
+      "basis": "Highest daily close within past 1 year"
+    },
+    {
+      "name": "Russell 2000",
+      "ticker": "^RUT",
+      "close": 2581.78955078125,
+      "peak": 3068.419921875,
+      "drawdown_pct": -15.86,
+      "levels": {
+        "5": 2915.0,
+        "10": 2761.58,
+        "15": 2608.16,
+        "20": 2454.74
+      },
+      "as_of": "2026-11-20",
+      "basis": "Highest daily close within past 1 year"
+    },
+    {
+      "name": "RSP (Equal Weight S&P 500)",
+      "ticker": "RSP",
+      "close": 207.44000244140625,
+      "peak": 223.3300018310547,
+      "drawdown_pct": -7.12,
+      "levels": {
+        "5": 212.16,
+        "10": 201.0,
+        "15": 189.83,
+        "20": 178.66
+      },
+      "as_of": "2026-11-20",
+      "basis": "Highest daily close within past 1 year"
+    },
+    {
+      "name": "VTI (Total US Market)",
+      "ticker": "VTI",
+      "close": 340.0199890136719,
+      "peak": 383.33258056640625,
+      "drawdown_pct": -11.3,
+      "levels": {
+        "5": 364.17,
+        "10": 345.0,
+        "15": 325.83,
+        "20": 306.67
+      },
+      "as_of": "2026-11-20",
+      "basis": "Highest daily close within past 1 year"
+    }
+  ],
+  "market": {
+    "vix": {
+      "value": 35.89,
+      "as_of": "2026-11-20",
+      "interpretation": "Very elevated volatility expectations"
+    },
+    "trend": "S&P 500 -11.62% from 1y peak",
+    "entry": "Model-specific scores; not a trade signal"
+  }
+}
