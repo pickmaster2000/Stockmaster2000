@@ -1,6 +1,6 @@
 {
   "mode": "live",
-  "updated_at": "2026-11-26T00:24:47.720888+00:00",
+  "updated_at": "2026-11-27T00:28:24.418545+00:00",
   "source": "Yahoo Finance via yfinance (unofficial; delayed, missing, or revised data possible)",
   "stocks": [
     {
@@ -220,7 +220,7 @@
         "reasons": [
           "RSI(14): 51",
           "21.6% below one-year closing high",
-          "Forward/trailing P/E: 17.1",
+          "Forward/trailing P/E: 17.2",
           "Below 50-day average"
         ],
         "rsi": 51.1,
@@ -242,8 +242,8 @@
       "entry_score": 25,
       "coverage": 12,
       "metrics": {
-        "pe": 20.808258,
-        "forward_pe": 17.09565,
+        "pe": 20.121742,
+        "forward_pe": 17.151987,
         "pb": 5.7230663,
         "roe": 0.32264,
         "margin": 0.31145,
@@ -1335,7 +1335,7 @@
       "coverage": 12,
       "metrics": {
         "pe": 20.77389,
-        "forward_pe": 18.390875,
+        "forward_pe": 18.385252,
         "pb": 6.4752665,
         "roe": 0.34769002,
         "margin": 0.15989,
@@ -1419,7 +1419,7 @@
       "coverage": 12,
       "metrics": {
         "pe": 21.337914,
-        "forward_pe": 16.896643,
+        "forward_pe": 16.893723,
         "pb": 11.580685,
         "roe": 0.56135,
         "margin": 0.15212,
@@ -1763,7 +1763,7 @@
         "earnings_growth": 0.629,
         "dividend_yield": 0.020315030178124537,
         "payout": 0.2834,
-        "market_cap": 71738155008.0
+        "market_cap": 71589896192.0
       },
       "status": "Delayed public feed"
     },
@@ -1797,7 +1797,7 @@
       "coverage": 12,
       "metrics": {
         "pe": 66.30216,
-        "forward_pe": 19.190805,
+        "forward_pe": 19.179262,
         "pb": 7.303852,
         "roe": 0.11846,
         "margin": 0.09364,
@@ -1942,7 +1942,7 @@
         "reasons": [
           "RSI(14): 46",
           "24.9% below one-year closing high",
-          "Forward/trailing P/E: 126.7",
+          "Forward/trailing P/E: 126.5",
           "Below 50-day average"
         ],
         "rsi": 45.7,
@@ -1965,8 +1965,8 @@
       "coverage": 11,
       "metrics": {
         "pe": 1744.1667,
-        "forward_pe": 126.668846,
-        "pb": 36.31789,
+        "forward_pe": 126.53636,
+        "pb": 36.482483,
         "roe": 0.02327,
         "margin": 0.01682,
         "revenue_growth": 0.283,
@@ -2015,7 +2015,7 @@
         "earnings_growth": 10.595,
         "dividend_yield": 0.0009979209979209978,
         "payout": 0.0070999996,
-        "market_cap": 680268201984.0
+        "market_cap": 682379247616.0
       },
       "status": "Delayed public feed"
     },
@@ -2231,12 +2231,12 @@
     },
     {
       "opportunity": {
-        "score": 60,
-        "label": "Worth Watching",
+        "score": 59,
+        "label": "Wait / Higher Risk",
         "reasons": [
           "RSI(14): 40",
           "44.5% below one-year closing high",
-          "Forward/trailing P/E: 26.4",
+          "Forward/trailing P/E: 26.8",
           "Above 50-day average"
         ],
         "rsi": 40.3,
@@ -2248,7 +2248,7 @@
       "price": 36.65999984741211,
       "as_of": "2026-11-25",
       "scores": {
-        "value": 56,
+        "value": 55,
         "growth": 18,
         "income": 52,
         "speculative": 22
@@ -2259,7 +2259,7 @@
       "coverage": 12,
       "metrics": {
         "pe": 17.625,
-        "forward_pe": 26.376,
+        "forward_pe": 26.756975,
         "pb": 3.572055,
         "roe": 0.21563,
         "margin": 0.0674,
@@ -2308,8 +2308,8 @@
         "revenue_growth": 0.093,
         "earnings_growth": 0.034,
         "dividend_yield": 0.021217907914279653,
-        "payout": 0.41,
-        "market_cap": 132212375552.0
+        "payout": 0.4111,
+        "market_cap": 132210941952.0
       },
       "status": "Delayed public feed"
     },
@@ -2333,11 +2333,11 @@
       "as_of": "2026-11-25",
       "scores": {
         "value": 43,
-        "growth": 34,
-        "income": 42,
-        "speculative": 28
+        "growth": 22,
+        "income": 35,
+        "speculative": 24
       },
-      "risk_score": 41,
+      "risk_score": 39,
       "risk": "Moderate",
       "entry_score": 50,
       "coverage": 12,
@@ -2345,10 +2345,10 @@
         "pe": 35.63202,
         "forward_pe": 27.979055,
         "pb": 6.1748757,
-        "roe": 0.18242,
-        "margin": 0.10168,
-        "revenue_growth": 0.049,
-        "earnings_growth": 0.074,
+        "roe": 0.17886999,
+        "margin": 0.10188,
+        "revenue_growth": -0.018,
+        "earnings_growth": -0.01,
         "dividend_yield": 0.010108888958222833,
         "payout": 0.36020002,
         "market_cap": 172835291136.0
@@ -2529,12 +2529,12 @@
         "label": "Wait / Higher Risk",
         "reasons": [
           "RSI(14): 43",
-          "10.2% below one-year closing high",
+          "10.1% below one-year closing high",
           "Forward/trailing P/E: 22.8",
           "Above 50-day average"
         ],
-        "rsi": 42.6,
-        "drawdown_pct": -10.25
+        "rsi": 43.3,
+        "drawdown_pct": -10.05
       },
       "ticker": "SPGI",
       "name": "S&P Global Inc.",
@@ -2805,7 +2805,7 @@
       "coverage": 12,
       "metrics": {
         "pe": 13.649667,
-        "forward_pe": 9.202798,
+        "forward_pe": 9.203294,
         "pb": 5.3764195,
         "roe": 0.44005,
         "margin": 0.18474,
@@ -3435,7 +3435,7 @@
       "coverage": 12,
       "metrics": {
         "pe": 20.84804,
-        "forward_pe": 18.496397,
+        "forward_pe": 18.487902,
         "pb": 2.119717,
         "roe": 0.10601,
         "margin": 0.14213,
@@ -3477,7 +3477,7 @@
       "coverage": 12,
       "metrics": {
         "pe": 19.321028,
-        "forward_pe": 18.50952,
+        "forward_pe": 18.50915,
         "pb": 1.6983182,
         "roe": 0.090959996,
         "margin": 0.12699,
@@ -3762,10 +3762,10 @@
       "scores": {
         "value": 67,
         "growth": 62,
-        "income": 51,
+        "income": 53,
         "speculative": 43
       },
-      "risk_score": 38,
+      "risk_score": 37,
       "risk": "Moderate",
       "entry_score": 80,
       "coverage": 12,
@@ -3778,7 +3778,7 @@
         "revenue_growth": 0.071,
         "earnings_growth": 0.755,
         "dividend_yield": 0.026942283126233885,
-        "payout": 0.47349998,
+        "payout": 0.4257,
         "market_cap": 77969956864.0
       },
       "status": "Delayed public feed"
@@ -4123,7 +4123,7 @@
         "reasons": [
           "RSI(14): 49",
           "27.4% below one-year closing high",
-          "Forward/trailing P/E: 86.9",
+          "Forward/trailing P/E: 86.6",
           "Below 50-day average"
         ],
         "rsi": 49.2,
@@ -4146,7 +4146,7 @@
       "coverage": 9,
       "metrics": {
         "pe": null,
-        "forward_pe": 86.90853,
+        "forward_pe": 86.64498,
         "pb": 43.89572,
         "roe": -0.48063,
         "margin": -0.20071,
@@ -4250,7 +4250,7 @@
         "reasons": [
           "RSI(14): 53",
           "33.6% below one-year closing high",
-          "Forward/trailing P/E: 39.6",
+          "Forward/trailing P/E: 39.5",
           "Below 50-day average"
         ],
         "rsi": 53.2,
@@ -4262,7 +4262,7 @@
       "price": 313.5299987792969,
       "as_of": "2026-11-25",
       "scores": {
-        "value": 19,
+        "value": 20,
         "growth": 57,
         "income": 0,
         "speculative": 54
@@ -4273,7 +4273,7 @@
       "coverage": 11,
       "metrics": {
         "pe": 435.4583,
-        "forward_pe": 39.569134,
+        "forward_pe": 39.480244,
         "pb": 8.483643,
         "roe": 0.01989,
         "margin": 0.02116,
@@ -4506,7 +4506,7 @@
         "reasons": [
           "RSI(14): 44",
           "80.4% below one-year closing high",
-          "Forward/trailing P/E: -16.7",
+          "Forward/trailing P/E: -19.1",
           "Below 50-day average",
           "Valuation evidence incomplete"
         ],
@@ -4530,7 +4530,7 @@
       "coverage": 9,
       "metrics": {
         "pe": null,
-        "forward_pe": -16.666027,
+        "forward_pe": -19.07387,
         "pb": 4.5299444,
         "roe": -0.43232,
         "margin": 0.0,
@@ -4804,7 +4804,7 @@
         "reasons": [
           "RSI(14): 32",
           "29.4% below one-year closing high",
-          "Forward/trailing P/E: 12.0",
+          "Forward/trailing P/E: 12.4",
           "Below 50-day average"
         ],
         "rsi": 32.4,
@@ -4816,7 +4816,7 @@
       "price": 60.52000045776367,
       "as_of": "2026-11-25",
       "scores": {
-        "value": 84,
+        "value": 83,
         "growth": 100,
         "income": 0,
         "speculative": 76
@@ -4827,7 +4827,7 @@
       "coverage": 12,
       "metrics": {
         "pe": 10.488735,
-        "forward_pe": 11.951145,
+        "forward_pe": 12.394173,
         "pb": 3.5665038,
         "roe": 0.44491002,
         "margin": 0.43862,
@@ -4859,7 +4859,7 @@
     {
       "name": "Nasdaq Composite",
       "ticker": "^IXIC",
-      "close": 23585.802734375,
+      "close": 23585.80078125,
       "peak": 27599.7890625,
       "drawdown_pct": -14.54,
       "levels": {
@@ -4889,7 +4889,7 @@
     {
       "name": "Russell 2000",
       "ticker": "^RUT",
-      "close": 2704.06103515625,
+      "close": 2704.06005859375,
       "peak": 3068.419921875,
       "drawdown_pct": -11.87,
       "levels": {
@@ -4934,8 +4934,8 @@
   ],
   "market": {
     "vix": {
-      "value": 28.29,
-      "as_of": "2026-11-25",
+      "value": 26.8,
+      "as_of": "2026-11-26",
       "interpretation": "Elevated volatility expectations"
     },
     "trend": "S&P 500 -8.14% from 1y peak",
