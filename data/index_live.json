@@ -1,47 +1,47 @@
 {
-  "updated_at": "2026-11-27T16:38:21.123387+00:00",
+  "updated_at": "2026-11-27T17:38:18.381173+00:00",
   "source": "Yahoo Finance via yfinance; unofficial, delayed quotes",
   "indices": [
     {
       "name": "S&P 500",
       "ticker": "^GSPC",
-      "price": 7278.0,
-      "as_of": "2026-11-27T16:35:00+00:00",
+      "price": 7283.77,
+      "as_of": "2026-11-27T17:35:00+00:00",
       "session_date": "2026-11-27"
     },
     {
       "name": "Nasdaq Composite",
       "ticker": "^IXIC",
-      "price": 24007.5156,
-      "as_of": "2026-11-27T16:35:00+00:00",
+      "price": 24031.248,
+      "as_of": "2026-11-27T17:35:00+00:00",
       "session_date": "2026-11-27"
     },
     {
       "name": "Dow Jones",
       "ticker": "^DJI",
-      "price": 50741.4219,
-      "as_of": "2026-11-27T16:35:00+00:00",
+      "price": 50771.0117,
+      "as_of": "2026-11-27T17:35:00+00:00",
       "session_date": "2026-11-27"
     },
     {
       "name": "Russell 2000",
       "ticker": "^RUT",
-      "price": 2738.2026,
-      "as_of": "2026-11-27T16:20:00+00:00",
+      "price": 2745.8157,
+      "as_of": "2026-11-27T17:20:00+00:00",
       "session_date": "2026-11-27"
     },
     {
       "name": "RSP (Equal Weight S&P 500)",
       "ticker": "RSP",
-      "price": 217.928,
-      "as_of": "2026-11-27T16:35:00+00:00",
+      "price": 218.085,
+      "as_of": "2026-11-27T17:35:00+00:00",
       "session_date": "2026-11-27"
     },
     {
       "name": "VTI (Total US Market)",
       "ticker": "VTI",
-      "price": 358.0772,
-      "as_of": "2026-11-27T16:35:00+00:00",
+      "price": 358.33,
+      "as_of": "2026-11-27T17:35:00+00:00",
       "session_date": "2026-11-27"
     }
   ]
